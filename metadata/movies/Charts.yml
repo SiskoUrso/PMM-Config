@@ -121,7 +121,7 @@ collections:
     sort_title: ++++++++++++++++++_60s Movies  
     summary: The Best Movies From The 60's
     url_poster: https://theposterdb.com/api/assets/105331
-    url_background: 
+    url_background: https://i.imgur.com/fFo5i88.jpg
 
   70s Movies:
     trakt_list: https://trakt.tv/users/moses456/lists/best-of-the-70-s
