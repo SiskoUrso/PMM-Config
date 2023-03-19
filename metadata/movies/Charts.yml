@@ -1,3 +1,9 @@
+######################################################
+#              SiskoUrso Movie Charts                #
+######################################################
+
+
+
 templates:
   Chart:
     sort_title: +1_<<num>><<collection_name>>
@@ -69,6 +75,8 @@ collections:
     template: { name: Best of, year: 2021, poster: https://theposterdb.com/api/assets/205161 }
   Best of 2022:
     template: { name: Best of, year: 2022, poster: https://theposterdb.com/api/assets/205162 }
+  Best of 2023:
+    template: { name: Best of, year: 2023, poster: https://theposterdb.com/api/assets/205163 }  
 
   Top Ten Pirated Weekly:
     trakt_list: https://trakt.tv/users/hdlists/lists/top-ten-pirated-movies-of-the-week-torrent-freak-com
@@ -79,6 +87,51 @@ collections:
     url_background: https://i.imgur.com/SOVfrIq.png
     url_poster: https://i.imgur.com/dYdjSOu.png
 
+  30s Movies:
+    trakt_list: https://trakt.tv/users/jvanbortel/lists/best-of-the-30s
+    sync_mode: sync
+    smart_label: critic_rating.desc
+    sort_title: ++++++++++++++++++_30s Movies
+    summary: The Best Movies From The 30's
+    url_poster: https://theposterdb.com/api/assets/105675
+    url_background: https://i.imgur.com/BZZFvXz.jpg  
+
+  40s Movies:
+    trakt_list: https://trakt.tv/users/membball84/lists/40-s-movies
+    sync_mode: sync
+    smart_label: critic_rating.desc
+    sort_title: ++++++++++++++++++_40s Movies
+    summary: The Best Movies From The 40's
+    url_poster: https://theposterdb.com/api/assets/105676
+    url_background: https://i.imgur.com/NjWo3fw.jpg  
+
+  50s Movies:
+    trakt_list: https://trakt.tv/users/jvanbortel/lists/best-of-the-50s
+    sync_mode: sync
+    smart_label: critic_rating.desc
+    sort_title: ++++++++++++++++++_50s Movies
+    summary: The Best Movies From The 50's
+    url_poster: https://theposterdb.com/api/assets/105677
+    url_background: https://i.imgur.com/CHPpzEu.jpg 
+
+  60s Movies:
+    trakt_list: https://trakt.tv/users/ceefaxer/lists/film-best-of-the-60-s
+    sync_mode: sync
+    smart_label: critic_rating.desc
+    sort_title: ++++++++++++++++++_60s Movies  
+    summary: The Best Movies From The 60's
+    url_poster: https://theposterdb.com/api/assets/105331
+    url_background: 
+
+  70s Movies:
+    trakt_list: https://trakt.tv/users/moses456/lists/best-of-the-70-s
+    sync_mode: sync
+    smart_label: critic_rating.desc
+    sort_title: ++++++++++++++++++_70s Movies
+    summary: The Best Movies From The 70's  
+    url_poster: https://theposterdb.com/api/assets/105332
+    url_background: https://i.imgur.com/C1j3n6f.png    
+
   80s Movies:
     trakt_list:
      - https://trakt.tv/users/hdlists/lists/rottentomatoes-com-s-best-of-the-80s
@@ -86,16 +139,18 @@ collections:
     smart_label: critic_rating.desc
     sync_mode: sync
     sort_title: ++++++++++++++++++_80s Movies
-    summary: The Best Movies From The 80s
+    summary: The Best Movies From The 80's
     url_poster: https://i.imgur.com/k9c4ieG.png
     url_background: https://i.imgur.com/ITnaga1.jpg
 
   90s Movies:
-    trakt_list: https://trakt.tv/users/hdlists/lists/rottentomatoes-com-s-best-of-the-90s
+    trakt_list: 
+     - https://trakt.tv/users/hdlists/lists/rottentomatoes-com-s-best-of-the-90s
+     - https://trakt.tv/users/jvanbortel/lists/best-of-the-1990s
     sync_mode: sync
     smart_label: critic_rating.desc
     sort_title: ++++++++++++++++++_90s Movies
-    summary: The Best Movies From The 90s
+    summary: The Best Movies From The 90's
     url_poster: https://i.imgur.com/Nq8fxp8.png
     url_background: https://i.imgur.com/g2yfzfx.jpg
 
@@ -121,7 +176,7 @@ collections:
     trakt_list: https://trakt.tv/users/hdlists/lists/most-popular-movies-of-2020
     sync_mode: sync
     smart_label: critic_rating.desc
-    sort_title: ++++++++++++++++++_20z20 Most popular
+    sort_title: ++++++++++++++++++_2020 Most popular
     summary: The Most Popular Movies of 2020
     url_poster: https://i.imgur.com/LLURmaF.png
     url_background: https://i.imgur.com/gO3Rlft.jpg
@@ -134,15 +189,6 @@ collections:
     summary: Reddit's list of top 250 movies from the list made in 2017.
     url_poster: https://i.redd.it/lcm7fe9bnib61.png
 
-  Top Movies of 2021:
-    trakt_list: https://trakt.tv/users/hdlists/lists/top-movies-for-2021
-    sync_mode: sync
-    smart_label: critic_rating.desc
-    sort_title: ++++++++++++++++++_2021 Top Movies
-    summary: Top Movies of 2021
-    url_poster: https://i.imgur.com/qnfjiew.png
-    url_background: https://i.imgur.com/aiRCYHH.jpg
-
   Movies People are Watching:
     trakt_list: https://trakt.tv/users/hdlists/lists/top-films-everyone-s-watching
     sort_title: +++++++++++++++++++++_Everyones Watching
@@ -150,3 +196,13 @@ collections:
     smart_label: year.desc
     summary: Movies That Everyone is Watching
     url_poster: https://i.imgur.com/GQca9tU.png
+
+  IMDB Top 100 Movies:
+    imdb_list: https://www.imdb.com/search/title/?groups=top_100  
+    sync_mode: sync
+    smart_label: critic_rating.desc
+    sort_title: ++++++++++++++++++_IMDB Top 100
+    summary: Top 100 Movies as rated on IMDB
+    url_poster: https://theposterdb.com/api/assets/282397
+    url_background: https://i.imgur.com/lxg5fn4.jpg
+

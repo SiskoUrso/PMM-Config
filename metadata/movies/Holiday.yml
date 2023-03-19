@@ -32,6 +32,7 @@ collections:
       name: Holiday
       start_date: 03/01
       end_date: 03/18
+      poster: https://theposterdb.com/api/assets/219480
     imdb_list: https://www.imdb.com/list/ls063934595/
   Thanksgiving Movies:
     template:
