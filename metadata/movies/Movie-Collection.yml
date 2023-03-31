@@ -1366,8 +1366,6 @@ collections:
     template: {name: Collection, collection: 122952, poster: https://theposterdb.com/api/assets/157589}
   Vampires:
     template: {name: Collection, collection: 348843, poster: https://theposterdb.com/api/assets/179347}
-  Van Helsing:
-    template: {name: Collection, collection: 109608, poster: https://www.themoviedb.org/t/p/original/cdQXwnvvbv2ldGCKpA3QAdwsO9l.jpg}
   Venom:
     template: {name: Collection, collection: 558216, poster: https://theposterdb.com/api/assets/107622}
   Veronica:
