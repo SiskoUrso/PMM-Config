@@ -850,8 +850,6 @@ collections:
     template: {name: Collection, collection: 19163, poster: https://theposterdb.com/api/assets/105457}
   The Last Exorcism:
     template: {name: Collection, collection: 177675, poster: https://theposterdb.com/api/assets/45656}
-  The Last House on the Left:
-    template: {name: Collection, collection: 629830, poster: https://www.themoviedb.org/t/p/original/f3A9w7Gf3bnWULpyraRQtdEOTwz.jpg}
   The Lawnmower Man:
     template: {name: Collection, collection: 124935, poster: https://theposterdb.com/api/assets/68860}
   Legally Blonde:
