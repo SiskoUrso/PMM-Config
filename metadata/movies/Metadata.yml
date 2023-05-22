@@ -4383,7 +4383,10 @@ metadata:
     url_poster: https://theposterdb.com/api/assets/289989  
   "Ant-Man and the Wasp: Quantumania":
     year: 2023
-    url_poster: https://theposterdb.com/api/assets/320500  
+    url_poster: https://theposterdb.com/api/assets/320500
+  "Guardians of the Galaxy Vol. 3": 
+    year: 2023
+    url_poster: https://theposterdb.com/api/assets/330897    
 
   # Marvel/Sony
   Spider-Man:

@@ -54,3 +54,5 @@ collections:
   The X-Files:
     template: {name: Collection, show: "77398, 76245", poster: https://theposterdb.com/api/assets/160390, background: https://i.imgur.com/7JCO6cc.jpg}
     summary: Collection of shows from the X-Files
+  Yellowstone:
+    template: {name: Collection, show: "396390, 416491, 341164", poster: https://theposterdb.com/api/assets/287923, background: https://i.imgur.com/ERQsRwk.jpg}  

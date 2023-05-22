@@ -1433,6 +1433,45 @@ metadata:
         summary: Whereas The X-Files deals mainly with paranormal events and conspiracies to cover up extraterrestrial contact, The Lone Gunmen draws on secret activity of other kinds, such as government-sponsored terrorism, the development of a surveillance society, corporate crime, and escaped Nazis. The show has a light mood and elements of slapstick comedy. The trio are alternately aided and hindered by a mysterious thief named Yves Adele Harlow.
 
 
+  # Yellowstone
+  "1883":
+    year: 2021
+    url_poster: https://theposterdb.com/api/assets/287924
+    seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/287925
+        summary: Special episodes for 1883.
+      1: 
+        url_poster: https://theposterdb.com/api/assets/287926
+
+  "1923":
+    year: 2022
+    url_poster: https://theposterdb.com/api/assets/287927
+    seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/293985
+        summary: Speical episodes for 1923.
+      1: 
+        url_poster: https://theposterdb.com/api/assets/293986
+
+  Yellowstone:
+    year: 2018
+    url_poster: https://theposterdb.com/api/assets/287928
+    seasons: 
+      0:
+        url_poster: https://theposterdb.com/api/assets/293987
+        summary: Special episodes for Yellowstone.
+      1: 
+        url_poster: https://theposterdb.com/api/assets/287929
+      2: 
+        url_poster: https://theposterdb.com/api/assets/287930
+      3: 
+        url_poster: https://theposterdb.com/api/assets/287931
+      4:
+        url_poster: https://theposterdb.com/api/assets/287932
+      5:
+        url_poster: https://theposterdb.com/api/assets/287933                          
+
 
 
 
