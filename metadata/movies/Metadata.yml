@@ -106,6 +106,74 @@ metadata:
   The Addams Family 2:
     url_poster: https://theposterdb.com/api/assets/188293
 
+  # The Adventures of Young Indiana Jones
+  "The Adventures of Young Indiana Jones: Mystery of the Blues":
+    year: 1993
+    url_poster: https://theposterdb.com/api/assets/375208
+  "The Adventures of Young Indiana Jones: The Phantom Train of Doom":
+    year: 1993
+    url_poster: https://theposterdb.com/api/assets/375209
+  "The Adventures of Young Indiana Jones: Hollywood Follies":
+    year: 1994
+    url_poster: https://theposterdb.com/api/assets/375210
+  "The Adventures of Young Indiana Jones: Treasure of the Peacock's Eye":
+    year: 1995
+    url_poster: https://theposterdb.com/api/assets/375211
+  "The Adventures of Young Indiana Jones: Attack of the Hawkmen":
+    year: 1995
+    url_poster: https://theposterdb.com/api/assets/375212
+  "The Adventures of Young Indiana Jones: Travels with Father":
+    year: 1996
+    url_poster: https://theposterdb.com/api/assets/375213
+  "The Adventures of Young Indiana Jones: Scandal of 1920":
+    year: 1999
+    url_poster: https://theposterdb.com/api/assets/375214
+  "The Adventures of Young Indiana Jones: Winds of Change":
+    year: 1999
+    url_poster: https://theposterdb.com/api/assets/375215
+  "The Adventures of Young Indiana Jones: Espionage Escapades":
+    year: 1999
+    url_poster: https://theposterdb.com/api/assets/375216
+  "The Adventures of Young Indiana Jones: Tales of Innocence":
+    year: 1999
+    url_poster: https://theposterdb.com/api/assets/375217
+  "The Adventures of Young Indiana Jones: Spring Break Adventure":
+    year: 1999
+    url_poster: https://theposterdb.com/api/assets/375218
+  "The Adventures of Young Indiana Jones: Trenches of Hell":
+    year: 1999
+    url_poster: https://theposterdb.com/api/assets/375219
+  "The Adventures of Young Indiana Jones: Demons of Deception":
+    year: 1999
+    url_poster: https://theposterdb.com/api/assets/375220
+  "The Adventures of Young Indiana Jones: Oganga, The Giver and Taker of Life":
+    year: 1999
+    url_poster: https://theposterdb.com/api/assets/375221
+  "The Adventures of Young Indiana Jones: Adventures in the Secret Service":
+    year: 1999
+    url_poster: https://theposterdb.com/api/assets/375222
+  "The Adventures of Young Indiana Jones: Daredevils of the Desert":
+    year: 1999
+    url_poster: https://theposterdb.com/api/assets/375223
+  "The Adventures of Young Indiana Jones: Masks of Evil":
+    year: 1999
+    url_poster: https://theposterdb.com/api/assets/375224
+  "The Adventures of Young Indiana Jones: My First Adventure":
+    year: 2000
+    url_poster: https://theposterdb.com/api/assets/375225
+  "The Adventures of Young Indiana Jones: Passion for Life":
+    year: 2000
+    url_poster: https://theposterdb.com/api/assets/375226
+  "The Adventures of Young Indiana Jones: Journey of Radiance":
+    year: 2000
+    url_poster: https://theposterdb.com/api/assets/375227
+  "The Adventures of Young Indiana Jones: The Perils of Cupid":
+    year: 2000
+    url_poster: https://theposterdb.com/api/assets/375228
+  "The Adventures of Young Indiana Jones: Love's Sweet Strongest":
+    year: 2000
+    url_poster: https://theposterdb.com/api/assets/375229                                            
+
   # Air Bud
   Air Bud:
     url_poster: https://theposterdb.com/api/assets/96173

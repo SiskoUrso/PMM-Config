@@ -25,11 +25,13 @@ collections:
   C.S.I:
     template: {name: Collection, show: "72546, 78310, 73696, 281551, 400248", poster: https://theposterdb.com/api/assets/102143, background: https://i.imgur.com/cMZZTI1.jpg}
     summary: Collection of CSI Tv Shows
+  Dragon Ball:
+    template: {name: Collection, show: "76666, 81472, 79275, 88031, 295068, 347734", poster: https://theposterdb.com/api/assets/127755, background: https://i.imgur.com/gcdjTYX.png}  
   Law & Order:
     template: {name: Collection, show: "72368, 75692, 71489, 328518, 74191, 168161, 383397", poster: https://theposterdb.com/api/assets/57562, background: https://i.imgur.com/6ovPJNP.jpg}
     summary: Collection of Law & Order Series.
   Marvel Television:
-    template: {name: Collection, show: "263365, 281485, 320558, 281662, 284190, 304219, 317953, 326490, 331980, 332027, 341455, 364038, 362392, 362496, 362472, 367147, 368613, 368612, 393204, 393203, 368611, 367146, 393205, 393201, 412429, 412428, 412431, 361834, 361835, 367227, 92782, 92783", poster: https://theposterdb.com/api/assets/19667, background: https://i.imgur.com/MFpNkHm.jpg}
+    template: {name: Collection, show: "263365, 281485, 320558, 281662, 284190, 304219, 317953, 326490, 331980, 332027, 341455, 364038, 362392, 362496, 362472, 367147, 368613, 368612, 393204, 393203, 368611, 367146, 393205, 393201, 412429, 412428, 412431, 361834, 361835, 367227, 92782, 92783, 114472", poster: https://theposterdb.com/api/assets/19667, background: https://i.imgur.com/MFpNkHm.jpg}
     summary: Collection of shows in the Marvel TV Universe.
   Narcos:
     template: {name: Collection, show: "282670, 353232", poster: https://theposterdb.com/api/assets/196849, background: https://i.imgur.com/RUqzj0C.jpg}
@@ -49,7 +51,7 @@ collections:
     template: {name: Collection, show: "393199, 393187, 380352, 393218, 361753, 393589, 393189, 393188, 83867", poster: https://theposterdb.com/api/assets/39679, background: https://i.imgur.com/GdLMZko.jpg}
     summary: Collection of Star Wars TV Series.
   The Walking Dead:
-    template: {name: Collection, show: "153021, 290853, 372787, 411314, 252861", poster: https://theposterdb.com/api/assets/128886, background: https://i.imgur.com/xRsOWt5.jpg}
+    template: {name: Collection, show: "153021, 290853, 372787, 411314, 252861, 417549, 427464, 427202", poster: https://theposterdb.com/api/assets/373633, background: https://i.imgur.com/xRsOWt5.jpg}
     summary: Collection of Walking Dead TV Shows.
   The X-Files:
     template: {name: Collection, show: "77398, 76245", poster: https://theposterdb.com/api/assets/160390, background: https://i.imgur.com/7JCO6cc.jpg}

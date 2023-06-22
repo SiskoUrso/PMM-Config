@@ -50,6 +50,8 @@ collections:
     template: {name: Collection, collection: 3167, poster: https://theposterdb.com/api/assets/6612}
   Addams Family:
     template: {name: Collection, collection: "11716, 750822", poster: https://theposterdb.com/api/assets/53152}
+  The Adventures of Young Indiana Jones:
+    template: {name: Collection, collection: 222049, poster: https://theposterdb.com/api/assets/375207}  
   Air Bud:
     template: {name: Collection, collection: 97445, poster: https://theposterdb.com/api/assets/96172}
   Airplane:
@@ -191,8 +193,6 @@ collections:
     template: {name: Collection, collection: 626517, poster: https://theposterdb.com/api/assets/40489}
   Batman Beyond:
     template: {name: Collection, collection: 379475, poster: https://theposterdb.com/api/assets/99085}
-  "Batman: Under the Red Hood":
-    template: {name: Collection, collection: 846090, poster: https://theposterdb.com/api/assets/191025}
   Batman Unlimited:
     template: {name: Collection, collection: 356688, poster: https://theposterdb.com/api/assets/193416}
   Battle Royale:

@@ -261,6 +261,119 @@ metadata:
         url_poster: https://theposterdb.com/api/assets/195241
         summary: CSI Vegas is an American crime television series that debuted on CBS on October 6, 2021. It is a sequel to the long-running series CSI Crime Scene Investigation, and the fifth series in the CSI franchise. The first season stars William Petersen and Jorja Fox as Gil Grissom and Sara Sidle, reprising their roles from CSI Crime Scene Investigation, while Paula Newsome, Matt Lauria, Mel Rodriguez, and Mandeep Dhillon portray new characters. Wallace Langham and Paul Guilfoyle also reprise their roles as David Hodges and Jim Brass, being credited as guest stars. Originally branded as an epilogue limited series, a second season was renewed in December 2021, without Fox, Petersen, or Rodriguez returning.
 
+  # Dragon Ball - https://theposterdb.com/set/79631
+  Dragon Ball:
+    year: 1986
+    url_poster: https://theposterdb.com/api/assets/127756
+    seasons: 
+      0: 
+        url_poster: https://theposterdb.com/api/assets/127757
+      1:
+        url_poster: https://theposterdb.com/api/assets/127758
+      2: 
+        url_poster: https://theposterdb.com/api/assets/127759
+      3: 
+        url_poster: https://theposterdb.com/api/assets/127760
+      4:
+        url_poster: https://theposterdb.com/api/assets/127761
+      5: 
+        url_poster: https://theposterdb.com/api/assets/127762
+      6: 
+        url_poster: https://theposterdb.com/api/assets/127763
+
+  Dragon Ball Z: 
+    year: 1989
+    url_poster: https://theposterdb.com/api/assets/127764
+    seasons: 
+      0: 
+        url_poster: https://theposterdb.com/api/assets/127765
+      1: 
+        url_poster: https://theposterdb.com/api/assets/127766     
+      2: 
+        url_poster: https://theposterdb.com/api/assets/127767
+      3: 
+        url_poster: https://theposterdb.com/api/assets/127768
+      4: 
+        url_poster: https://theposterdb.com/api/assets/127769
+      5: 
+        url_poster: https://theposterdb.com/api/assets/127770
+      6: 
+        url_poster: https://theposterdb.com/api/assets/127771
+      7: 
+        url_poster: https://theposterdb.com/api/assets/127772
+      8: 
+        url_poster: https://theposterdb.com/api/assets/127773
+      9: 
+        url_poster: https://theposterdb.com/api/assets/127774
+
+  Dragon Ball GT: 
+    year: 1996
+    url_poster: https://theposterdb.com/api/assets/127784
+    seasons: 
+      0: 
+        url_poster: https://theposterdb.com/api/assets/127785  
+      1: 
+        url_poster: https://theposterdb.com/api/assets/127786
+      2: 
+        url_poster: https://theposterdb.com/api/assets/127787
+      3: 
+        url_poster: https://theposterdb.com/api/assets/127788
+
+  Dragon Ball Z Kai: 
+    year: 2009
+    url_poster: https://theposterdb.com/api/assets/127775
+    seasons: 
+      0: 
+        url_poster: https://theposterdb.com/api/assets/127776
+      1: 
+        url_poster: https://theposterdb.com/api/assets/127777
+      2: 
+        url_poster: https://theposterdb.com/api/assets/127778
+      3: 
+        url_poster: https://theposterdb.com/api/assets/127779
+      4: 
+        url_poster: https://theposterdb.com/api/assets/127780
+      5: 
+        url_poster: https://theposterdb.com/api/assets/127781
+      6: 
+        url_poster: https://theposterdb.com/api/assets/127782
+      7: 
+        url_poster: https://theposterdb.com/api/assets/127783
+
+  Dragon Ball Super: 
+    year: 2015
+    url_poster: https://theposterdb.com/api/assets/127789
+    seasons: 
+      0: 
+        url_poster: https://theposterdb.com/api/assets/127790
+      1: 
+        url_poster: https://theposterdb.com/api/assets/127791
+      2: 
+        url_poster: https://theposterdb.com/api/assets/127792
+      3: 
+        url_poster: https://theposterdb.com/api/assets/127793
+      4: 
+        url_poster: https://theposterdb.com/api/assets/127794
+      5: 
+        url_poster: https://theposterdb.com/api/assets/127795
+
+  Super Dragon Ball Heroes:
+    year: 2018
+    url_poster: https://theposterdb.com/api/assets/127796
+    seasons: 
+      0: 
+        url_poster: https://theposterdb.com/api/assets/127797
+      1: 
+        url_poster: https://theposterdb.com/api/assets/127798
+      2: 
+        url_poster: https://theposterdb.com/api/assets/127799
+      3: 
+        url_poster: https://theposterdb.com/api/assets/127800
+      4: 
+        url_poster: https://theposterdb.com/api/assets/140890
+      5: 
+        url_poster: https://theposterdb.com/api/assets/216800                                                                         
+
   # Law & Order - https://theposterdb.com/poster/57704
   Law & Order:
     year: 1990
@@ -635,6 +748,13 @@ metadata:
         url_poster: https://theposterdb.com/api/assets/105794
         summary: Helstrom is an American television series created by Paul Zbyszewski for the streaming service Hulu, based on the Marvel Comics characters Daimon and Satana Hellstrom.
 
+  Marvel's 616:
+    year: 2020
+    url_poster: https://theposterdb.com/api/assets/177215
+    seasons:
+      1:
+        summary: Marvel's 616 portrays eight amazing stories illustrating some of the most interesting and unknown pockets of the Marvel Universe. It also explores the universe's "rich legacy of pioneering characters, creators, and storytelling to reflect the world outside your window."        
+
   WandaVision:
     year: 2021
     url_poster: https://theposterdb.com/api/assets/124166
@@ -684,13 +804,6 @@ metadata:
       1:
         summary: Hit-Monkey is a wronged Japanese macaque who is mentored by the ghost of an American assassin named Bryce Fowler as he damages Tokyo's crime underworld.
 
-  Marvel's 616:
-    year: 2020
-    url_poster: https://theposterdb.com/api/assets/177215
-    seasons:
-      1:
-        summary: Marvel's 616 portrays eight amazing stories illustrating some of the most interesting and unknown pockets of the Marvel Universe. It also explores the universe's "rich legacy of pioneering characters, creators, and storytelling to reflect the world outside your window."
-
   Moon Knight:
     year: 2022
     url_poster: https://theposterdb.com/api/assets/224312
@@ -718,6 +831,13 @@ metadata:
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/256490
+
+  Secret Invasion:
+    year: 2023
+    url_poster: https://theposterdb.com/api/assets/358848
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/376690      
 
   # NCIS - https://theposterdb.com/set/111224
   JAG:
@@ -1043,6 +1163,8 @@ metadata:
         summary: At the end of the 24th century, and fourteen years after his retirement from Starfleet, Jean-Luc Picard is living a quiet life on his vineyard, assisted by his two Romulan friends and housekeepers Laris and Zhaban. After Dahj Asha comes to him for help, Picard finds reason to believe Dahj is connected to Data and feels compelled to help her, but she is killed by a mysterious force.
       2:
         url_poster: https://theposterdb.com/api/assets/233023
+      3: 
+        url_poster: https://theposterdb.com/api/assets/345308  
 
   "Star Trek: Lower Decks":
     year: 2020
@@ -1312,7 +1434,7 @@ metadata:
   # The Walking Dead - https://theposterdb.com/set/67802
   The Walking Dead:
     year: 2010
-    url_poster: https://theposterdb.com/api/assets/108039
+    url_poster: https://theposterdb.com/api/assets/373644
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/12394
@@ -1344,40 +1466,69 @@ metadata:
       10:
         url_poster: https://theposterdb.com/api/assets/22511
         summary: This season adapts material from issues 145–174 of the comic book series and focuses on the group's preparation and war against the Whisperers. Set several months after the massacre perpetrated by Alpha (Samantha Morton) during the community fair, the season focuses on the united communities as they initiate a fight in order to end the threat of the Whisperers.
+      11:
+        url_poster: https://theposterdb.com/api/assets/220016
+        summary: This season adapts material from issues 175–193 of the comic book series and focuses on the group's encounter with the Commonwealth, a large network of communities that has advanced equipment and over fifty thousand survivors living in their settlements. Additionally, the season also focuses on the group's confrontation with the Reapers, a mysterious faction of hostile survivors that attacked and took Meridian, the former home of Maggie (Lauren Cohan) and her new people, the Wardens.   
 
   Fear the Walking Dead:
     year: 2015
-    url_poster: https://theposterdb.com/api/assets/108041
+    url_poster: https://theposterdb.com/api/assets/373634
     seasons:
       0:
-        url_poster: https://theposterdb.com/api/assets/128801
+        url_poster: https://theposterdb.com/api/assets/373635
         summary: Special epsidoes for Fear the Walking Dead.
       1:
-        url_poster: https://theposterdb.com/api/assets/128802
+        url_poster: https://theposterdb.com/api/assets/373636
         summary: The season follows a dysfunctional, blended family composed of Madison Clark (Kim Dickens), her fiancé Travis Manawa (Cliff Curtis), her daughter Alicia (Alycia Debnam-Carey), her drug-addicted son Nick (Frank Dillane) and Travis' son Chris (Lorenzo James Henrie) from a previous marriage to Liza Ortiz (Elizabeth Rodriguez). At the onset of the zombie apocalypse, their group is joined by Daniel Salazar (Rubén Blades), his wife Griselda (Patricia Reyes Spíndola), and their daughter Ofelia (Mercedes Mason). The families navigate through Los Angeles in search of a safe haven.
       2:
-        url_poster: https://theposterdb.com/api/assets/128803
+        url_poster: https://theposterdb.com/api/assets/373637
         summary: The season follows a dysfunctional, blended family composed of Madison Clark (Kim Dickens), her fiancé Travis Manawa (Cliff Curtis), her daughter Alicia (Alycia Debnam-Carey), her drug-addicted son Nick (Frank Dillane) and Travis' son Chris (Lorenzo James Henrie). At the onset of the zombie apocalypse, their group includes Victor Strand (Colman Domingo), a smart and sophisticated conman-turned-businessman, Daniel Salazar (Rubén Blades) and his daughter Ofelia (Mercedes Mason). This season follows the group as they escape land for the sea, and their eventual journey to Mexico.
       3:
-        url_poster: https://theposterdb.com/api/assets/128804
+        url_poster: https://theposterdb.com/api/assets/373638
         summary: The season follows a dysfunctional, blended family composed of Madison Clark (Kim Dickens), her fiancé Travis Manawa (Cliff Curtis), her daughter Alicia (Alycia Debnam-Carey), her drug-addicted son Nick (Frank Dillane) and his lover Luciana Galvez (Danay García), as they reach the U.S.-Mexico border and find refuge on a ranch owned by the Otto family, consisting of patriarch Jeremiah Otto (Dayton Callie) and his two sons Troy (Daniel Sharman) and Jake (Sam Underwood). Meanwhile, Victor Strand (Colman Domingo) reunites with Daniel Salazar (Rubén Blades), who was presumed dead, who returns to find his daughter Ofelia (Mercedes Mason) who was separated from the group.
       4:
-        url_poster: https://theposterdb.com/api/assets/128805
+        url_poster: https://theposterdb.com/api/assets/373639
         summary: The season marks a departure from the previous entries, with the story shifting from being a prequel to running concurrently with The Walking Dead. In addition to the group of Madison Clark (Kim Dickens), her daughter Alicia (Alycia Debnam-Carey), her drug-addicted son Nick (Frank Dillane), his lover Luciana Galvez (Danay García), and grifter Victor Strand (Colman Domingo) from the previous seasons, the story follows original series character Morgan Jones (Lennie James) as he encounters them amid their conflict with the antagonistic Vultures. Several new characters are also introduced in the fourth season, including journalist Althea Szewczyk-Przygocki (Maggie Grace), police officer John Dorie (Garret Dillahunt), and nurse June (Jenna Elfman).
       5:
-        url_poster: https://theposterdb.com/api/assets/128806
+        url_poster: https://theposterdb.com/api/assets/373640
         summary: The season follows the group of survivors led by Morgan Jones (Lennie James) and Alicia Clark (Alycia Debnam-Carey) as they search for other survivors, looking to provide help for others in an effort to make up for the wrongdoings from their pasts.
       6:
-        url_poster: https://theposterdb.com/api/assets/128807
+        url_poster: https://theposterdb.com/api/assets/373641
         summary: The season follows Morgan Jones (Lennie James) who has been left for dead by Virginia (Colby Minifie), while the remaining members of Morgan's group have been separated by Virginia and her Pioneers and are dispersed across her various settlements. The season also features multiple time jumps.
+      7: 
+        url_poster: https://theposterdb.com/api/assets/373642
+        summary: The season follows Morgan's group scattered across the landscape of Texas as they try to survive the nuclear fallout brought about by Teddy (John Glover) and his followers. Meanwhile, Morgan Jones (Lennie James) and Victor Strand (Colman Domingo) clash over their philosophies. 
+      8: 
+        url_poster: https://theposterdb.com/api/assets/373643
+        summary: The season takes place seven years after the previous season and has the characters living on the island known as PADRE.   
 
   "The Walking Dead: World Beyond":
     year: 2020
-    url_poster: https://theposterdb.com/api/assets/109050
+    url_poster: https://theposterdb.com/api/assets/373659
     seasons:
       1:
-        url_poster: https://theposterdb.com/api/assets/129843
+        url_poster: https://theposterdb.com/api/assets/373660
         summary: The series, set in Nebraska ten years after the zombie apocalypse, features four teenage protagonists and focuses on "the first generation to come-of-age in the apocalypse as we know it. Some will become heroes. Some will become villains. In the end, all of them will be changed forever. Grown-up and cemented in their identities, both good and bad.
+      2: 
+        url_poster: https://theposterdb.com/api/assets/373661
+
+  Tales of the Walking Dead":
+    year: 2022
+    url_poster: https://theposterdb.com/api/assets/373738
+    seasons: 
+      1: 
+        url_poster: https://theposterdb.com/api/assets/373739
+
+  "The Walking Dead: Dead City":
+    year: 2023
+    url_poster: https://theposterdb.com/api/assets/373657
+    seasons:
+      0: 
+        url_poster: https://theposterdb.com/api/assets/373752
+        summary: Special epsidoes for The Walking Dead Dead City. 
+      1: 
+        url_poster: https://theposterdb.com/api/assets/373658
+        summary: The series follows Maggie and Negan traveling into a post-apocalyptic Manhattan cut off from the mainland in search of Maggie's kidnapped son, Hershel. The crumbling city is filled with the dead and denizens who have made New York City their own world full of anarchy, danger, beauty, and terror.             
 
   # The X-Files - Summaries sourced from wikipedia
   The X-Files:
@@ -2115,6 +2266,34 @@ metadata:
       3:
         url_poster: https://theposterdb.com/api/assets/237375
 
+  Mike Judge's Beavis and Butt-Head:
+    year: 2022
+    url_poster: https://theposterdb.com/api/assets/352415
+    seasons: 
+      1: 
+        url_poster: https://theposterdb.com/api/assets/352390
+      2: 
+        url_poster: https://theposterdb.com/api/assets/352391     
+
+  # NBC
+  Community:
+    year: 2009
+    url_poster: https://theposterdb.com/api/assets/306904
+    seasons:
+      0: 
+        url_poster: https://theposterdb.com/api/assets/306780
+      1: 
+        url_poster: https://theposterdb.com/api/assets/306781
+      2: 
+        url_poster: https://theposterdb.com/api/assets/306782
+      3: 
+        url_poster: https://theposterdb.com/api/assets/306783
+      4: 
+        url_poster: https://theposterdb.com/api/assets/306784
+      5: 
+        url_poster: https://theposterdb.com/api/assets/306785
+      6: 
+        url_poster: https://theposterdb.com/api/assets/306786       
 
   # Netflix
   All of Us Are Dead:
@@ -2197,6 +2376,8 @@ metadata:
         url_poster: https://theposterdb.com/api/assets/65289
       5:
         url_poster: https://theposterdb.com/api/assets/65290
+      6: 
+        url_poster: https://theposterdb.com/api/assets/374011 
 
   "The Dark Crystal: Age of Resistance":
     year: 2019
@@ -2268,3 +2449,27 @@ metadata:
       2:
         url_poster: https://theposterdb.com/api/assets/199154
         summary: The second season, also consisting of eight episodes, was released on December 17, 2021.
+
+# SyFy
+Warehouse 13: 
+  year: 2009
+  url_poster: https://theposterdb.com/api/assets/104555
+  seasons: 
+    0: 
+      url_poster: https://theposterdb.com/api/assets/104556
+      summary: Special and Extras for Warehouse 13
+    1: 
+      url_poster: https://theposterdb.com/api/assets/104557
+      summary: At the beginning of season one, Pete and Myka, two secret service agents protecting the president, were transferred against their will to the remote Badlands Wilderness in South Dakota. They were given a job at Warehouse 13 to preserve and retrieve various talisman artifacts worldwide under the supervision of Dr. Artie Nielsen.      
+    2: 
+      url_poster: https://theposterdb.com/api/assets/104558
+      summary: Season two begins right after the events of the season finale of season one. Pete and Myka find that Artie has survived the explosion thanks to the Phoenix artifact, which was slipped into his pocket by MacPherson during their struggle. Though the Phoenix saves Artie from the explosion, in exchange, it causes Mrs. Frederic's driver to die and then explode, with Mrs. Frederic barely surviving by jumping out of the car before the explosion.
+    3: 
+      url_poster: https://theposterdb.com/api/assets/104559
+      summary: The third season of the American television series Warehouse 13 premiered on July 11, 2011, on Syfy. The season consists of 13 episodes.
+    4: 
+      url_poster: https://theposterdb.com/api/assets/104560
+      summary: The fourth season of the American television series Warehouse 13 premiered on July 23, 2012, on Syfy.[2] The season consists of 20 episodes, and aired on Mondays.
+    5: 
+      url_poster: https://theposterdb.com/api/assets/104561
+      summary: The fifth and final season of the American television series Warehouse 13 premiered on April 14, 2014 and ended on May 19, 2014 on Syfy.
