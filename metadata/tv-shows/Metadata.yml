@@ -2450,26 +2450,26 @@ metadata:
         url_poster: https://theposterdb.com/api/assets/199154
         summary: The second season, also consisting of eight episodes, was released on December 17, 2021.
 
-# SyFy
-Warehouse 13: 
-  year: 2009
-  url_poster: https://theposterdb.com/api/assets/104555
-  seasons: 
-    0: 
-      url_poster: https://theposterdb.com/api/assets/104556
-      summary: Special and Extras for Warehouse 13
-    1: 
-      url_poster: https://theposterdb.com/api/assets/104557
-      summary: At the beginning of season one, Pete and Myka, two secret service agents protecting the president, were transferred against their will to the remote Badlands Wilderness in South Dakota. They were given a job at Warehouse 13 to preserve and retrieve various talisman artifacts worldwide under the supervision of Dr. Artie Nielsen.      
-    2: 
-      url_poster: https://theposterdb.com/api/assets/104558
-      summary: Season two begins right after the events of the season finale of season one. Pete and Myka find that Artie has survived the explosion thanks to the Phoenix artifact, which was slipped into his pocket by MacPherson during their struggle. Though the Phoenix saves Artie from the explosion, in exchange, it causes Mrs. Frederic's driver to die and then explode, with Mrs. Frederic barely surviving by jumping out of the car before the explosion.
-    3: 
-      url_poster: https://theposterdb.com/api/assets/104559
-      summary: The third season of the American television series Warehouse 13 premiered on July 11, 2011, on Syfy. The season consists of 13 episodes.
-    4: 
-      url_poster: https://theposterdb.com/api/assets/104560
-      summary: The fourth season of the American television series Warehouse 13 premiered on July 23, 2012, on Syfy.[2] The season consists of 20 episodes, and aired on Mondays.
-    5: 
-      url_poster: https://theposterdb.com/api/assets/104561
-      summary: The fifth and final season of the American television series Warehouse 13 premiered on April 14, 2014 and ended on May 19, 2014 on Syfy.
+  # SyFy
+  Warehouse 13: 
+    year: 2009
+    url_poster: https://theposterdb.com/api/assets/104555
+    seasons: 
+      0: 
+        url_poster: https://theposterdb.com/api/assets/104556
+        summary: Special and Extras for Warehouse 13
+      1: 
+        url_poster: https://theposterdb.com/api/assets/104557
+        summary: At the beginning of season one, Pete and Myka, two secret service agents protecting the president, were transferred against their will to the remote Badlands Wilderness in South Dakota. They were given a job at Warehouse 13 to preserve and retrieve various talisman artifacts worldwide under the supervision of Dr. Artie Nielsen.      
+      2: 
+        url_poster: https://theposterdb.com/api/assets/104558
+        summary: Season two begins right after the events of the season finale of season one. Pete and Myka find that Artie has survived the explosion thanks to the Phoenix artifact, which was slipped into his pocket by MacPherson during their struggle. Though the Phoenix saves Artie from the explosion, in exchange, it causes Mrs. Frederic's driver to die and then explode, with Mrs. Frederic barely surviving by jumping out of the car before the explosion.
+      3: 
+        url_poster: https://theposterdb.com/api/assets/104559
+        summary: The third season of the American television series Warehouse 13 premiered on July 11, 2011, on Syfy. The season consists of 13 episodes.
+      4: 
+        url_poster: https://theposterdb.com/api/assets/104560
+        summary: The fourth season of the American television series Warehouse 13 premiered on July 23, 2012, on Syfy.[2] The season consists of 20 episodes, and aired on Mondays.
+      5: 
+        url_poster: https://theposterdb.com/api/assets/104561
+        summary: The fifth and final season of the American television series Warehouse 13 premiered on April 14, 2014 and ended on May 19, 2014 on Syfy.
