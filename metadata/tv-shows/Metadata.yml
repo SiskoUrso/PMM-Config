@@ -2498,6 +2498,25 @@ metadata:
         url_poster: https://theposterdb.com/api/assets/352391     
 
   # NBC
+  30 Rock: 
+    year: 2006
+    url_poster: https://theposterdb.com/api/assets/133712
+    seasons: 
+      1: 
+        url_poster: https://theposterdb.com/api/assets/134094
+      2: 
+        url_poster: https://theposterdb.com/api/assets/134095
+      3: 
+        url_poster: https://theposterdb.com/api/assets/134096
+      4: 
+        url_poster: https://theposterdb.com/api/assets/134097
+      5: 
+        url_poster: https://theposterdb.com/api/assets/134098
+      6: 
+        url_poster: https://theposterdb.com/api/assets/134099
+      7: 
+        url_poster: https://theposterdb.com/api/assets/134100            
+
   Cheers:
     year: 1982
     url_poster: https://theposterdb.com/api/assets/94763
@@ -2544,7 +2563,53 @@ metadata:
       5: 
         url_poster: https://theposterdb.com/api/assets/306785
       6: 
-        url_poster: https://theposterdb.com/api/assets/306786    
+        url_poster: https://theposterdb.com/api/assets/306786  
+
+  Frasier:
+    year: 1993
+    url_poster: https://theposterdb.com/api/assets/295076
+    seasons:  
+      1: 
+        url_poster: https://theposterdb.com/api/assets/295062
+      2: 
+        url_poster: https://theposterdb.com/api/assets/295063
+      3: 
+        url_poster: https://theposterdb.com/api/assets/295064
+      4: 
+        url_poster: https://theposterdb.com/api/assets/295065
+      5: 
+        url_poster: https://theposterdb.com/api/assets/295066
+      6: 
+        url_poster: https://theposterdb.com/api/assets/295067
+      7: 
+        url_poster: https://theposterdb.com/api/assets/295068
+      8: 
+        url_poster: https://theposterdb.com/api/assets/295069
+      9: 
+        url_poster: https://theposterdb.com/api/assets/295070
+      10: 
+        url_poster: https://theposterdb.com/api/assets/295071
+      11: 
+        url_poster: https://theposterdb.com/api/assets/295071                         
+
+  The Fresh Prince of Bel-Air:
+    year: 1990
+    url_poster: https://theposterdb.com/api/assets/302206
+    seasons: 
+      0: 
+        url_poster: https://theposterdb.com/api/assets/302207
+      1: 
+        url_poster: https://theposterdb.com/api/assets/302208
+      2: 
+        url_poster: https://theposterdb.com/api/assets/302209
+      3: 
+        url_poster: https://theposterdb.com/api/assets/302210
+      4: 
+        url_poster: https://theposterdb.com/api/assets/302211
+      5: 
+        url_poster: https://theposterdb.com/api/assets/302212
+      6: 
+        url_poster: https://theposterdb.com/api/assets/302213                    
 
   The Good Place:
     year: 2016
@@ -2560,6 +2625,36 @@ metadata:
         url_poster: https://theposterdb.com/api/assets/71850
       4: 
         url_poster: https://theposterdb.com/api/assets/71851 
+
+  My Name Is Earl:
+    year: 2005
+    url_poster: https://theposterdb.com/api/assets/191052
+    seasons:     
+      1: 
+        url_poster: https://theposterdb.com/api/assets/265533
+      2: 
+        url_poster: https://theposterdb.com/api/assets/265534
+      3: 
+        url_poster: https://theposterdb.com/api/assets/265535
+      4: 
+        url_poster: https://theposterdb.com/api/assets/265536        
+
+  NewsRadio:
+    year: 1995
+    url_poster: https://theposterdb.com/api/assets/155991
+    seasons: 
+      0: 
+        url_poster: https://theposterdb.com/api/assets/155992  
+      1: 
+        url_poster: https://theposterdb.com/api/assets/155993
+      2: 
+        url_poster: https://theposterdb.com/api/assets/155994
+      3: 
+        url_poster: https://theposterdb.com/api/assets/155995
+      4: 
+        url_poster: https://theposterdb.com/api/assets/155996
+      5: 
+        url_poster: https://theposterdb.com/api/assets/155997              
 
   Night Court:
     year: 1984
@@ -2618,7 +2713,28 @@ metadata:
       8: 
         url_poster: https://theposterdb.com/api/assets/135993
       9: 
-        url_poster: https://theposterdb.com/api/assets/135994                              
+        url_poster: https://theposterdb.com/api/assets/135994   
+        
+  Parks and Recreation: 
+    year: 2009
+    url_poster: https://theposterdb.com/api/assets/256036
+    seasons:     
+      0: 
+        url_poster: https://theposterdb.com/api/assets/256037
+      1: 
+        url_poster: https://theposterdb.com/api/assets/256038
+      2: 
+        url_poster: https://theposterdb.com/api/assets/256039
+      3: 
+        url_poster: https://theposterdb.com/api/assets/256040
+      4: 
+        url_poster: https://theposterdb.com/api/assets/256041
+      5: 
+        url_poster: https://theposterdb.com/api/assets/256042
+      6: 
+        url_poster: https://theposterdb.com/api/assets/256043
+      7: 
+        url_poster: https://theposterdb.com/api/assets/256044   
 
   Punky Brewster:
     year: 1984
@@ -2654,7 +2770,88 @@ metadata:
     url_poster: https://theposterdb.com/api/assets/266828
     seasons: 
       1: 
-        url_poster: https://theposterdb.com/api/assets/266829                                                                   
+        url_poster: https://theposterdb.com/api/assets/266829
+
+  Scrubs:
+    year: 2001
+    url_poster: https://theposterdb.com/api/assets/47016
+    seasons: 
+      0:
+        url_poster: https://theposterdb.com/api/assets/47073
+      1: 
+        url_poster: https://theposterdb.com/api/assets/47017
+      2: 
+        url_poster: https://theposterdb.com/api/assets/47018
+      3: 
+        url_poster: https://theposterdb.com/api/assets/47019
+      4: 
+        url_poster: https://theposterdb.com/api/assets/47020
+      5: 
+        url_poster: https://theposterdb.com/api/assets/47021
+      6: 
+        url_poster: https://theposterdb.com/api/assets/47022
+      7: 
+        url_poster: https://theposterdb.com/api/assets/47023
+      8: 
+        url_poster: https://theposterdb.com/api/assets/47024
+      9: 
+        url_poster: https://theposterdb.com/api/assets/47074                        
+
+  Seinfeld:
+    year: 1989
+    url_poster: https://theposterdb.com/api/assets/80166
+    seasons: 
+      0: 
+        url_poster: https://theposterdb.com/api/assets/320808
+      1: 
+        url_poster: https://theposterdb.com/api/assets/320809
+      2: 
+        url_poster: https://theposterdb.com/api/assets/320810
+      3: 
+        url_poster: https://theposterdb.com/api/assets/320811
+      4: 
+        url_poster: https://theposterdb.com/api/assets/320812
+      5: 
+        url_poster: https://theposterdb.com/api/assets/320813
+      6: 
+        url_poster: https://theposterdb.com/api/assets/320814
+      7: 
+        url_poster: https://theposterdb.com/api/assets/320815
+      8: 
+        url_poster: https://theposterdb.com/api/assets/320816
+      9: 
+        url_poster: https://theposterdb.com/api/assets/320817                        
+
+  Unsolved Mysteries:
+    year: 1988
+    url_poster: https://theposterdb.com/api/assets/219267
+    seasons: 
+      0: 
+        url_poster: https://theposterdb.com/api/assets/219269
+      1: 
+        url_poster: https://theposterdb.com/api/assets/219270
+      2: 
+        url_poster: https://theposterdb.com/api/assets/219271
+      3: 
+        url_poster: https://theposterdb.com/api/assets/219272
+      4: 
+        url_poster: https://theposterdb.com/api/assets/219273
+      5: 
+        url_poster: https://theposterdb.com/api/assets/219274
+      6: 
+        url_poster: https://theposterdb.com/api/assets/219275
+      7: 
+        url_poster: https://theposterdb.com/api/assets/219276
+      8: 
+        url_poster: https://theposterdb.com/api/assets/219277
+      9: 
+        url_poster: https://theposterdb.com/api/assets/219278
+      10: 
+        url_poster: https://theposterdb.com/api/assets/219279
+      11: 
+        url_poster: https://theposterdb.com/api/assets/219280
+      12: 
+        url_poster: https://theposterdb.com/api/assets/219281                                                                                                 
 
   # Netflix
   All of Us Are Dead:
