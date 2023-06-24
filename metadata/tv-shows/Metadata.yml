@@ -115,6 +115,39 @@ metadata:
       2:
         url_poster: https://theposterdb.com/api/assets/92233
 
+  # Breaking Bad
+  Breaking Bad:
+    year: 2008
+    url_poster: https://theposterdb.com/api/assets/292018
+    seasons: 
+      1: 
+        url_poster: https://theposterdb.com/api/assets/292019 
+      2: 
+        url_poster: https://theposterdb.com/api/assets/292020
+      3: 
+        url_poster: https://theposterdb.com/api/assets/292021
+      4: 
+        url_poster: https://theposterdb.com/api/assets/292022
+      5: 
+        url_poster: https://theposterdb.com/api/assets/292023
+
+  Better Call Saul:
+    year: 2015
+    url_poster: https://theposterdb.com/api/assets/292011
+    seasons: 
+      1: 
+        url_poster: https://theposterdb.com/api/assets/292012
+      2: 
+        url_poster: https://theposterdb.com/api/assets/292013
+      3: 
+        url_poster: https://theposterdb.com/api/assets/292014
+      4: 
+        url_poster: https://theposterdb.com/api/assets/292015
+      5:
+        url_poster: https://theposterdb.com/api/assets/292016
+      6: 
+        url_poster: https://theposterdb.com/api/assets/292017                            
+
   # C.S.I
   "CSI: Crime Scene Investigation":
     year: 2000
@@ -1530,6 +1563,172 @@ metadata:
         url_poster: https://theposterdb.com/api/assets/373658
         summary: The series follows Maggie and Negan traveling into a post-apocalyptic Manhattan cut off from the mainland in search of Maggie's kidnapped son, Hershel. The crumbling city is filled with the dead and denizens who have made New York City their own world full of anarchy, danger, beauty, and terror.             
 
+  # Whoniverse - https://theposterdb.com/set/31427
+  Doctor Who:
+    year: 1963
+    url_poster: https://theposterdb.com/api/assets/53252
+    seasons: 
+      0:    
+        url_poster: https://theposterdb.com/api/assets/53253
+      1: 
+        url_poster: https://theposterdb.com/api/assets/53254
+      2: 
+        url_poster: https://theposterdb.com/api/assets/53255
+      3: 
+        url_poster: https://theposterdb.com/api/assets/53256
+      4: 
+        url_poster: https://theposterdb.com/api/assets/53257
+      5: 
+        url_poster: https://theposterdb.com/api/assets/53258
+      6: 
+        url_poster: https://theposterdb.com/api/assets/53259
+      7: 
+        url_poster: https://theposterdb.com/api/assets/53260
+      8: 
+        url_poster: https://theposterdb.com/api/assets/53261
+      9: 
+        url_poster: https://theposterdb.com/api/assets/53265
+      10: 
+        url_poster: https://theposterdb.com/api/assets/53266
+      11: 
+        url_poster: https://theposterdb.com/api/assets/53267
+      12: 
+        url_poster: https://theposterdb.com/api/assets/53268
+      13: 
+        url_poster: https://theposterdb.com/api/assets/53269
+      14: 
+        url_poster: https://theposterdb.com/api/assets/53270
+      15: 
+        url_poster: https://theposterdb.com/api/assets/53271
+      16: 
+        url_poster: https://theposterdb.com/api/assets/53272
+      17: 
+        url_poster: https://theposterdb.com/api/assets/53273
+      18: 
+        url_poster: https://theposterdb.com/api/assets/53274
+      19: 
+        url_poster: https://theposterdb.com/api/assets/53276
+      20: 
+        url_poster: https://theposterdb.com/api/assets/53277
+      21: 
+        url_poster: https://theposterdb.com/api/assets/53278
+      22: 
+        url_poster: https://theposterdb.com/api/assets/53279
+      23: 
+        url_poster: https://theposterdb.com/api/assets/53280
+      24: 
+        url_poster: https://theposterdb.com/api/assets/53281
+      25: 
+        url_poster: https://theposterdb.com/api/assets/53282
+      26: 
+        url_poster: https://theposterdb.com/api/assets/53283
+
+  K-9 and Company:
+    year: 1981
+    url_poster: https://theposterdb.com/api/assets/49365
+    seasons: 
+      1: 
+        url_poster: https://theposterdb.com/api/assets/49366
+
+  Doctor Who (Reboot):
+    year: 2005
+    title: Doctor Who
+    url_poster: https://theposterdb.com/api/assets/53284
+    seasons: 
+      0: 
+        url_poster: https://theposterdb.com/api/assets/53285
+      1: 
+        url_poster: https://theposterdb.com/api/assets/53288
+      2: 
+        url_poster: https://theposterdb.com/api/assets/53289
+      3: 
+        url_poster: https://theposterdb.com/api/assets/53290
+      4: 
+        url_poster: https://theposterdb.com/api/assets/53291
+      5: 
+        url_poster: https://theposterdb.com/api/assets/53292
+      6: 
+        url_poster: https://theposterdb.com/api/assets/53293
+      7: 
+        url_poster: https://theposterdb.com/api/assets/53294
+      8: 
+        url_poster: https://theposterdb.com/api/assets/53295
+      9: 
+        url_poster: https://theposterdb.com/api/assets/53296
+      10: 
+        url_poster: https://theposterdb.com/api/assets/53297
+      11: 
+        url_poster: https://theposterdb.com/api/assets/53298
+      12: 
+        url_poster: https://theposterdb.com/api/assets/53299
+      13: 
+        url_poster: https://theposterdb.com/api/assets/187102
+
+  Doctor Who Confidential:
+    year: 2005
+    url_poster: https://theposterdb.com/api/assets/49369
+    seasons: 
+      0: 
+        url_poster: https://theposterdb.com/api/assets/49370
+      1: 
+        url_poster: https://theposterdb.com/api/assets/49371
+      2: 
+        url_poster: https://theposterdb.com/api/assets/49372
+      3: 
+        url_poster: https://theposterdb.com/api/assets/49373
+      4: 
+        url_poster: https://theposterdb.com/api/assets/49374
+      5: 
+        url_poster: https://theposterdb.com/api/assets/49375
+      6: 
+        url_poster: https://theposterdb.com/api/assets/49376
+
+  Torchwood:
+    year: 2006
+    url_poster: https://theposterdb.com/api/assets/49351
+    seasons: 
+      0: 
+        url_poster: https://theposterdb.com/api/assets/49352
+      1: 
+        url_poster: https://theposterdb.com/api/assets/49353
+      2: 
+        url_poster: https://theposterdb.com/api/assets/49354
+      3: 
+        url_poster: https://theposterdb.com/api/assets/49355
+      4: 
+        url_poster: https://theposterdb.com/api/assets/49356
+
+  The Sarah Jane Adventures:
+    year: 2007
+    url_poster: https://theposterdb.com/api/assets/49358
+    seaasons: 
+      0: 
+        url_poster: https://theposterdb.com/api/assets/49359 
+      1: 
+        url_poster: https://theposterdb.com/api/assets/49360
+      2: 
+        url_poster: https://theposterdb.com/api/assets/49361
+      3: 
+        url_poster: https://theposterdb.com/api/assets/49362
+      4: 
+        url_poster: https://theposterdb.com/api/assets/49363
+      5: 
+        url_poster: https://theposterdb.com/api/assets/49364
+
+  K-9:
+    year: 2009
+    url_poster: https://theposterdb.com/api/assets/49367
+    seasons: 
+      1: 
+        url_poster: https://theposterdb.com/api/assets/49368
+
+  Class:
+    year: 2016
+    url_poster: https://theposterdb.com/api/assets/49377
+    seasons: 
+      1: 
+        url_poster: https://theposterdb.com/api/assets/49378                                                                                                                                                          
+
   # The X-Files - Summaries sourced from wikipedia
   The X-Files:
     year: 1993
@@ -2150,6 +2349,29 @@ metadata:
         url_poster: https://theposterdb.com/api/assets/183289
         summary: Holden and the crew of the Rocinante fight alongside the Combined Fleet of Earth and Mars to protect the Inner Planets from Marco Inaros and his Free Navy's campaign of death and destruction. The combined fleet, allied with the fleet of Camina Drummer and other Belter fleets, is successful in defeating Marco and his Free Navy. On a distant planet beyond the Rings, a new power rises.
 
+  # AMC
+  The Terror:
+    year: 2018
+    url_poster: https://theposterdb.com/api/assets/13688
+    seasons: 
+      1: 
+        url_poster: https://theposterdb.com/api/assets/13689
+      2: 
+        url_poster: https://theposterdb.com/api/assets/13690   
+
+  Preacher: 
+    year: 2016
+    url_poster: https://theposterdb.com/api/assets/85275
+    seasons: 
+      1: 
+        url_poster: https://theposterdb.com/api/assets/236700
+      2: 
+        url_poster: https://theposterdb.com/api/assets/236701
+      3: 
+        url_poster: https://theposterdb.com/api/assets/236702
+      4: 
+        url_poster: https://theposterdb.com/api/assets/236703               
+
   # CBS (Paramount)
   Teenage Mutant Ninja Turtles:
     year: 1987
@@ -2276,6 +2498,35 @@ metadata:
         url_poster: https://theposterdb.com/api/assets/352391     
 
   # NBC
+  Cheers:
+    year: 1982
+    url_poster: https://theposterdb.com/api/assets/94763
+    seasons: 
+      0: 
+        url_poster: https://theposterdb.com/api/assets/94764
+      1: 
+        url_poster: https://theposterdb.com/api/assets/94765
+      2: 
+        url_poster: https://theposterdb.com/api/assets/94766
+      3: 
+        url_poster: https://theposterdb.com/api/assets/94767
+      4: 
+        url_poster: https://theposterdb.com/api/assets/94768
+      5: 
+        url_poster: https://theposterdb.com/api/assets/94769
+      6: 
+        url_poster: https://theposterdb.com/api/assets/94770
+      7: 
+        url_poster: https://theposterdb.com/api/assets/94771
+      8: 
+        url_poster: https://theposterdb.com/api/assets/94772
+      9: 
+        url_poster: https://theposterdb.com/api/assets/94773
+      10: 
+        url_poster: https://theposterdb.com/api/assets/94774
+      11: 
+        url_poster: https://theposterdb.com/api/assets/94775                  
+
   Community:
     year: 2009
     url_poster: https://theposterdb.com/api/assets/306904
@@ -2293,7 +2544,117 @@ metadata:
       5: 
         url_poster: https://theposterdb.com/api/assets/306785
       6: 
-        url_poster: https://theposterdb.com/api/assets/306786       
+        url_poster: https://theposterdb.com/api/assets/306786    
+
+  The Good Place:
+    year: 2016
+    url_poster: https://theposterdb.com/api/assets/71846
+    seasons: 
+      0: 
+        url_poster: https://theposterdb.com/api/assets/71847  
+      1: 
+        url_poster: https://theposterdb.com/api/assets/71848
+      2: 
+        url_poster: https://theposterdb.com/api/assets/71849
+      3: 
+        url_poster: https://theposterdb.com/api/assets/71850
+      4: 
+        url_poster: https://theposterdb.com/api/assets/71851 
+
+  Night Court:
+    year: 1984
+    url_poster: https://theposterdb.com/api/assets/310867
+    seasons: 
+      0: 
+        url_poster: https://theposterdb.com/api/assets/310868
+      1: 
+        url_poster: https://theposterdb.com/api/assets/310869
+      2: 
+        url_poster: https://theposterdb.com/api/assets/310870
+      3: 
+        url_poster: https://theposterdb.com/api/assets/310871
+      4: 
+        url_poster: https://theposterdb.com/api/assets/310872
+      5: 
+        url_poster: https://theposterdb.com/api/assets/310873
+      6: 
+        url_poster: https://theposterdb.com/api/assets/310874
+      7: 
+        url_poster: https://theposterdb.com/api/assets/310875
+      8: 
+        url_poster: https://theposterdb.com/api/assets/310876
+      9: 
+        url_poster: https://theposterdb.com/api/assets/310877
+
+  Night Court (Reboot):
+    year: 2023
+    title: Night Court
+    url_poster: https://theposterdb.com/api/assets/310865
+    seasons: 
+      1: 
+        url_poster: https://theposterdb.com/api/assets/310866  
+
+  The Office (US): 
+    year: 2005
+    title: The Office
+    url_poster: https://theposterdb.com/api/assets/135984
+    seasons: 
+      0: 
+        url_poster: https://theposterdb.com/api/assets/135985
+      1: 
+        url_poster: https://theposterdb.com/api/assets/135986
+      2: 
+        url_poster: https://theposterdb.com/api/assets/135987
+      3: 
+        url_poster: https://theposterdb.com/api/assets/135988
+      4: 
+        url_poster: https://theposterdb.com/api/assets/135989
+      5: 
+        url_poster: https://theposterdb.com/api/assets/135990
+      6: 
+        url_poster: https://theposterdb.com/api/assets/135991
+      7: 
+        url_poster: https://theposterdb.com/api/assets/135992
+      8: 
+        url_poster: https://theposterdb.com/api/assets/135993
+      9: 
+        url_poster: https://theposterdb.com/api/assets/135994                              
+
+  Punky Brewster:
+    year: 1984
+    url_poster: https://theposterdb.com/api/assets/135794
+    seasons: 
+      1: 
+        url_poster: https://theposterdb.com/api/assets/135795
+      2: 
+        url_poster: https://theposterdb.com/api/assets/135796
+      3: 
+        url_poster: https://theposterdb.com/api/assets/135797
+      4: 
+        url_poster: https://theposterdb.com/api/assets/135798
+
+  Quantum Leap:
+    year: 1989
+    url_poster: https://theposterdb.com/api/assets/267074
+    seasons: 
+      1: 
+        url_poster: https://theposterdb.com/api/assets/267075
+      2: 
+        url_poster: https://theposterdb.com/api/assets/267076
+      3: 
+        url_poster: https://theposterdb.com/api/assets/267077
+      4: 
+        url_poster: https://theposterdb.com/api/assets/267078
+      5: 
+        url_poster: https://theposterdb.com/api/assets/267079
+
+  Quantum Leap (Reboot):
+    year: 2022
+    title: Quantum Leap
+    url_poster: https://theposterdb.com/api/assets/266828
+    seasons: 
+      1: 
+        url_poster: https://theposterdb.com/api/assets/266829                                                                   
 
   # Netflix
   All of Us Are Dead:
