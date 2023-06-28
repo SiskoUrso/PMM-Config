@@ -523,6 +523,8 @@ collections:
     template: {name: Collection, collection: 12263, poster: https://theposterdb.com/api/assets/18704}
   The Expendables:
     template: {name: Collection, collection: 126125, poster: https://theposterdb.com/api/assets/86703}
+  Extraction: 
+    template: {name: Collection, collection: 735127, poster: https://theposterdb.com/api/assets/374148}  
   The Eye:
     template: {name: Collection, collection: 264335, poster: https://theposterdb.com/api/assets/101572}
   "Family Guy Trilogy Collection: Laugh It Up, Fuzzball!":

@@ -2133,6 +2133,14 @@ metadata:
   The Expendables:
     url_poster: https://theposterdb.com/api/assets/86704
 
+  # Extraction
+  Extraction:
+    year: 2020
+    url_poster: https://theposterdb.com/api/assets/374149
+  Extraction 2: 
+    year: 2023
+    url_poster: https://theposterdb.com/api/assets/374150
+
   # The Eye
   The Eye:
     year: 2002
