@@ -3672,16 +3672,19 @@ metadata:
   # Jack Ryan
   The Hunt for Red October:
     year: 1990
-    url_poster: https://theposterdb.com/api/assets/150541
+    url_poster: https://theposterdb.com/api/assets/2612
   Patriot Games:
     year: 1992
-    url_poster: https://theposterdb.com/api/assets/150532
+    url_poster: https://theposterdb.com/api/assets/2614
   Clear and Present Danger:
     year: 1994
-    url_poster: https://theposterdb.com/api/assets/150533
+    url_poster: https://theposterdb.com/api/assets/2616
+  The Sum of All Fears:
+    year: 2002
+    url_poster: https://theposterdb.com/api/assets/2626  
   "Jack Ryan: Shadow Recruit":
     year: 2014
-    url_poster: https://theposterdb.com/api/assets/150551
+    url_poster: https://theposterdb.com/api/assets/2627
 
   # Jack in the Box
   The Jack in the Box:
