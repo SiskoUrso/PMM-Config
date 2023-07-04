@@ -2305,7 +2305,183 @@ metadata:
       1:
         url_poster: https://theposterdb.com/api/assets/166453
 
+  MacGyver: 
+    year: 1985
+    url_poster: https://theposterdb.com/api/assets/39004
+    seasons: 
+      0: 
+        url_poster: https://theposterdb.com/api/assets/39005
+      1: 
+        url_poster: https://theposterdb.com/api/assets/39006
+      2: 
+        url_poster: https://theposterdb.com/api/assets/39007
+      3: 
+        url_poster: https://theposterdb.com/api/assets/39008
+      4: 
+        url_poster: https://theposterdb.com/api/assets/39009
+      5: 
+        url_poster: https://theposterdb.com/api/assets/39010
+      6: 
+        url_poster: https://theposterdb.com/api/assets/39011
+      7: 
+        url_poster: https://theposterdb.com/api/assets/39012
+
+  Darkwing Duck: 
+    year: 1991
+    url_poster: https://theposterdb.com/api/assets/200864
+    seasons: 
+      0: 
+        url_poster: https://theposterdb.com/api/assets/200865
+      1: 
+        url_poster: https://theposterdb.com/api/assets/200866
+      2: 
+        url_poster: https://theposterdb.com/api/assets/200867
+      3: 
+        url_poster: https://theposterdb.com/api/assets/200868
+
+  Dinosaurs: 
+    year: 1991
+    url_poster: https://theposterdb.com/api/assets/35536
+    seasons: 
+      1: 
+        url_poster: https://theposterdb.com/api/assets/35537
+      2: 
+        url_poster: https://theposterdb.com/api/assets/35538
+      3: 
+        url_poster: https://theposterdb.com/api/assets/35539
+      4: 
+        url_poster: https://theposterdb.com/api/assets/35540
+
+  Lost: 
+    year: 2004
+    url_poster: https://theposterdb.com/api/assets/141344
+    seasons: 
+      1: 
+        url_poster: https://theposterdb.com/api/assets/141345
+      2: 
+        url_poster: https://theposterdb.com/api/assets/141346
+      3: 
+        url_poster: https://theposterdb.com/api/assets/141347
+      4: 
+        url_poster: https://theposterdb.com/api/assets/141348
+      5: 
+        url_poster: https://theposterdb.com/api/assets/141349
+      6: 
+        url_poster: https://theposterdb.com/api/assets/141350
+
   # Adult Swim
+  Aqua Teen Hunger Force:
+    year: 2000
+    url_poster: https://theposterdb.com/api/assets/55849
+    seasons:
+      0: 
+        url_poster: https://theposterdb.com/api/assets/55850
+      1: 
+        url_poster: https://theposterdb.com/api/assets/55851
+      2: 
+        url_poster: https://theposterdb.com/api/assets/55852
+      3: 
+        url_poster: https://theposterdb.com/api/assets/55853
+      4: 
+        url_poster: https://theposterdb.com/api/assets/55854
+      5: 
+        url_poster: https://theposterdb.com/api/assets/55855
+      6: 
+        url_poster: https://theposterdb.com/api/assets/55856
+      7: 
+        url_poster: https://theposterdb.com/api/assets/55857
+      8: 
+        url_poster: https://theposterdb.com/api/assets/55858
+      9: 
+        url_poster: https://theposterdb.com/api/assets/55859
+      10: 
+        url_poster: https://theposterdb.com/api/assets/55860
+      11: 
+        url_poster: https://theposterdb.com/api/assets/55861
+
+  The Eric Andre Show: 
+    year: 2012
+    url_poster: https://theposterdb.com/api/assets/54089
+    seasons: 
+      0: 
+        url_poster: https://theposterdb.com/api/assets/54090
+      1: 
+        url_poster: https://theposterdb.com/api/assets/54091
+      2: 
+        url_poster: https://theposterdb.com/api/assets/54092
+      3: 
+        url_poster: https://theposterdb.com/api/assets/54093
+      4: 
+        url_poster: https://theposterdb.com/api/assets/54094
+      5: 
+        url_poster: https://theposterdb.com/api/assets/108393
+      6: 
+        url_poster: https://theposterdb.com/api/assets/370784
+
+  Final Space: 
+    year: 2018
+    url_poster: https://theposterdb.com/api/assets/116277
+    seasons: 
+      1: 
+        url_poster: https://theposterdb.com/api/assets/116278
+      2: 
+        url_poster: https://theposterdb.com/api/assets/116279
+      3: 
+        url_poster: https://theposterdb.com/api/assets/119085
+
+  Loiter Squad: 
+    year: 2012
+    url_poster: https://theposterdb.com/api/assets/206147
+    seasons: 
+      1: 
+        url_poster: https://theposterdb.com/api/assets/206148
+      2: 
+        url_poster: https://theposterdb.com/api/assets/206149
+      3: 
+        url_poster: https://theposterdb.com/api/assets/206150
+
+  Metalocalypse: 
+    year: 2006
+    url_poster: https://theposterdb.com/api/assets/266519
+    seasons: 
+      0: 
+        url_poster: https://theposterdb.com/api/assets/56027
+      1: 
+        url_poster: https://theposterdb.com/api/assets/56028
+      2: 
+        url_poster: https://theposterdb.com/api/assets/56029
+      3: 
+        url_poster: https://theposterdb.com/api/assets/56030
+      4: 
+        url_poster: https://theposterdb.com/api/assets/56031
+
+  Mike Tyson Mysteries: 
+    year: 2014
+    url_poster: https://theposterdb.com/api/assets/100004
+    seasons: 
+      1: 
+        url_poster: https://theposterdb.com/api/assets/100005
+      2: 
+        url_poster: https://theposterdb.com/api/assets/100006
+      3: 
+        url_poster: https://theposterdb.com/api/assets/100007
+      4: 
+        url_poster: https://theposterdb.com/api/assets/100008
+      
+
+  "NTSF:SD:SUV:": 
+    year: 2011
+    url_poster: https://theposterdb.com/api/assets/175935
+    seasons: 
+      0: 
+        url_poster: https://theposterdb.com/api/assets/175936
+      1: 
+        url_poster: https://theposterdb.com/api/assets/175937
+      2: 
+        url_poster: https://theposterdb.com/api/assets/175938
+      3: 
+        url_poster: https://theposterdb.com/api/assets/175939
+
   Rick and Morty:
     year: 2013
     url_poster: https://theposterdb.com/api/assets/168176
@@ -2324,6 +2500,147 @@ metadata:
         url_poster: https://theposterdb.com/api/assets/168182
       6:
         url_poster: https://theposterdb.com/api/assets/263703
+
+  Robot Chicken: 
+    year: 2005
+    url_poster: https://theposterdb.com/api/assets/145695
+    seasons: 
+      0:
+        url_poster: https://theposterdb.com/api/assets/74549
+      1: 
+        url_poster: https://theposterdb.com/api/assets/74550
+      2: 
+        url_poster: https://theposterdb.com/api/assets/74551
+      3: 
+        url_poster: https://theposterdb.com/api/assets/74552
+      4: 
+        url_poster: https://theposterdb.com/api/assets/74553
+      5: 
+        url_poster: https://theposterdb.com/api/assets/74554
+      6: 
+        url_poster: https://theposterdb.com/api/assets/74555
+      7: 
+        url_poster: https://theposterdb.com/api/assets/74556
+      8: 
+        url_poster: https://theposterdb.com/api/assets/74557
+      9: 
+        url_poster: https://theposterdb.com/api/assets/74558
+      10: 
+        url_poster: https://theposterdb.com/api/assets/74559
+      11: 
+        url_poster: https://theposterdb.com/api/assets/178586
+
+  Samurai Jack: 
+    year: 2001
+    url_poster: https://theposterdb.com/api/assets/109434
+    seasons: 
+      1: 
+        url_poster: https://theposterdb.com/api/assets/109435
+      2: 
+        url_poster: https://theposterdb.com/api/assets/109436
+      3: 
+        url_poster: https://theposterdb.com/api/assets/109437
+      4: 
+        url_poster: https://theposterdb.com/api/assets/109438
+      5: 
+        url_poster: https://theposterdb.com/api/assets/109439
+
+  Sealab 2021:
+    year: 2000
+    url_poster: https://theposterdb.com/api/assets/106403
+    seasons: 
+      1: 
+        url_poster: https://theposterdb.com/api/assets/106404
+      2: 
+        url_poster: https://theposterdb.com/api/assets/106405
+      3: 
+        url_poster: https://theposterdb.com/api/assets/106406
+      4: 
+        url_poster: https://theposterdb.com/api/assets/106407
+
+  Shenmue the Animation: 
+    year: 2022
+    url_poster: https://theposterdb.com/api/assets/211077
+    seasons: 
+      1: 
+        url_poster: https://theposterdb.com/api/assets/209257      
+
+  Space Ghost Coast to Coast:
+    year: 1994
+    url_poster: https://theposterdb.com/api/assets/59839
+    seasons: 
+      0: 
+        url_poster: https://theposterdb.com/api/assets/59840
+      1: 
+        url_poster: https://theposterdb.com/api/assets/59841
+      2: 
+        url_poster: https://theposterdb.com/api/assets/59842
+      3: 
+        url_poster: https://theposterdb.com/api/assets/59843
+      4: 
+        url_poster: https://theposterdb.com/api/assets/59844
+      5: 
+        url_poster: https://theposterdb.com/api/assets/59845
+      6: 
+        url_poster: https://theposterdb.com/api/assets/59846
+      7: 
+        url_poster: https://theposterdb.com/api/assets/59847
+      8: 
+        url_poster: https://theposterdb.com/api/assets/59848
+      9: 
+        url_poster: https://theposterdb.com/api/assets/59849
+      10: 
+        url_poster: https://theposterdb.com/api/assets/59850
+
+  Squidbillies: 
+    year: 2004
+    url_poster: https://theposterdb.com/api/assets/79233
+    seasons: 
+      0: 
+        url_poster: https://theposterdb.com/api/assets/79234
+      1: 
+        url_poster: https://theposterdb.com/api/assets/79235
+      2: 
+        url_poster: https://theposterdb.com/api/assets/79236
+      3: 
+        url_poster: https://theposterdb.com/api/assets/79237
+      4: 
+        url_poster: https://theposterdb.com/api/assets/79238
+      5: 
+        url_poster: https://theposterdb.com/api/assets/79239
+      6: 
+        url_poster: https://theposterdb.com/api/assets/79240
+      7: 
+        url_poster: https://theposterdb.com/api/assets/79241
+      8: 
+        url_poster: https://theposterdb.com/api/assets/79242
+      9: 
+        url_poster: https://theposterdb.com/api/assets/79243
+      10: 
+        url_poster: https://theposterdb.com/api/assets/79244
+      11: 
+        url_poster: https://theposterdb.com/api/assets/79245
+      12: 
+        url_poster: https://theposterdb.com/api/assets/79246
+      13: 
+        url_poster: https://theposterdb.com/api/assets/189485
+
+  "Tim and Eric Awesome Show, Great Job!": 
+    year: 2007
+    url_poster: https://theposterdb.com/api/assets/133624
+    seasons: 
+      0: 
+        url_poster: https://theposterdb.com/api/assets/133625
+      1: 
+        url_poster: https://theposterdb.com/api/assets/133626
+      2: 
+        url_poster: https://theposterdb.com/api/assets/133627
+      3: 
+        url_poster: https://theposterdb.com/api/assets/133628
+      4: 
+        url_poster: https://theposterdb.com/api/assets/133629
+      5: 
+        url_poster: https://theposterdb.com/api/assets/133630
 
   # Amazon Prime
   The Expanse:
