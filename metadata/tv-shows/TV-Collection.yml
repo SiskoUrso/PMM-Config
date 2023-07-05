@@ -22,6 +22,9 @@ collections:
   Battlestar Galactica:
     template: {name: Collection, show: "73545, 85040, 204781", poster: https://theposterdb.com/api/assets/122190, background: https://i.imgur.com/gBPKeK3.jpg}
     summary: Collection of Battlestar Galactica Series.
+  Blue Planet: 
+    template: {name: Collection, show: "74372, 330942", poster: https://theposterdb.com/api/assets/238197, background: https://i.imgur.com/RL5LgeI.png}
+    summary: Collection of Blue Planet series.   
   Breaking Bad:
     template: {name: Collection, show: "81189, 273181", poster: https://theposterdb.com/api/assets/292009, background: https://i.imgur.com/1rCJPka.jpg}  
     summary: Collection of shows in the Breaking Bad universe.
@@ -30,7 +33,10 @@ collections:
     summary: Collection of CSI Tv Shows
   Dragon Ball:
     template: {name: Collection, show: "76666, 81472, 79275, 88031, 295068, 347734", poster: https://theposterdb.com/api/assets/127755, background: https://i.imgur.com/gcdjTYX.png} 
-    summary: Collection of shows from the Dragon Ball series.  
+    summary: Collection of shows from the Dragon Ball series. 
+  Frozen Planet: 
+    template: {name: Collection, show: "251418, 417395", poster: https://theposterdb.com/api/assets/238198, background: https://i.imgur.com/yzveqUg.png}
+    summary: Collection of Frozen Planet series.    
   Law & Order:
     template: {name: Collection, show: "72368, 75692, 71489, 328518, 74191, 168161, 383397", poster: https://theposterdb.com/api/assets/57562, background: https://i.imgur.com/6ovPJNP.jpg}
     summary: Collection of Law & Order Series.
@@ -43,6 +49,12 @@ collections:
   NCIS:
     template: {name: Collection, show: "73710, 72108, 95441, 278125, 401630", poster: https://theposterdb.com/api/assets/182837, background: https://i.imgur.com/4Ytl8YS.jpg}
     summary: Collection of shows starting from JAG which then spins into NCIS.
+  Planet Collection:
+    template: {name: Collection, show: "359365, 330942, 251418, 417395, 74372, 355229, 79257, 318408, 418505, 359251, 359250", poster: https://theposterdb.com/api/assets/238196, background: https://i.imgur.com/oVtvWsP.jpg}  
+    summary: Collection of David Attenborough Planet documentary series. 
+  Planet Earth: 
+    template: {name: Collection, show: "79257, 318408", poster: https://theposterdb.com/api/assets/238199, background: https://i.imgur.com/mcvGOyp.png}  
+    summary: Collection of Planet Earth series. 
   Star Trek:
     template: {name: Collection, show: "77526, 73566, 71470, 72073, 74550, 73893, 328711, 364093, 367138, 385811, 382389, 264220", poster: https://theposterdb.com/api/assets/53471, background: https://i.imgur.com/FDAzvwt.jpg}
     summary: Collection of Star Trek Tv Shows

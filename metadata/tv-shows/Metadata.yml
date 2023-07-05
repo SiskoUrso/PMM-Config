@@ -1016,6 +1016,116 @@ metadata:
         url_poster: https://theposterdb.com/api/assets/182527
         summary: NCIS Los Angeles follows a fictional team of special agents from the Office of Special Projects of the Naval Criminal Investigative Service. The series stars Chris O'Donnell, Daniela Ruah, Eric Christian Olsen, Medalion Rahimi, Caleb Castille, Gerald McRaney, and LL Cool J. McRaney was promoted to series regular prior to the season following the departures of Barrett Foa and Renée Felice Smith after the previous season and Linda Hunt this season.
 
+  # Planet Collection - https://theposterdb.com/set/143159
+  The Blue Planet: 
+    year: 2001
+    url_poster: https://theposterdb.com/api/assets/238240
+    seasons: 
+      0: 
+        url_poster: https://theposterdb.com/api/assets/238225
+      1: 
+        url_poster: https://theposterdb.com/api/assets/238226
+        
+  Planet Earth: 
+    year: 2006
+    url_poster: https://theposterdb.com/api/assets/238235
+    seasons: 
+      0: 
+        url_poster: https://theposterdb.com/api/assets/238213
+      1: 
+        url_poster: https://theposterdb.com/api/assets/238214
+
+  Frozen Planet: 
+    year: 2011
+    url_poster: https://theposterdb.com/api/assets/238232
+    seasons: 
+      0: 
+        url_poster: https://theposterdb.com/api/assets/238207
+      1: 
+        url_poster: https://theposterdb.com/api/assets/238208
+
+  Planet Earth II: 
+    year: 2016
+    url_poster: https://theposterdb.com/api/assets/238236
+    seasons: 
+      0: 
+        url_poster: https://theposterdb.com/api/assets/238217
+      1: 
+        url_poster: https://theposterdb.com/api/assets/238218
+
+  Blue Planet II: 
+    year: 2017
+    url_poster: https://theposterdb.com/api/assets/238231
+    seasons: 
+      0: 
+        url_poster: https://theposterdb.com/api/assets/238204
+      1: 
+        url_poster: https://theposterdb.com/api/assets/238205
+
+  Our Planet: 
+    year: 2019
+    url_poster: https://theposterdb.com/api/assets/238234
+    seasons: 
+      0: 
+        url_poster: https://theposterdb.com/api/assets/238210
+      1: 
+        url_poster: https://theposterdb.com/api/assets/238211
+      2: 
+        url_poster: https://theposterdb.com/api/assets/372126  
+
+  Seven Worlds, One Planet: 
+    year: 2019
+    url_poster: https://theposterdb.com/api/assets/238239
+    seasons: 
+      0: 
+        url_poster: https://theposterdb.com/api/assets/331108
+      1: 
+        url_poster: https://theposterdb.com/api/assets/238223
+
+  A Perfect Planet:
+    year: 2021
+    url_poster: https://theposterdb.com/api/assets/238230
+    seasons: 
+      0: 
+        url_poster: https://theposterdb.com/api/assets/238201
+      1: 
+        url_poster: https://theposterdb.com/api/assets/238202
+
+  Frozen Planet II: 
+    year: 2022
+    url_poster: https://theposterdb.com/api/assets/238233
+    seasons: 
+      0: 
+        url_poster: https://theposterdb.com/api/assets/264555
+      1: 
+        url_poster: https://theposterdb.com/api/assets/264556
+
+  Prehistoric Planet: 
+    year: 2022
+    url_poster: https://theposterdb.com/api/assets/238238
+    seasons: 
+      0: 
+        url_poster: https://theposterdb.com/api/assets/238220
+      1: 
+        url_poster: https://theposterdb.com/api/assets/238221
+      2: 
+        url_poster: https://theposterdb.com/api/assets/357174
+
+  The Green Planet: 
+    year: 2022
+    url_poster: https://theposterdb.com/api/assets/238241
+    seasons: 
+      0: 
+        url_poster: https://theposterdb.com/api/assets/331109
+      1: 
+        url_poster: https://theposterdb.com/api/assets/238228
+
+  Planet Earth III: 
+    year: 
+    url_poster: https://theposterdb.com/api/assets/238237
+    seasons: 
+
+
   "NCIS: New Orleans":
     year: 2014
     url_poster: https://theposterdb.com/api/assets/105899
@@ -2799,7 +2909,165 @@ metadata:
       3: 
         url_poster: https://theposterdb.com/api/assets/236702
       4: 
-        url_poster: https://theposterdb.com/api/assets/236703               
+        url_poster: https://theposterdb.com/api/assets/236703     
+
+  # Apple+
+  Home: 
+    year: 2020
+    url_poster: https://theposterdb.com/api/assets/110264
+    seasons: 
+      1: 
+        url_poster: https://theposterdb.com/api/assets/110265
+
+  Mythic Quest: 
+    year: 2020
+    url_poster: https://theposterdb.com/api/assets/101499
+    seasons: 
+      0: 
+        url_poster: https://theposterdb.com/api/assets/82489
+      1: 
+        url_poster: https://theposterdb.com/api/assets/82490
+      2: 
+        url_poster: https://theposterdb.com/api/assets/150700
+      3: 
+        url_poster: https://theposterdb.com/api/assets/287741
+
+  # BBC
+  The Night Manager:
+    year: 2016
+    url_poster: https://theposterdb.com/api/assets/317114
+    seasons: 
+      1: 
+        url_poster: https://theposterdb.com/api/assets/317115    
+
+  Attenborough's Life in Colour: 
+    year: 2021
+    url_poster: https://theposterdb.com/api/assets/241460
+    seasons: 
+      0: 
+        url_poster: https://theposterdb.com/api/assets/238161
+      1: 
+        url_poster: https://theposterdb.com/api/assets/238162
+
+  # Cartoon Network
+  Adventure Time: 
+    year: 2010
+    url_poster: https://theposterdb.com/api/assets/119000
+    seasons: 
+      0: 
+        url_poster: https://theposterdb.com/api/assets/119001
+      1: 
+        url_poster: https://theposterdb.com/api/assets/119002
+      2: 
+        url_poster: https://theposterdb.com/api/assets/119003
+      3: 
+        url_poster: https://theposterdb.com/api/assets/119004
+      4: 
+        url_poster: https://theposterdb.com/api/assets/119283
+      5: 
+        url_poster: https://theposterdb.com/api/assets/119006
+      6: 
+        url_poster: https://theposterdb.com/api/assets/119007
+      7: 
+        url_poster: https://theposterdb.com/api/assets/119008
+      8: 
+        url_poster: https://theposterdb.com/api/assets/119009
+      9: 
+        url_poster: https://theposterdb.com/api/assets/119010
+      10: 
+        url_poster: https://theposterdb.com/api/assets/119011
+
+  Cow and Chicken: 
+    year: 1997
+    url_poster: https://theposterdb.com/api/assets/14208
+    seasons: 
+      0: 
+        url_poster: https://theposterdb.com/api/assets/14209
+      1: 
+        url_poster: https://theposterdb.com/api/assets/14210
+      2: 
+        url_poster: https://theposterdb.com/api/assets/14211
+      3: 
+        url_poster: https://theposterdb.com/api/assets/14212
+      4: 
+        url_poster: https://theposterdb.com/api/assets/14213
+
+  Dexter's Laboratory: 
+    year: 1996
+    url_poster: https://theposterdb.com/api/assets/66763
+    seasons: 
+      0: 
+        url_poster: https://theposterdb.com/api/assets/66764
+      1: 
+        url_poster: https://theposterdb.com/api/assets/66765
+      2: 
+        url_poster: https://theposterdb.com/api/assets/66766
+      3: 
+        url_poster: https://theposterdb.com/api/assets/66767
+      4: 
+        url_poster: https://theposterdb.com/api/assets/66768      
+
+  I Am Weasel:       
+    year: 1997
+    url_poster: https://theposterdb.com/api/assets/274860
+    seasons: 
+      1: 
+        url_poster: https://theposterdb.com/api/assets/274855
+      2: 
+        url_poster: https://theposterdb.com/api/assets/274856
+      3: 
+        url_poster: https://theposterdb.com/api/assets/274857
+      4: 
+        url_poster: https://theposterdb.com/api/assets/274858
+      5: 
+        url_poster: https://theposterdb.com/api/assets/274859
+
+  Infinity Train: 
+    year: 2019
+    url_poster: https://theposterdb.com/api/assets/260111
+    seasons: 
+      1: 
+        url_poster: https://theposterdb.com/api/assets/260112
+      2: 
+        url_poster: https://theposterdb.com/api/assets/260113
+      3: 
+        url_poster: https://theposterdb.com/api/assets/260114
+      4: 
+        url_poster: https://theposterdb.com/api/assets/260115
+
+  Regular Show: 
+    year: 2010
+    url_poster: https://theposterdb.com/api/assets/66751
+    seasons: 
+      1: 
+        url_poster: https://theposterdb.com/api/assets/66752
+      2: 
+        url_poster: https://theposterdb.com/api/assets/66753
+      3: 
+        url_poster: https://theposterdb.com/api/assets/66754
+      4: 
+        url_poster: https://theposterdb.com/api/assets/66755
+      5: 
+        url_poster: https://theposterdb.com/api/assets/66756
+      6: 
+        url_poster: https://theposterdb.com/api/assets/66757
+      7: 
+        url_poster: https://theposterdb.com/api/assets/66758
+      8: 
+        url_poster: https://theposterdb.com/api/assets/66759
+
+  We Bare Bears: 
+    year: 2015
+    url_poster: https://theposterdb.com/api/assets/66720
+    seasons: 
+      1: 
+        url_poster: https://theposterdb.com/api/assets/66721
+      2: 
+        url_poster: https://theposterdb.com/api/assets/66722
+      3: 
+        url_poster: https://theposterdb.com/api/assets/66723
+      4: 
+        url_poster: https://theposterdb.com/api/assets/66724
 
   # CBS (Paramount)
   Teenage Mutant Ninja Turtles:
