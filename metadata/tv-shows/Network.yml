@@ -65,7 +65,7 @@ collections:
   Food Network:
     template: { name: network, network: 143, poster: https://theposterdb.com/api/assets/214678, background: https://i.imgur.com/caeRoaM.jpg}
   Fox:
-    template: { name: network, network: 19, poster: https://theposterdb.com/api/assets/48747, background: https://i.imgur.com/6CxLjO9.jpg}
+    template: { name: network, network: 19, poster: https://theposterdb.com/api/assets/193568, background: https://i.imgur.com/6CxLjO9.jpg}
   Freeform:
     template: { name: network, network: 1267, poster: https://theposterdb.com/api/assets/207424, background: https://i.imgur.com/eL8XgGL.jpg}
   Fuji TV:

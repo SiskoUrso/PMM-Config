@@ -2469,7 +2469,7 @@ metadata:
         url_poster: https://theposterdb.com/api/assets/100008
       
 
-  "NTSF:SD:SUV:": 
+  "NTSF:SD:SUV::": 
     year: 2011
     url_poster: https://theposterdb.com/api/assets/175935
     seasons: 
@@ -2593,7 +2593,7 @@ metadata:
         url_poster: https://theposterdb.com/api/assets/59850
 
   Squidbillies: 
-    year: 2004
+    year: 2005
     url_poster: https://theposterdb.com/api/assets/79233
     seasons: 
       0: 
@@ -2643,6 +2643,19 @@ metadata:
         url_poster: https://theposterdb.com/api/assets/133630
 
   # Amazon Prime
+  The Boys: 
+    year: 2019
+    url_poster: https://theposterdb.com/api/assets/250967
+    seasons: 
+      0: 
+        url_poster: https://theposterdb.com/api/assets/250968
+      1: 
+        url_poster: https://theposterdb.com/api/assets/250969
+      2: 
+        url_poster: https://theposterdb.com/api/assets/250970
+      3: 
+        url_poster: https://theposterdb.com/api/assets/250971
+
   The Expanse:
     year: 2015
     url_poster: https://theposterdb.com/api/assets/183290
@@ -2669,6 +2682,61 @@ metadata:
         url_poster: https://theposterdb.com/api/assets/183289
         summary: Holden and the crew of the Rocinante fight alongside the Combined Fleet of Earth and Mars to protect the Inner Planets from Marco Inaros and his Free Navy's campaign of death and destruction. The combined fleet, allied with the fleet of Camina Drummer and other Belter fleets, is successful in defeating Marco and his Free Navy. On a distant planet beyond the Rings, a new power rises.
 
+  The Devil's Hour: 
+    year: 2022
+    url_poster: https://theposterdb.com/api/assets/278711
+    seasons: 
+      1: 
+        url_poster: https://theposterdb.com/api/assets/278712      
+
+  Hunters: 
+    year: 2020
+    url_poster: https://theposterdb.com/api/assets/81426
+    seasons: 
+      1: 
+        url_poster: https://theposterdb.com/api/assets/295891
+      2: 
+        url_poster: https://theposterdb.com/api/assets/295892
+
+  I Know What You Did Last Summer:
+    year: 2021
+    url_poster: https://theposterdb.com/api/assets/186868
+    seasons: 
+      1: 
+        url_poster: https://theposterdb.com/api/assets/186869
+
+  "The Lord of the Rings: The Rings of Power":
+    year: 2022
+    url_poster: https://theposterdb.com/api/assets/210733
+    seasons: 
+      0: 
+        url_poster: https://theposterdb.com/api/assets/265779
+      1: 
+        url_poster: https://theposterdb.com/api/assets/210734
+
+  The Peripheral: 
+    year: 2022
+    url_poster: https://theposterdb.com/api/assets/273944
+    seasons: 
+      1: 
+        url_poster: https://theposterdb.com/api/assets/273945              
+
+  Reacher: 
+    year: 2022
+    url_poster: https://theposterdb.com/api/assets/215303
+    seasons: 
+      1: 
+        url_poster: https://theposterdb.com/api/assets/215304
+      2: 
+        url_poster: https://theposterdb.com/api/assets/215305
+
+  The Terminal List: 
+    year: 2022
+    url_poster: https://theposterdb.com/api/assets/245207
+    seasons: 
+      1: 
+        url_poster: https://theposterdb.com/api/assets/245208      
+
   Tom Clancy's Jack Ryan:
     year: 2018
     url_poster: https://theposterdb.com/api/assets/156048
@@ -2680,7 +2748,35 @@ metadata:
       3:
         url_poster: https://theposterdb.com/api/assets/282701
       4: 
-        url_poster: https://theposterdb.com/api/assets/360901         
+        url_poster: https://theposterdb.com/api/assets/360901
+
+  Upload: 
+    year: 2020
+    url_poster: https://theposterdb.com/api/assets/214614
+    seasons: 
+      1: 
+        url_poster: https://theposterdb.com/api/assets/214615
+      2: 
+        url_poster: https://theposterdb.com/api/assets/214616
+
+  Vikings:
+    year: 2013
+    url_background: https://theposterdb.com/api/assets/101833
+    seasons: 
+      0: 
+        url_poster: https://theposterdb.com/api/assets/101834 
+      1: 
+        url_poster: https://theposterdb.com/api/assets/101835
+      2: 
+        url_poster: https://theposterdb.com/api/assets/101836
+      3: 
+        url_poster: https://theposterdb.com/api/assets/101837
+      4: 
+        url_poster: https://theposterdb.com/api/assets/101838
+      5: 
+        url_poster: https://theposterdb.com/api/assets/101839
+      6: 
+        url_poster: https://theposterdb.com/api/assets/101840
 
   # AMC
   The Terror:
@@ -2866,6 +2962,19 @@ metadata:
         url_poster: https://theposterdb.com/api/assets/125109
       5: 
         url_poster: https://theposterdb.com/api/assets/125110
+
+  Mr Inbetween: 
+    year: 2018
+    url_poster: https://theposterdb.com/api/assets/151539
+    seasons: 
+      0: 
+        url_poster: https://theposterdb.com/api/assets/151540
+      1: 
+        url_poster: https://theposterdb.com/api/assets/151541
+      2: 
+        url_poster: https://theposterdb.com/api/assets/151542
+      3: 
+        url_poster: https://theposterdb.com/api/assets/151543
 
   Rescue Me: 
     year: 2004
