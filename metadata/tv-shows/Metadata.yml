@@ -2761,7 +2761,7 @@ metadata:
 
   Vikings:
     year: 2013
-    url_background: https://theposterdb.com/api/assets/101833
+    url_poster: https://theposterdb.com/api/assets/101833
     seasons: 
       0: 
         url_poster: https://theposterdb.com/api/assets/101834 
