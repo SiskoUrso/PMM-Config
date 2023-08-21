@@ -51,7 +51,7 @@ collections:
   Addams Family:
     template: {name: Collection, collection: "11716, 750822", poster: https://theposterdb.com/api/assets/53152}
   The Adventures of Young Indiana Jones:
-    template: {name: Collection, collection: 222049, poster: https://theposterdb.com/api/assets/375207}  
+    template: {name: Trakt, list: https://trakt.tv/lists/1937, poster: https://theposterdb.com/api/assets/375207}  
   Air Bud:
     template: {name: Collection, collection: 97445, poster: https://theposterdb.com/api/assets/96172}
   Airplane:
