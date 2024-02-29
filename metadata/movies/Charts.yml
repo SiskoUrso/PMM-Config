@@ -77,6 +77,20 @@ collections:
     template: { name: Best of, year: 2022, poster: https://theposterdb.com/api/assets/205162 }
   Best of 2023:
     template: { name: Best of, year: 2023, poster: https://theposterdb.com/api/assets/205163 }  
+  Best of 2024:
+    template: { name: Best of, year: 2024, poster: https://theposterdb.com/api/assets/205164 }
+ # Best of 2025: 
+ #   template: { name: Best of, year: 2025, poster: https://theposterdb.com/api/assets/205165 }
+ # Best of 2026:
+ #   template: { name: Best of, year: 2026, poster: https://theposterdb.com/api/assets/205166 }
+ # Best of 2027:
+ #   template: { name: Best of, year: 2027, poster: https://theposterdb.com/api/assets/205167 }
+ # Best of 2028:
+ #   template: { name: Best of, year: 2028, poster: https://theposterdb.com/api/assets/205168 }
+ # Best of 2029:
+ #   template: { name: Best of, year: 2029, poster: https://theposterdb.com/api/assets/205169 }
+ # Best of 2030:
+ #   template: { name: Best of, year: 2030, poster: https://theposterdb.com/api/assets/205170 }        
 
   Top Ten Pirated Weekly:
     trakt_list: https://trakt.tv/users/hdlists/lists/top-ten-pirated-movies-of-the-week-torrent-freak-com

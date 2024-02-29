@@ -873,7 +873,14 @@ metadata:
     url_poster: https://theposterdb.com/api/assets/358848
     seasons:
       1:
-        url_poster: https://theposterdb.com/api/assets/376690      
+        url_poster: https://theposterdb.com/api/assets/376690     
+
+  Echo:
+    year: 2024
+    url_poster: https://theposterdb.com/api/assets/453249
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/453641
 
   # NCIS - https://theposterdb.com/set/111224
   JAG:
@@ -1321,6 +1328,10 @@ metadata:
         summary: Ensign D'Vana Tendi enthusiastically begins her new assignment aboard the USS Cerritos, a California-class starship specializing in second contact missions, doing the follow-up grunt work of the crews boldly going where no one has gone before. She quickly befriends Ensigns Brad Boimler, Beckett Mariner and Sam Rutherford, collectively nicknamed the "lower decks," as Mariner points out, that is where the real action happens.
       2:
         url_poster: https://theposterdb.com/api/assets/195442
+      3: 
+        url_poster: https://theposterdb.com/api/assets/385056
+      4: 
+        url_poster: https://theposterdb.com/api/assets/388093  
 
   "Star Trek: Prodigy":
     year: 2021
@@ -1336,6 +1347,8 @@ metadata:
       1:
         url_poster: https://theposterdb.com/api/assets/245291
         summary: Star Trek Strange New Worlds follows Captain Christopher Pike (played by Anson Mount) and the crew of the starship USS Enterprise (NCC-1701) in the 23rd century as they explore new worlds throughout the galaxy in the decade before Star Trek The Original Series.
+      2: 
+        url_poster: https://theposterdb.com/api/assets/385898  
 
 
   # Stargate - Summaries sourced from wikipedia
@@ -1533,6 +1546,8 @@ metadata:
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/157180
+      2: 
+        url_poster: https://theposterdb.com/api/assets/355552
 
   "Star Wars: Visions":
     year: 2021
@@ -1540,6 +1555,23 @@ metadata:
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/182269
+      2: 
+        url_poster: https://theposterdb.com/api/assets/385765
+
+  "Star Wars: Tales of the Jedi":
+    year: 2022
+    seasons: 
+      1: 
+        url_poster: https://theposterdb.com/api/assets/385763
+      2: 
+        url_poster: https://theposterdb.com/api/assets/385764
+        
+  "Star Wars: Young Jedi Adventures":
+    year: 2023
+    url_poster: https://theposterdb.com/api/assets/385766
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/385767              
 
   # Star Wars (Live Action) - https://theposterdb.com/set/24300
   The Mandalorian:
@@ -1552,6 +1584,9 @@ metadata:
       2:
         url_poster: https://theposterdb.com/api/assets/116636
         summary: The second season of the American television series The Mandalorian stars Pedro Pascal as the title character, a bounty hunter trying to return "The Child" to his people, the Jedi. It is part of the Star Wars franchise, set after the events of Return of the Jedi (1983). The season was produced by Lucasfilm, Fairview Entertainment, and Golem Creations, with Jon Favreau serving as showrunner.
+      3:
+        url_poster: https://theposterdb.com/api/assets/355553
+        summary: The season continues the Mandalorian and Grogu's storyline following the events of its spin-off series The Book of Boba Fett while also resolving several plot points established in the previous seasons.  
 
   The Book of Boba Fett:
     year: 2021
@@ -1576,6 +1611,14 @@ metadata:
       1:
         url_poster: https://theposterdb.com/api/assets/268637
         summary: Beginning five years before the events of Rogue One (2016), the series follows an ensemble cast of characters during the time that a Rebel Alliance is forming in opposition to the Galactic Empire. One of these characters is Cassian Andor, a thief who becomes a revolutionary and eventually joins the Rebellion.      
+
+  Ahsoka:
+    year: 2023
+    url_poster: https://theposterdb.com/api/assets/445606
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/445607
+        summary: Ahsoka Tano, the former Jedi apprentice of Anakin Skywalker during the Clone Wars, seeks to prevent the return of Grand Admiral Thrawn following the fall of the Empire.      
 
   # The Walking Dead - https://theposterdb.com/set/67802
   The Walking Dead:
@@ -1674,7 +1717,7 @@ metadata:
         summary: Special epsidoes for The Walking Dead Dead City. 
       1: 
         url_poster: https://theposterdb.com/api/assets/373658
-        summary: The series follows Maggie and Negan traveling into a post-apocalyptic Manhattan cut off from the mainland in search of Maggie's kidnapped son, Hershel. The crumbling city is filled with the dead and denizens who have made New York City their own world full of anarchy, danger, beauty, and terror.             
+        summary: The series follows Maggie and Negan traveling into a post-apocalyptic Manhattan cut off from the mainland in search of Maggie's kidnapped son, Hershel. The crumbling city is filled with the dead and denizens who have made New York City their own world full of anarchy, danger, beauty, and terror.             
 
   # Whoniverse - https://theposterdb.com/set/31427
   Doctor Who:
@@ -1840,7 +1883,51 @@ metadata:
     url_poster: https://theposterdb.com/api/assets/49377
     seasons: 
       1: 
-        url_poster: https://theposterdb.com/api/assets/49378                                                                                                                                                          
+        url_poster: https://theposterdb.com/api/assets/49378     
+
+  # World of Ice and Fire - https://theposterdb.com/set/173402
+  Game of Thrones:
+    year: 2011
+    url_poster: https://theposterdb.com/api/assets/293379
+    seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/293380
+        summary: Special episodes from Game of Thrones.
+      1:
+        url_poster: https://theposterdb.com/api/assets/293381
+        summary: The story takes place in a fantasy world, primarily upon the continent Westeros, with one storyline occurring on another continent to the east, Essos. Like the novel, the season initially focuses on the family of nobleman Eddard "Ned" Stark, the Warden of the North, who is asked to become the King's Hand (chief advisor) to his longtime friend, King Robert Baratheon.
+      2:
+        url_poster: https://theposterdb.com/api/assets/293382
+        summary: Like the novel, the season follows the aftermath of Eddard "Ned" Stark's dramatic death, and the political turmoil that comes with it. The season mainly centers around the War of the Five Kings, fought among the leaders of Westerosi factions who are either staking a claim to the Iron Throne, or seeking independence from it.
+      3:
+        url_poster: https://theposterdb.com/api/assets/293383
+        summary: Like the novel, the season continues the storyline of The War of the Five Kings after the death of Renly Baratheon, all four kings in Westeros believe they have a claim to the Iron Throne, besides Robb Stark, who seeks vengeance for the death of his father, Ned Stark, and independence for the North.
+      4:
+        url_poster: https://theposterdb.com/api/assets/293384
+        summary: The season is adapted primarily from the second half of A Storm of Swords, along with elements of A Feast for Crows and A Dance with Dragons, all novels from the A Song of Ice and Fire series by George R. R. Martin
+      5:
+        url_poster: https://theposterdb.com/api/assets/293385
+        summary: The season primarily adapts the storylines from A Feast for Crows and A Dance with Dragons, the fourth and fifth novels in George R. R. Martin's A Song of Ice and Fire series, though it also uses the remaining elements from the third novel, A Storm of Swords, as well as the upcoming sixth novel The Winds of Winter.
+      6:
+        url_poster: https://theposterdb.com/api/assets/293386
+        summary: Much of the season's storyline is derived from content not yet published in George R. R. Martin's A Song of Ice and Fire series, although a significant amount of material from A Feast for Crows, A Dance with Dragons and the upcoming sixth novel The Winds of Winter, which Martin outlined to showrunners David Benioff and D.B. Weiss, was used.
+      7:
+        url_poster: https://theposterdb.com/api/assets/293387
+        summary: The penultimate season focuses on the convergence of the show's main plots in preparation for the final season. Daenerys Targaryen arrives in Westeros with her army and three large dragons and begins to wage war against the Lannisters, who have defeated her allies in the south and west of Westeros. Jon Snow leaves Sansa in charge of Winterfell and visits Daenerys to secure her help to defeat the White Walkers and the Army of the Dead.
+      8: 
+        url_poster: https://theposterdb.com/api/assets/293388                                                                                                                 
+        summary: The final season depicts the culmination of the series' two primary conflicts, the Great War against the Army of the Dead, and the Last War for control of the Iron Throne. In the first half of the season, Jon Snow, Daenerys Targaryen and many of the main characters converge at Winterfell to face the Dead. During the battle, Bran lures the Night King into the open where Arya destroys him; the army of White Walkers and wights crumbles. Meanwhile, Cersei Lannister remains in King's Landing and strengthens her forces to set traps for a weakened Daenerys.
+
+  House of the Dragon:
+    year: 2022
+    url_poster: https://theposterdb.com/api/assets/293389
+    seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/293390
+        summary: Special episodes from House of the Dragon.
+      1:
+        url_poster: https://theposterdb.com/api/assets/293391
+        summary: Based on parts of Martin's 2018 book Fire & Blood, the series begins about 100 years after the Seven Kingdoms are united by the Targaryen Conquest, nearly 200 years before the events of Game of Thrones, and 172 years before the birth of Daenerys Targaryen.
 
   # The X-Files - Summaries sourced from wikipedia
   The X-Files:
@@ -3385,6 +3472,201 @@ metadata:
         url_poster: https://theposterdb.com/api/assets/194330
       6:
         url_poster: https://theposterdb.com/api/assets/194331
+
+  Curb Your Enthusiasm:
+    year: 2000
+    url_poster: https://theposterdb.com/api/assets/443419
+    seasons:
+      0: 
+        url_poster: https://theposterdb.com/api/assets/443420
+      1: 
+        url_poster: https://theposterdb.com/api/assets/443421
+      2: 
+        url_poster: https://theposterdb.com/api/assets/443422
+      3: 
+        url_poster: https://theposterdb.com/api/assets/443423
+      4:
+        url_poster: https://theposterdb.com/api/assets/443424
+      5: 
+        url_poster: https://theposterdb.com/api/assets/443425
+      6:
+        url_poster: https://theposterdb.com/api/assets/443426
+      7:
+        url_poster: https://theposterdb.com/api/assets/443427
+      8:
+        url_poster: https://theposterdb.com/api/assets/443428
+      9:
+        url_poster: https://theposterdb.com/api/assets/443429
+      10: 
+        url_poster: https://theposterdb.com/api/assets/443430
+      11:
+        url_poster: https://theposterdb.com/api/assets/443431
+      12:
+        url_poster: https://theposterdb.com/api/assets/443447
+
+  Band of Brothers:
+    year: 2001
+    url_poster: https://theposterdb.com/api/assets/4527
+    seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/4528
+      1:
+        url_poster: https://theposterdb.com/api/assets/4529
+
+  The Wire:
+    year: 2002
+    url_poster: https://theposterdb.com/api/assets/124905
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/124906
+      2:
+        url_poster: https://theposterdb.com/api/assets/124907
+      3:
+        url_poster: https://theposterdb.com/api/assets/124909
+      4:
+        url_poster: https://theposterdb.com/api/assets/124910
+      5:
+        url_poster: https://theposterdb.com/api/assets/124911
+        
+  Carnivàle:
+    year: 2003
+    url_poster: https://theposterdb.com/api/assets/214751
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/214752   
+      2:
+        url_poster: https://theposterdb.com/api/assets/214753  
+
+  Eastbound & Down:
+    year: 2009
+    url_poster: https://theposterdb.com/api/assets/112200
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/112201
+      2:
+        url_poster: https://theposterdb.com/api/assets/112202
+      3:
+        url_poster: https://theposterdb.com/api/assets/112203
+      4:
+        url_poster: https://theposterdb.com/api/assets/112204         
+
+  The Pacific:
+    year: 2010
+    url_poster: https://theposterdb.com/api/assets/4530
+    seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/4531
+      1:
+        url_poster: https://theposterdb.com/api/assets/4532 
+
+  Silicon Valley:
+    year: 2014
+    url_poster: https://theposterdb.com/api/assets/138435
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/19794
+      2:
+        url_poster: https://theposterdb.com/api/assets/19795
+      3:
+        url_poster: https://theposterdb.com/api/assets/19796
+      4:
+        url_poster: https://theposterdb.com/api/assets/19797
+      5:
+        url_poster: https://theposterdb.com/api/assets/19798
+      6:
+        url_poster: https://theposterdb.com/api/assets/24383          
+
+  True Detective:
+    year: 2014
+    url_poster: https://theposterdb.com/api/assets/142938
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/439398
+      2:
+        url_poster: https://theposterdb.com/api/assets/439399
+      3:
+        url_poster: https://theposterdb.com/api/assets/439400
+      4:
+        url_poster: https://theposterdb.com/api/assets/439401   
+
+  Vice Principals:
+    year: 2016
+    url_poster: https://theposterdb.com/api/assets/150025
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/150026
+      2:
+        url_poster: https://theposterdb.com/api/assets/150027
+
+  Westworld:
+    year: 2016
+    url_poster: https://theposterdb.com/api/assets/56229
+    seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/56230  
+      1:
+        url_poster: https://theposterdb.com/api/assets/56231
+      2:
+        url_poster: https://theposterdb.com/api/assets/56232
+      3:
+        url_poster: https://theposterdb.com/api/assets/56233
+      4:
+        url_poster: https://theposterdb.com/api/assets/245630
+
+  Barry:
+    year: 2018
+    url_poster: https://theposterdb.com/api/assets/191556
+    seasons:
+      1: 
+        url_poster: https://theposterdb.com/api/assets/191557
+      2: 
+        url_poster: https://theposterdb.com/api/assets/191558
+      3:
+        url_poster: https://theposterdb.com/api/assets/226110
+      4: 
+        url_poster: https://theposterdb.com/api/assets/331228
+
+  Succession:
+    year: 2018
+    url_poster: https://theposterdb.com/api/assets/367227
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/359704
+      2:
+        url_poster: https://theposterdb.com/api/assets/359705
+      3:
+        url_poster: https://theposterdb.com/api/assets/359706
+      4: 
+        url_poster: https://theposterdb.com/api/assets/359707
+
+  Doom Patrol: 
+    year: 2019
+    url_poster: https://theposterdb.com/api/assets/36138
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/36139
+      2:
+        url_poster: https://theposterdb.com/api/assets/84662
+      3:
+        url_poster: https://theposterdb.com/api/assets/176773
+      4:
+        url_poster: https://theposterdb.com/api/assets/318927
+
+  Peacemaker:
+    year: 2022
+    url_poster: https://theposterdb.com/api/assets/204283
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/204284                                         
+
+  The Last of Us: 
+    year: 2023      
+    url_poster: https://theposterdb.com/api/assets/309590
+    seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/339193
+      1:
+        url_poster: https://theposterdb.com/api/assets/309957  
 
   # MTV
   Jackass:

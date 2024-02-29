@@ -75,7 +75,7 @@ collections:
   FXX:
     template: { name: network, network: 1035, poster: https://theposterdb.com/api/assets/113175, background: https://i.imgur.com/4IyP5xN.jpg}
   HBO:
-    template: { name: network, network: "49, 2593, 3186, 3308", poster: https://theposterdb.com/api/assets/168825, background: https://i.imgur.com/x3g0uYY.jpg}
+    template: { name: network, network: "49, 2593, 3186, 3308", poster: https://theposterdb.com/api/assets/204449, background: https://i.imgur.com/x3g0uYY.jpg}
   HGTV:
     template: { name: network, network: 210, poster: https://theposterdb.com/api/assets/98967, background: https://i.imgur.com/U4NyOFh.png}
   History Channel:

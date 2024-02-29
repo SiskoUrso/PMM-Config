@@ -41,7 +41,7 @@ collections:
     template: {name: Collection, show: "72368, 75692, 71489, 328518, 74191, 168161, 383397", poster: https://theposterdb.com/api/assets/57562, background: https://i.imgur.com/6ovPJNP.jpg}
     summary: Collection of Law & Order Series.
   Marvel Television:
-    template: {name: Collection, show: "263365, 281485, 320558, 281662, 284190, 304219, 317953, 326490, 331980, 332027, 341455, 364038, 362392, 362496, 362472, 367147, 368613, 368612, 393204, 393203, 368611, 367146, 393205, 393201, 412429, 412428, 412431, 361834, 361835, 367227, 92782, 92783, 114472", poster: https://theposterdb.com/api/assets/19667, background: https://i.imgur.com/MFpNkHm.jpg}
+    template: {name: Collection, show: "263365, 281485, 320558, 281662, 284190, 304219, 317953, 326490, 331980, 332027, 341455, 364038, 362392, 362496, 362472, 367147, 368613, 368612, 393204, 393203, 368611, 367146, 393205, 393201, 412429, 412428, 412431, 361834, 361835, 367227, 92782, 92783, 114472, 412431", poster: https://theposterdb.com/api/assets/19667, background: https://i.imgur.com/MFpNkHm.jpg}
     summary: Collection of shows in the Marvel TV Universe.
   Narcos:
     template: {name: Collection, show: "282670, 353232", poster: https://theposterdb.com/api/assets/196849, background: https://i.imgur.com/RUqzj0C.jpg}
@@ -62,7 +62,7 @@ collections:
     template: {name: Collection, show: "72449, 70851, 83237, 70852, 339552", poster: https://theposterdb.com/api/assets/210311, background: https://i.imgur.com/GenuHMs.jpg}
     summary: Collection of Stargate Tv Shows.
   Star Wars (Animated):
-    template: {name: Collection, show: "83268, 283468, 385376, 393190, 72244, 351575, 330710, 250498, 356114, 393214, 70399, 73697, 334444, 368742, 380516, 358145", poster: https://theposterdb.com/api/assets/16243, background: https://i.imgur.com/IQUxJne.jpg}
+    template: {name: Collection, show: "83268, 283468, 385376, 393190, 72244, 351575, 330710, 250498, 356114, 393214, 70399, 73697, 334444, 368742, 380516, 358145, 420659, 420658", poster: https://theposterdb.com/api/assets/16243, background: https://i.imgur.com/IQUxJne.jpg}
   Star Wars (Live Action):
     template: {name: Collection, show: "393199, 393187, 380352, 393218, 361753, 393589, 393189, 393188, 83867", poster: https://theposterdb.com/api/assets/39679, background: https://i.imgur.com/GdLMZko.jpg}
     summary: Collection of Star Wars TV Series.
@@ -72,6 +72,9 @@ collections:
   The Whoniverse:
     template: {name: Collection, show: "76107, 72710, 78804, 79298, 122651, 79708, 79511, 309893", poster: https://theposterdb.com/api/assets/49348, background: https://i.imgur.com/iDU9PX5.jpg}  
     summary: Collection of shows from the Doctor Who series and spin-offs. 
+  World of Ice and Fire:
+    template: {name: Collection, show: "121361, 371572", poster: https://theposterdb.com/api/assets/293378, background: https://i.imgur.com/gfgHBbQ.jpeg}
+    summary: Collection of shows from the World of Ice and Fire.  
   The X-Files:
     template: {name: Collection, show: "77398, 76245", poster: https://theposterdb.com/api/assets/160390, background: https://i.imgur.com/7JCO6cc.jpg}
     summary: Collection of shows from the X-Files
