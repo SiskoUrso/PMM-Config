@@ -245,7 +245,7 @@ metadata:
     url_poster: https://theposterdb.com/api/assets/43459
   Aliens:
     url_poster: https://theposterdb.com/api/assets/43460
-  Alien 3:
+  "Alien³":
     url_poster: https://theposterdb.com/api/assets/43461
   Alien Resurrection:
     url_poster: https://theposterdb.com/api/assets/43462
@@ -3913,15 +3913,26 @@ metadata:
 
   # Jurassic Park
   Jurassic Park:
-    url_poster: https://theposterdb.com/api/assets/13235
+    year: 1993
+    url_poster: https://theposterdb.com/api/assets/447459
   "The Lost World: Jurassic Park":
-    url_poster: https://theposterdb.com/api/assets/13236
+    year: 1997
+    url_poster: https://theposterdb.com/api/assets/447460
   Jurassic Park III:
-    url_poster: https://theposterdb.com/api/assets/13237
+    year: 2001
+    url_poster: https://theposterdb.com/api/assets/447461
   Jurassic World:
-    url_poster: https://theposterdb.com/api/assets/13238
+    year: 2015
+    url_poster: https://theposterdb.com/api/assets/447462
   "Jurassic World: Fallen Kingdom":
-    url_poster: https://theposterdb.com/api/assets/13239
+    year: 2018
+    url_poster: https://theposterdb.com/api/assets/447463
+  Battle at Big Rock:
+    year: 2019
+    url_poster: https://theposterdb.com/api/assets/447464
+  Jurassic World Dominion:
+    year: 2022
+    url_poster: https://theposterdb.com/api/assets/447465  
 
   # The Karate Kid
   The Karate Kid:

@@ -827,7 +827,7 @@ collections:
   The Jungle Book:
     template: {name: Collection, collection: 97459, poster: https://theposterdb.com/api/assets/44926}
   Jurassic Park:
-    template: {name: Collection, collection: 328, movie: 630322, poster: https://theposterdb.com/api/assets/13234}
+    template: {name: Collection, collection: 328, movie: 630322, poster: https://theposterdb.com/api/assets/447458}
   Justice League (Animated):
     template: {name: Collection, collection: 256287, poster: https://theposterdb.com/api/assets/70784}
   The Karate Kid:
