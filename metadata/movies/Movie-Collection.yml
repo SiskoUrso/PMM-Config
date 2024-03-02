@@ -1396,7 +1396,7 @@ collections:
     template: {name: Collection, collection: 135489, poster: https://theposterdb.com/api/assets/222795}
   Witchcraft:
     template: {name: Collection, collection: 203029, poster: https://www.themoviedb.org/t/p/original/3SUeRO2MxmCnQmrgMTwe3mbNFi8.jpg}
-  Wolf Cop:
+  WolfCop:
     template: {name: Collection, collection: 533711, poster: https://theposterdb.com/api/assets/185658}
   Wolf Creek:
     template: {name: Collection, collection: 268098, poster: https://theposterdb.com/api/assets/222872}
