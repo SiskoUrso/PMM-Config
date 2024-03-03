@@ -100,8 +100,9 @@ metadata:
   Addams Family Reunion:
     url_poster: https://theposterdb.com/api/assets/53155
   The Addams Family (Animation):
-    title: The Addams Family
-    year: 2019
+    match:
+      title: The Addams Family
+      year: 2019
     url_poster: https://theposterdb.com/api/assets/53156
   The Addams Family 2:
     url_poster: https://theposterdb.com/api/assets/188293
@@ -217,8 +218,9 @@ metadata:
   Aladdin and the King of Thieves:
     url_poster: https://theposterdb.com/api/assets/89798
   Aladdin (Live Action):
-    title: Aladdin
-    year: 2019
+    match:
+      title: Aladdin
+      year: 2019
     url_poster: https://theposterdb.com/api/assets/89799
 
   # Alex Cross
@@ -419,8 +421,9 @@ metadata:
   "Amityville: Dollhouse":
     url_poster: https://theposterdb.com/api/assets/7898
   The Amityville Horror (Reboot):
-    title: The Amityville Horror
-    year: 2005
+    match:
+      title: The Amityville Horror
+      year: 2005
     url_poster: https://theposterdb.com/api/assets/7899
   The Amityville Haunting:
     url_poster: https://theposterdb.com/api/assets/7900
@@ -978,8 +981,9 @@ metadata:
     year: 2014
     url_poster: https://theposterdb.com/api/assets/17136
   Cabin Fever (Reboot):
-    year: 2016
-    title: Cabin Fever
+    match:
+      year: 2016
+      title: Cabin Fever
     url_poster: https://theposterdb.com/api/assets/17137
 
   # Caddyshack
@@ -999,8 +1003,9 @@ metadata:
   "Candyman: Day of the Dead":
     url_poster: https://theposterdb.com/api/assets/79964
   Candyman (Reboot):
-    title: Candyman
-    year: 2021
+    match:
+      title: Candyman
+      year: 2021
     url_poster: https://theposterdb.com/api/assets/79965
 
   # Cannonball Run
@@ -1074,8 +1079,9 @@ metadata:
   "Charlie's Angels: Full Throttle":
     url_poster: https://theposterdb.com/api/assets/15411
   Charlie's Angels (Reboot):
-    title: Charlie's Angels
-    year: 2019
+    match:
+      title: Charlie's Angels
+      year: 2019
     url_poster: https://theposterdb.com/api/assets/15412
 
   # Cheaper by the Dozen
@@ -1136,8 +1142,9 @@ metadata:
     year: 2001
     url_poster: https://theposterdb.com/api/assets/80042
   Children of the Corn (Reboot):
-    title: Children of the Corn
-    year: 2009
+    match:
+      title: Children of the Corn
+      year: 2009
     url_poster: https://theposterdb.com/api/assets/80043
   "Children of the Corn: Genesis":
     year: 2011
@@ -1169,8 +1176,9 @@ metadata:
     year: 2017
     url_poster: https://theposterdb.com/api/assets/94860
   Child's Play (Remake):
-    title: Child's Play
-    year: 2019
+    match:
+      title: Child's Play
+      year: 2019
     url_poster: https://theposterdb.com/api/assets/94861
 
   # A Christmas Story
@@ -1751,8 +1759,9 @@ metadata:
     year: 2014
     url_poster: https://theposterdb.com/api/assets/37526
   The Jungle Book (Live Action):
-    title: The Jungle Book
-    year: 2016
+    match:
+      title: The Jungle Book
+      year: 2016
     url_poster: https://theposterdb.com/api/assets/45138
   "Pete's Dragon":
     year: 2016
@@ -1767,8 +1776,9 @@ metadata:
     year: 2019
     url_poster: https://theposterdb.com/api/assets/13023
   The Lion King (Live Action):
-    title: The Lion King
-    year: 2019
+    match:
+      title: The Lion King
+      year: 2019
     url_poster: https://theposterdb.com/api/assets/48917
   "Maleficent: Mistress of Evil":
     year: 2019
@@ -1820,8 +1830,9 @@ metadata:
 
   # Dracula (Hammer)
   Dracula (Hammer):
-    title: Dracula
-    year: 1958
+    match:
+      title: Dracula
+      year: 1958
     url_poster: https://theposterdb.com/api/assets/263363
   The Brides of Dracula:
     year: 1960
@@ -1850,8 +1861,9 @@ metadata:
 
   # Dracula (Universal)
   Dracula (Universal):
-    title: Dracula
-    year: 1931
+    match:
+      title: Dracula
+      year: 1931
     url_poster: https://theposterdb.com/api/assets/80750
   Drácula:
     year: 1931
@@ -2175,8 +2187,9 @@ metadata:
     year: 2007
     url_poster: https://theposterdb.com/api/assets/163907
   Fantastic Four (Reboot):
-    title: Fantastic Four
-    year: 2015
+    match:
+      title: Fantastic Four
+      year: 2015
     url_poster: https://theposterdb.com/api/assets/163908
 
   # The Fast and the Furious
@@ -2305,8 +2318,9 @@ metadata:
 
   # Fortress Collection
   Fortress (2020's):
-    year: 2021
-    title: Fortress
+    match:
+      year: 2021
+      title: Fortress
     url_poster: https://theposterdb.com/api/assets/232049
   "Fortress: Sniper's Eye":
     year: 2022
@@ -2397,8 +2411,9 @@ metadata:
     year: 2003
     url_poster: https://theposterdb.com/api/assets/169899
   Friday the 13th (Reboot):
-    title: Friday the 13th
-    year: 2009
+    match:
+      title: Friday the 13th
+      year: 2009
     url_poster: https://theposterdb.com/api/assets/169900
 
   # Fright Night
@@ -2411,8 +2426,9 @@ metadata:
 
   # Fright Night (Reboot)
   Fright Night (Reboot):
-    title: Fright Night
-    year: 2011
+    match:
+      title: Fright Night
+      year: 2011
     url_poster: https://theposterdb.com/api/assets/108818
   "Fright Night 2: New Blood":
     year: 2013
@@ -2528,12 +2544,14 @@ metadata:
 
   # Ghostbusters
   Ghostbusters1984:
-    title: Ghostbusters
-    year: 1984
+    match:
+      title: Ghostbusters
+      year: 1984
     url_poster: https://theposterdb.com/api/assets/203164
   Ghostbusters2016:
-    title: Ghostbusters
-    year: 2016
+    match:
+      title: Ghostbusters
+      year: 2016
     url_poster: https://theposterdb.com/api/assets/203166
   Ghostbusters II:
     year: 1989
@@ -2615,8 +2633,9 @@ metadata:
 
   # The Girl - Millennium
   The Girl with the Dragon Tattoo (Millennium):
-    year: 2011
-    title: The Girl with the Dragon Tattoo
+    match:
+      year: 2011
+      title: The Girl with the Dragon Tattoo
     url_poster: https://theposterdb.com/api/assets/87829
   The Girl in the Spider's Web:
     year: 2018
@@ -2739,8 +2758,9 @@ metadata:
 
   # Godzilla (MonsterVerse)
   Godzilla (Reboot):
-    title: Godzilla
-    year: 2014
+    match:
+      title: Godzilla
+      year: 2014
     url_poster: https://theposterdb.com/api/assets/135069
   "Kong: Skull Island":
     year: 2017
@@ -2860,8 +2880,9 @@ metadata:
     year: 2002
     url_poster: https://theposterdb.com/api/assets/190040
   Halloween (Alternate Reality):
-    title: Halloween
-    year: 2018
+    match:
+      title: Halloween
+      year: 2018
     url_poster: https://theposterdb.com/api/assets/190041
   Halloween Kills:
     year: 2021
@@ -2995,8 +3016,9 @@ metadata:
     year: 2008
     url_poster: https://theposterdb.com/api/assets/11247
   Hellboy (Reboot):
-    title: Hellboy
-    year: 2019
+    match:
+      title: Hellboy
+      year: 2019
     url_poster: https://theposterdb.com/api/assets/11248
 
   # Hellboy (Animated)
@@ -3045,8 +3067,9 @@ metadata:
     year: 2018
     url_poster: https://theposterdb.com/api/assets/27508
   Hellraiser (Reboot):
-    title: Hellraiser
-    year: 2022
+    match:
+      title: Hellraiser
+      year: 2022
     url_poster: https://theposterdb.com/api/assets/272695
 
   # High School Musical
@@ -3095,8 +3118,9 @@ metadata:
 
   # The Hills Have Eyes (Reboot)
   The Hills Have Eyes (Reboot):
-    year: 2006
-    title: The Hills Have Eyes
+    match:
+      year: 2006
+      title: The Hills Have Eyes
     url_poster: https://theposterdb.com/api/assets/164895
   The Hills Have Eyes 2:
     year: 2007
@@ -3238,8 +3262,9 @@ metadata:
     year: 1959
     url_poster: https://theposterdb.com/api/assets/109381
   House on Haunted Hill (Reboot):
-    year: 1999
-    title: House on Haunted Hill
+    match:
+      year: 1999
+      title: House on Haunted Hill
     url_poster: https://theposterdb.com/api/assets/109382
   Return to House on Haunted Hill:
     year: 2007
@@ -3387,8 +3412,9 @@ metadata:
     year: 1982
     url_poster: https://theposterdb.com/api/assets/140625
   Speed (IMAX):
-    year: 1984
-    title: Speed
+    match:
+      year: 1984
+      title: Speed
     url_poster: https://theposterdb.com/api/assets/140626
   The Dream Is Alive:
     year: 1985
@@ -3762,8 +3788,9 @@ metadata:
     year: 2002
     url_poster: https://theposterdb.com/api/assets/126262
   Casino Royale (Remake):
-    title: Casino Royale
-    year: 2006
+    match:
+      title: Casino Royale
+      year: 2006
     url_poster: https://theposterdb.com/api/assets/126263
   Quantum of Solace:
     year: 2008
@@ -3948,8 +3975,9 @@ metadata:
     year: 1994
     url_poster: https://theposterdb.com/api/assets/2569
   The Karate Kid (Reboot):
-    title: The Karate Kid
-    year: 2010
+    match:
+      title: The Karate Kid
+      year: 2010
     url_poster: https://theposterdb.com/api/assets/23615
 
   # Kick-Ass
@@ -4543,8 +4571,9 @@ metadata:
 
   # Mechanic
   The Mechanic (Orginal):
-    year: 1972
-    title: The Mechanic
+    match:
+      year: 1972
+      title: The Mechanic
     url_poster: https://theposterdb.com/api/assets/58924
   The Mechanic:
     year: 2011
@@ -4700,8 +4729,9 @@ metadata:
     year: 2020
     url_poster: https://theposterdb.com/api/assets/63204
   Mortal Kombat (Reboot):
-    title: Mortal Kombat
-    year: 2021
+    match:
+      title: Mortal Kombat
+      year: 2021
     url_poster: https://theposterdb.com/api/assets/147283
 
   # Mulan
@@ -4712,8 +4742,9 @@ metadata:
     year: 2004
     url_poster: https://theposterdb.com/api/assets/46223
   Mulan (Live Action):
-    title: Mulan
-    year: 2020
+    match:
+      title: Mulan
+      year: 2020
     url_poster: https://theposterdb.com/api/assets/100146
 
   # The Millennium Trilogy
@@ -4729,8 +4760,9 @@ metadata:
 
   # The Mummy (Universal):
   The Mummy (Universal):
-    year: 1932
-    title: The Mummy
+    match:
+      year: 1932
+      title: The Mummy
     url_poster: https://theposterdb.com/api/assets/80762
   The Mummy's Hand:
     year: 1940
@@ -4899,8 +4931,9 @@ metadata:
   New Nightmare:
     url_poster: https://theposterdb.com/api/assets/115959
   A Nightmare on Elm Street (Remake):
-    title: A Nightmare on Elm Street
-    year: 2010
+    match:
+      title: A Nightmare on Elm Street
+      year: 2010
     url_poster: https://theposterdb.com/api/assets/115960
 
   # Nobody Sleeps in the Woods Tonight
@@ -4947,8 +4980,9 @@ metadata:
     year: 1991
     url_poster: https://theposterdb.com/api/assets/20590
   The Omen (Reboot):
-    year: 2006
-    title: The Omen
+    match:
+      year: 2006
+      title: The Omen
     url_poster: https://theposterdb.com/api/assets/20591
 
 
@@ -5055,8 +5089,9 @@ metadata:
     year: 1992
     url_poster: https://theposterdb.com/api/assets/107037
   Pet Sematary (Reboot):
-    title: Pet Sematary
-    year: 2019
+    match:
+      title: Pet Sematary
+      year: 2019
     url_poster: https://theposterdb.com/api/assets/107038
 
   # Peter Pan
@@ -5092,8 +5127,9 @@ metadata:
     year: 1993
     url_poster: https://theposterdb.com/api/assets/72128
   The Philadelphia Experiment (Remake):
-    year: 2012
-    title: The Philadelphia Experiment
+    match:
+      year: 2012
+      title: The Philadelphia Experiment
     url_poster: https://theposterdb.com/api/assets/229606
 
   # Philo & Clyde
@@ -5415,8 +5451,9 @@ metadata:
     year: 1989
     url_poster: https://theposterdb.com/api/assets/61654
   The Punisher (Reboot):
-    year: 2004
-    title: The Punisher
+    match:
+      year: 2004
+      title: The Punisher
     url_poster: https://theposterdb.com/api/assets/61655
   "Punisher: War Zone":
     year: 2008
@@ -5615,8 +5652,9 @@ metadata:
     year: 1998
     url_poster: https://theposterdb.com/api/assets/7677
   Spiral (Ringu):
-    year: 1998
-    title: Spiral
+    match:
+      year: 1998
+      title: Spiral
     url_poster: https://theposterdb.com/api/assets/7678
   Ringu 2:
     year: 1999
@@ -5679,8 +5717,9 @@ metadata:
     year: 1993
     url_poster: https://theposterdb.com/api/assets/75748
   RoboCop (Reboot):
-    title: RoboCop
-    year: 2014
+    match:
+      title: RoboCop
+      year: 2014
     url_poster: https://theposterdb.com/api/assets/75749
 
   # Rocky
@@ -5873,8 +5912,9 @@ metadata:
     year: 2011
     url_poster: https://theposterdb.com/api/assets/808
   Scream 5:
-    title: Scream
-    year: 2022
+    match:
+      title: Scream
+      year: 2022
     url_poster: https://theposterdb.com/api/assets/212929
 
   # The Secret Life of Pets
@@ -6516,8 +6556,9 @@ metadata:
 
   # Teenage Mutant Ninja Turtles (Remake)
   Teenage Mutant Ninja Turtles (Remake):
-    title: Teenage Mutant Ninja Turtles
-    year: 2014
+    match:
+      title: Teenage Mutant Ninja Turtles
+      year: 2014
     url_poster: https://theposterdb.com/api/assets/60982
   "Teenage Mutant Ninja Turtles: Out of the Shadows":
     year: 2016
@@ -6581,8 +6622,9 @@ metadata:
     year: 1977
     url_poster: https://theposterdb.com/api/assets/45106
   Inferno (Dario Argento):
-    year: 1980
-    title: Inferno
+    match:
+      year: 1980
+      title: Inferno
     url_poster: https://theposterdb.com/api/assets/94017
   The Mother of Tears:
     year: 2007
@@ -7124,8 +7166,9 @@ metadata:
     year: 2014
     url_poster: https://theposterdb.com/api/assets/163806
   Wrong Turn (Reboot):
-    year: 2021
-    title: Wrong Turn
+    match:
+      year: 2021
+      title: Wrong Turn
     url_poster: https://theposterdb.com/api/assets/163807
 
   # Wyrmwood
