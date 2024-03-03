@@ -1309,7 +1309,7 @@ collections:
     template: {name: Collection, collection: 868672, poster: https://www.themoviedb.org/t/p/original/8i0s5eiDdCWiAnMfiTchEmPATlc.jpg}
   The Thing:
     template: {name: Collection, collection: 479888, poster: https://theposterdb.com/api/assets/17180}
-  Time Cop:
+  Timecop:
     template: {name: Collection, collection: 170452, poster: https://theposterdb.com/api/assets/77222}
   Tomb Raider:
     template: {name: Collection, collection: "2467, 621142", poster: https://theposterdb.com/api/assets/73151}
