@@ -6593,8 +6593,9 @@ metadata:
     year: 1982
     url_poster: https://theposterdb.com/api/assets/17181
   The Thing (Reboot):
-    year: 2011
-    title: The Thing
+    match:
+      year: 2011
+      title: The Thing
     url_poster: https://theposterdb.com/api/assets/17182
 
   # Timecop
