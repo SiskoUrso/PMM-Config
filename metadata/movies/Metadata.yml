@@ -6901,7 +6901,9 @@ metadata:
     year: 2007
     url_poster: https://theposterdb.com/api/assets/100919
   "Vacancy 2: The First Cut":
-    year: 2008
+    match:
+      year: 2008
+      mapping_id: 15641
     url_poster: https://theposterdb.com/api/assets/100920
   Terror Trap:
     year: 2010
