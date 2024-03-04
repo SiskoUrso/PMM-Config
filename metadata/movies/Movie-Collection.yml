@@ -1299,9 +1299,9 @@ collections:
     template: {name: Collection, collection: 199141, poster: https://image.tmdb.org/t/p/original//kLpffqU5WxiqZTd45WQCj0cSBso.jpg}
   Tetsuo:
     template: {name: Collection, collection: 182923, poster: https://theposterdb.com/api/assets/65254}
-  Texas Chainsaw Massacre:
+  The Texas Chainsaw Massacre:
     template: {name: Collection, collection: 111751, poster: https://theposterdb.com/api/assets/27153}
-  Texas Chainsaw Massacre (Reboot):
+  The Texas Chainsaw Massacre (Reboot):
     template: {name: Collection, collection: 425175, poster: https://theposterdb.com/api/assets/110133}
   Thor:
     template: {name: Collection, collection: 131296, poster: https://theposterdb.com/api/assets/4819}

@@ -6589,8 +6589,8 @@ metadata:
     year: 2009
     url_poster: https://theposterdb.com/api/assets/65257
 
-  # Texas Chainsaw Massacre
-  Texas Chainsaw Massacre:
+  # The Texas Chainsaw Massacre
+  The Texas Chainsaw Massacre:
     year: 1974
     url_poster: https://theposterdb.com/api/assets/27154
   The Texas Chainsaw Massacre 2:
@@ -6610,9 +6610,10 @@ metadata:
     url_poster: https://theposterdb.com/api/assets/27159
 
   # Texas Chainsaw Massacre (Reboot)
-  The Texas Chainsaw Massacre:
-    year: 2003
-    url_poster: https://theposterdb.com/api/assets/110134
+  The Texas Chainsaw Massacre (Reboot):
+    match:
+      year: 2003
+      url_poster: https://theposterdb.com/api/assets/110134
   "The Texas Chainsaw Massacre: The Beginning":
     year: 2006
     url_poster: https://theposterdb.com/api/assets/110135
