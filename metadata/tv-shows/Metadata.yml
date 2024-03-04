@@ -1787,8 +1787,9 @@ metadata:
         url_poster: https://theposterdb.com/api/assets/49366
 
   Doctor Who (Reboot):
-    year: 2005
-    title: Doctor Who
+    match:
+      year: 2005
+      title: Doctor Who
     url_poster: https://theposterdb.com/api/assets/53284
     seasons: 
       0: 
@@ -3950,16 +3951,18 @@ metadata:
         url_poster: https://theposterdb.com/api/assets/310877
 
   Night Court (Reboot):
-    year: 2023
-    title: Night Court
+    match:
+      year: 2023
+      title: Night Court
     url_poster: https://theposterdb.com/api/assets/310865
     seasons: 
       1: 
         url_poster: https://theposterdb.com/api/assets/310866  
 
-  The Office (US): 
-    year: 2005
-    title: The Office
+  The Office (US):
+    match: 
+      year: 2005
+      title: The Office
     url_poster: https://theposterdb.com/api/assets/135984
     seasons: 
       0: 
@@ -4033,8 +4036,9 @@ metadata:
         url_poster: https://theposterdb.com/api/assets/267079
 
   Quantum Leap (Reboot):
-    year: 2022
-    title: Quantum Leap
+    match:
+      year: 2022
+      title: Quantum Leap
     url_poster: https://theposterdb.com/api/assets/266828
     seasons: 
       1: 
