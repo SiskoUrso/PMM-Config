@@ -6613,7 +6613,8 @@ metadata:
   The Texas Chainsaw Massacre (Reboot):
     match:
       year: 2003
-      url_poster: https://theposterdb.com/api/assets/110134
+      title: The Texas Chainsaw Massacre
+    url_poster: https://theposterdb.com/api/assets/110134
   "The Texas Chainsaw Massacre: The Beginning":
     year: 2006
     url_poster: https://theposterdb.com/api/assets/110135
