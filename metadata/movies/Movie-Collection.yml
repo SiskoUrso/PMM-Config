@@ -1281,7 +1281,7 @@ collections:
     template: {name: Collection, collection: 135483, poster: https://theposterdb.com/api/assets/112816}
   Tales From the Crypt:
     template: {name: Collection, collection: 115142, movie: "38939, 53868", poster: https://theposterdb.com/api/assets/46350}
-  Tales From the Hood:
+  Tales from the Hood:
     template: {name: Collection, collection: 551890, poster: https://theposterdb.com/api/assets/117396}
   Tarzan:
     template: {name: Collection, collection: 106768, poster: https://theposterdb.com/api/assets/56439}
