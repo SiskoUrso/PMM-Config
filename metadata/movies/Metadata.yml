@@ -6493,7 +6493,9 @@ metadata:
     year: 2012
     url_poster: https://theposterdb.com/api/assets/112818
   Taken 3:
-    year: 2014
+    match:
+      year: 2014
+      mapping_id: 260346
     url_poster: https://theposterdb.com/api/assets/112819
 
   # Tales from the Crypt
