@@ -800,7 +800,9 @@ metadata:
         summary: WandaVision is an American television miniseries created by Jac Schaeffer for the streaming service Disney+, based on Marvel Comics featuring the characters Wanda Maximoff / Scarlet Witch and Vision. It is the first television series in the Marvel Cinematic Universe (MCU) produced by Marvel Studios, sharing continuity with the films of the franchise and taking place after the events of the film Avengers Endgame (2019).
 
   The Falcon and the Winter Soldier:
-    year: 2021
+    match:
+      mapping_id: 88396
+      year: 2021
     url_poster: https://theposterdb.com/api/assets/138314
     seasons:
       1:
@@ -819,12 +821,16 @@ metadata:
         summary: TBA
 
   What If...?:
-    year: 2021
+    match:
+      mapping_id: 91363
+      year: 2021
     url_poster: https://theposterdb.com/api/assets/138318
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/174418
         summary: Following the creation of the multiverse in the season one finale of Loki, What If...? explores various alternate timelines of the multiverse in which major moments from the Marvel Cinematic Universe (MCU) films occur differently, as observed by the Watcher. In the second season, following the formation of the Guardians of the Multiverse, the Watcher continues to explore more strange worlds, meeting new heroes and keeping the multiverse safe.
+      2: 
+        url_poster: https://theposterdb.com/api/assets/446803  
 
   Marvel's M.O.D.O.K.:
     year: 2021
@@ -1128,9 +1134,13 @@ metadata:
         url_poster: https://theposterdb.com/api/assets/238228
 
   Planet Earth III: 
-    year: 
+    year: 2023
     url_poster: https://theposterdb.com/api/assets/238237
     seasons: 
+      0:
+        url_poster: https://theposterdb.com/api/assets/421279
+      1: 
+        url_poster: https://theposterdb.com/api/assets/421280
 
 
   "NCIS: New Orleans":
