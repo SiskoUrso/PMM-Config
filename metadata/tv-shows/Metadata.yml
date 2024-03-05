@@ -58,7 +58,7 @@ metadata:
         summary: NYC, takes place in 1980s New York City, and focuses on a string of killings involving gay men and the emergence of a new virus.  
 
 
-  # Battlestar Galactica
+  # Battlestar Galactica (Reboot)
   Battlestar Galactica:
     year: 2004
     url_poster: https://theposterdb.com/api/assets/122194
@@ -3416,7 +3416,9 @@ metadata:
 
   # Fox
   24:
-    year: 2001
+    match:
+      mapping_id: 1973
+      year: 2001
     url_poster: https://theposterdb.com/api/assets/83054
     seasons:
       1:
