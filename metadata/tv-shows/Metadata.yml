@@ -801,7 +801,7 @@ metadata:
 
   The Falcon and the Winter Soldier:
     match:
-      mapping_id: 88396
+      mapping_id: 362496
       year: 2021
     url_poster: https://theposterdb.com/api/assets/138314
     seasons:
@@ -822,7 +822,7 @@ metadata:
 
   What If...?:
     match:
-      mapping_id: 91363
+      mapping_id: 367147
       year: 2021
     url_poster: https://theposterdb.com/api/assets/138318
     seasons:
@@ -3417,7 +3417,8 @@ metadata:
   # Fox
   24:
     match:
-      mapping_id: 1973
+      mapping_id: 76290
+      year: 2001
     url_poster: https://theposterdb.com/api/assets/83054
     seasons:
       1:
