@@ -6443,7 +6443,9 @@ metadata:
 
   # Super Troopers
   Super Troopers:
-    year: 2001
+    match:
+      mapping_id: 39939
+      year: 2001
     url_poster: https://theposterdb.com/api/assets/36803
   Super Troopers 2:
     year: 2018
