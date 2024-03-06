@@ -945,10 +945,7 @@ collections:
   Monsters, Inc.:
     template: {name: Collection, collection: 137696, poster: https://theposterdb.com/api/assets/161790}
   Monty Python:
-    template: {name: Collection}
-    imdb_list: https://www.imdb.com/list/ls072012494/
-    url_poster: https://theposterdb.com/api/assets/148489
-    summary: Monty Python is a British surreal comedy troupe who created sketch comedy television shows and movies
+    template: {name: Trakt, list: https://trakt.tv/users/siskourso/lists/monty-python, poster: https://theposterdb.com/api/assets/15665}
   Mortal Kombat:
     template: {name: Collection, collection: 9818, movie: "664767, 460465", poster: https://theposterdb.com/api/assets/6106}
   Mothra:
