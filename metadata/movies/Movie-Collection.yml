@@ -897,10 +897,7 @@ collections:
   Marvel One-Shot:
     template: {name: Collection, movie: "211387, 76122, 119569, 253980, 505945, 758025, 413279, 441829, 76535", poster: https://theposterdb.com/api/assets/153891}
   The Man with No Name:
-    template: {name: Collection}
-    imdb_list: https://www.imdb.com/list/ls023916334/
-    url_poster: https://theposterdb.com/api/assets/54596
-    summary: An Italian film series consisting of three Spaghetti Western films directed by Sergio Leone. The films are titled A Fistful of Dollars (1964), For a Few Dollars More (1965) and The Good, the Bad and the Ugly (1966). The series has become known for establishing the Spaghetti Western genre, and inspiring the creation of many more Spaghetti Western films. The three films are consistently listed among the best rated Western films in history.
+    template: {name: Trakt, list: https://trakt.tv/users/siskourso/lists/the-man-with-no-name, poster: https://theposterdb.com/api/assets/54596}
   Marvel Rising:
     template: {name: Collection, collection: 627234, poster: https://theposterdb.com/api/assets/172296}
   Man of Steel:
