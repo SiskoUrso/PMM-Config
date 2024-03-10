@@ -9,7 +9,7 @@ templates:
     default:
       title: feature
       limit: 100
-    imdb_list:
+    imdb_search:
       - url: https://www.imdb.com/search/title/?title_type=<<title>>&release_date=1990-01-01,&user_rating=5.0,10.0&num_votes=100000,&genres=<<genre>>
         limit: <<limit>>
       - url: https://www.imdb.com/search/title/?title_type=<<title>>&release_date=1990-01-01,&user_rating=5.0,10.0&num_votes=100000,&genres=<<genre>>&sort=user_rating,desc
@@ -68,7 +68,7 @@ collections:
     summary: Fantasy film is a genre that incorporates imaginative and fantastic themes. These themes usually involve magic, supernatural events, or fantasy worlds. Although it is its own distinct genre, these films can overlap into the horror and science fiction genres. Unlike science fiction, a fantasy film does not need to be rooted in fact. This element allows the audience to be transported into a new and unique world. Often, these films center on an ordinary hero in an extraordinary situation.
   Fantasy:
     template: {name: Genre, genre: Animation, poster: https://theposterdb.com/api/assets/51476}
-    imdb_list:
+    imdb_search:
     - url: https://www.imdb.com/search/title/?title_type=feature&release_date=1990-01-01,&user_rating=5.0,10.0&num_votes=100000,&genres=fantasy
       limit: 100
     - url: https://www.imdb.com/search/title/?title_type=feature&release_date=1990-01-01,&user_rating=5.0,10.0&num_votes=100000,&genres=fantasy&sort=user_rating,desc
@@ -115,7 +115,7 @@ collections:
     url_background: https://i.imgur.com/DM1Im1X.jpeg
   Music:
     template: {name: Other Genre, poster: https://theposterdb.com/api/assets/51398}
-    imdb_list:
+    imdb_search:
     - url: https://www.imdb.com/search/title/?title_type=feature&release_date=1990-01-01,&user_rating=5.0,10.0&num_votes=100000,&genres=music
       limit: 200
     - url: https://www.imdb.com/search/title/?title_type=feature&release_date=1990-01-01,&user_rating=5.0,10.0&num_votes=100000,&genres=music&sort=user_rating,desc
@@ -160,9 +160,10 @@ collections:
     url_background: https://i.imgur.com/eELv4eB.jpg
   Pandemic:
     template: {name: Other Genre, poster: https://theposterdb.com/api/assets/55837}
-    imdb_list:
+    imdb_search:
       - url: https://www.imdb.com/search/keyword/?keywords=deadly-virus%2Chealth-crisis%2Cpandemic%2Cpublic-health-epidemic%2Cvirus%2Ccoronavirus&sort=moviemeter,asc&mode=detail&page=1&ref_=kw_ref_key
         limit: 1000
+    imdb_list:    
       - url: https://www.imdb.com/list/ls041901506/
       - url: https://www.imdb.com/list/ls092321048/
     summary: A Pandemic film resolves around widespread viruses, plagues, and diseases.
@@ -177,7 +178,7 @@ collections:
     summary: A collection of Short movies
   Sports:
     template: {name: Genre, genre: Sport, poster: https://theposterdb.com/api/assets/60371}
-    imdb_list:
+    imdb_search:
     - url: https://www.imdb.com/search/title/?title_type=feature&release_date=1990-01-01,&user_rating=5.0,10.0&num_votes=100000,&genres=sport
       limit: 200
     - url: https://www.imdb.com/search/title/?title_type=feature&release_date=1990-01-01,&user_rating=5.0,10.0&num_votes=100000,&genres=sport&sort=user_rating,desc
@@ -188,7 +189,7 @@ collections:
     summary: Stand-up comedy is a comedic style in which a comedian performs in front of a live audience, speaking directly to them through a microphone. Comedians give the illusion that they are dialoguing, but in actuality, they are monologuing a grouping of humorous stories, jokes and one-liners, typically called a shtick, routine, act, or set. Some stand-up comedians use props, music or magic tricks to enhance their acts. Stand-up comedians perform quasi-autobiographical and fictionalized extensions of their offstage selves.
   Submarine:
     template: {name: Other Genre, poster: https://theposterdb.com/api/assets/89095}
-    imdb_list: https://www.imdb.com/search/keyword/?keywords=submarine-movie&ref_=fn_al_kw_1
+    imdb_search: https://www.imdb.com/search/keyword/?keywords=submarine-movie&ref_=fn_al_kw_1
     summary: Collection of movies based around or about Submarines.
   Sword & Sorcery:
     template: {name: Other Genre, poster: https://theposterdb.com/api/assets/74604}
@@ -199,7 +200,7 @@ collections:
     summary: Thriller Film is a genre that revolves around anticipation and suspense. The aim for Thrillers is to keep the audience alert and on the edge of their seats. The protagonist in these films is set against a problem – an escape, a mission, or a mystery. No matter what sub-genre a Thriller film falls into, it will emphasize the danger that the protagonist faces. The tension with the main problem is built on throughout the film and leads to a highly stressful climax.
   Time Travel:
     template: {name: Other Genre, poster: https://theposterdb.com/api/assets/81440}
-    imdb_list: https://www.imdb.com/search/keyword/?keywords=time-travel%2Ctime-machine&ref_=kw_ref_key&sort=moviemeter,asc&mode=detail&page=1&title_type=movie
+    imdb_search: https://www.imdb.com/search/keyword/?keywords=time-travel%2Ctime-machine&ref_=kw_ref_key&sort=moviemeter,asc&mode=detail&page=1&title_type=movie
     summary: Time Travel is a collection of movies that contains time-travel. In any form. Be it time-loop, full on relocation in time, consciousness transfer... Warning You may find yourself screaming Paradox!,  That's just a risk you have to take.
   War:
     template: {name: Genre, genre: War, poster: https://theposterdb.com/api/assets/51477}
