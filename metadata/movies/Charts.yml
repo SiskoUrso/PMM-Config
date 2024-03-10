@@ -45,7 +45,7 @@ collections:
     template: { name: Chart, num: 3, poster: https://theposterdb.com/api/assets/205416 }
     tmdb_popular: 40
     imdb_search:
-      type: movie, tv_movie, documentary, short
+      type: movie, tv_movie, short
       sort_by: popularity.desc
       limit: 40
     summary: Popular Movies across the internet
@@ -59,8 +59,9 @@ collections:
   Oscars:
     template: { name: Chart, num: 5, poster: https://theposterdb.com/api/assets/192593 }
     imdb_search: 
-      type: movie, documentary
+      type: movie
       event.winning: oscar_picture, oscar_director
+      limit: 150
     summary: Oscar Winning Movies
   Best of 2014:
     template: { name: Best of, year: 2014, poster: https://theposterdb.com/api/assets/205154 }
