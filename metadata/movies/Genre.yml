@@ -193,6 +193,9 @@ collections:
     imdb_list:    
       - url: https://www.imdb.com/list/ls041901506/
       - url: https://www.imdb.com/list/ls092321048/
+    collection_order: custom
+    sync_mode: sync
+
     summary: A Pandemic film resolves around widespread viruses, plagues, and diseases.
   Romance:
     template: {name: Genre, genre: Romance, poster: https://theposterdb.com/api/assets/53062, background: https://i.imgur.com/XStnvPc.jpeg}
