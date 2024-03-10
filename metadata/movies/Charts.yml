@@ -45,17 +45,22 @@ collections:
     template: { name: Chart, num: 3, poster: https://theposterdb.com/api/assets/205416 }
     tmdb_popular: 40
     imdb_search:
-      url: https://www.imdb.com/search/title/?title_type=feature,tv_movie,documentary,short
+      type: feature, tv_movie, documentary, short
+      sort_by: popularity.desc
       limit: 40
     summary: Popular Movies across the internet
   Top Rated Global:
     template: { name: Chart, num: 4 }
-    imdb_search: https://www.imdb.com/search/title/?groups=top_250&count=250/
+    imdb_search:
+      limit: 250
+      imdb_top: 250
     url_poster: https://theposterdb.com/api/assets/213605
-    summary: Top Rated Movies across the internet
+    summary: Top Rated Movies across the World
   Oscars:
     template: { name: Chart, num: 6, poster: https://theposterdb.com/api/assets/192593 }
-    imdb_search: https://www.imdb.com/search/title/?title_type=feature,documentary&groups=oscar_winner
+    imdb_search: 
+      type: feature, documentary
+      event.winning: oscar_picture, oscar_director
     summary: Oscar Winning Movies
   Best of 2014:
     template: { name: Best of, year: 2014, poster: https://theposterdb.com/api/assets/205154 }
@@ -212,7 +217,8 @@ collections:
     url_poster: https://i.imgur.com/GQca9tU.png
 
   IMDB Top 100 Movies:
-    imdb_search: https://www.imdb.com/search/title/?groups=top_100  
+    imdb_search: 
+      imdb_top: 100
     sync_mode: sync
     smart_label: critic_rating.desc
     sort_title: ++++++++++++++++++_IMDB Top 100
