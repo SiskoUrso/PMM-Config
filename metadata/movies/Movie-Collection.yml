@@ -1350,7 +1350,7 @@ collections:
     template: {name: Collection, collection: 52760, poster: https://theposterdb.com/api/assets/221980}
   U.S. Marshals:
     template: {name: Collection, collection: 721111, poster: https://theposterdb.com/api/assets/77409}
-  V/H/S:
+  "V/H/S":
     template: {name: Collection, collection: 207621, poster: https://theposterdb.com/api/assets/103361}
   Vacancy:
     template: {name: Collection, collection: 86112, poster: https://theposterdb.com/api/assets/100918}
