@@ -536,7 +536,7 @@ collections:
   Father of the Bride (Steve Martin):
     template: {name: Collection, collection: 96871, poster: https://theposterdb.com/api/assets/129917}
   The Fast and the Furious:
-    template: {name: Collection, collection: "9485, 688042", poster: https://theposterdb.com/api/assets/110853}
+    template: {name: Collection, collection: 9485, poster: https://theposterdb.com/api/assets/110853}
   Fear Street:
     template: {name: Collection, collection: 790370, poster: https://theposterdb.com/api/assets/165321}
   Fearless Hyena:
@@ -1254,7 +1254,7 @@ collections:
   The Strangers:
     template: {name: Collection, collection: 487765, poster: https://theposterdb.com/api/assets/8551}
   Street Fighter:
-    template: {name: Collection, collection: 190435, movie: "687354, 11667", poster: https://theposterdb.com/api/assets/186979}
+    template: {name: Collection, collection: 190435, poster: https://theposterdb.com/api/assets/186979}
   Stuart Little:
     template: {name: Collection, collection: 99727, poster: https://theposterdb.com/api/assets/94628}
   The Substitute:
@@ -1304,7 +1304,7 @@ collections:
   Timecop:
     template: {name: Collection, collection: 170452, poster: https://theposterdb.com/api/assets/77222}
   Tomb Raider:
-    template: {name: Collection, collection: "2467, 621142", poster: https://theposterdb.com/api/assets/73151}
+    template: {name: Collection, collection: 2467, movie: 338970, poster: https://theposterdb.com/api/assets/73151}
   The Tomorrow War:
     template: {name: Collection, collection: 848922, poster: https://www.themoviedb.org/t/p/original/3YylRW8holkhX6IkOUxAy93DWWs.jpg}
   Top Gun:
