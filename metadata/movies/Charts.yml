@@ -47,13 +47,13 @@ collections:
     tmdb_trending_weekly: 10
     summary: Movies Trending across the internet
   Popular:
-    template: { name: Chart, num: 3, poster: https://theposterdb.com/api/assets/205416 }
+    template: { name: Trakt, list: https://trakt.tv/users/siskourso/lists/popular-movies, poster: https://theposterdb.com/api/assets/205416 }
+    sort_title: +1_3Popular
     tmdb_popular: 40
-    trakt_list_details: https://trakt.tv/users/siskourso/lists/popular-movies
    # summary: Popular Movies across the internet
   Top Rated Global:
-    template: { name: Chart, num: 4, poster: https://theposterdb.com/api/assets/213605}
-    trakt_list_details: https://trakt.tv/users/siskourso/lists/top-rated-movies-global
+    template: { name: Trakt, list: https://trakt.tv/users/siskourso/lists/top-rated-movies-global, poster: https://theposterdb.com/api/assets/213605 }
+    sort_title: +1_4Top Rated Global
    # summary: Top Rated Movies across the World
   Oscars:
     template: { name: Chart, num: 5, poster: https://theposterdb.com/api/assets/192593 }
