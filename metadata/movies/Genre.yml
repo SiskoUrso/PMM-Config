@@ -182,4 +182,4 @@ collections:
     template: {name: Genre, genre: Western, poster: https://theposterdb.com/api/assets/51774, background: https://i.imgur.com/X5YSG4J.jpg}
     summary: "Western Film is a genre that revolves around stories primarily set in the late 19th century in the American Old West. Most Westerns are set between the American Civil War (1865) and the early 1900s. Common themes within Western Film include: the conquest of the wild west, the cultural separation of the East and the West, the West’s resistance to modern change, the conflict between Cowboys and Indians, outlaws, and treasure/gold hunting. American Western Film usually revolves around a stoic hero and emphasizes the importance of honor and sacrifice."
   Zombie:
-    template: {name: Trakt, list: https://trakt.tv/users/giladg/lists/zombie-movies, poster: https://theposterdb.com/api/assets/275894, background: https://i.imgur.com/jGvLmCq.jpg}  
+    template: {name: Trakt, list: https://trakt.tv/users/siskourso/lists/zombie-movies, poster: https://theposterdb.com/api/assets/275894, background: https://i.imgur.com/jGvLmCq.jpg}  

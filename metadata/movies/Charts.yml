@@ -182,7 +182,7 @@ collections:
     trakt_list: https://trakt.tv/users/siskourso/lists/best-of-2000s-movies
     sync_mode: sync
     smart_label: critic_rating.desc
-    sort_title: +++++++++++++++++++_00s Movies
+    sort_title: ++++++++++++++++++_00s Movies
     summary: The Best Movies From The 2000's
     url_poster: https://theposterdb.com/api/assets/398496
     url_background: https://i.imgur.com/Uhi7Ygt.jpg 
@@ -191,7 +191,7 @@ collections:
     trakt_list: https://trakt.tv/users/siskourso/lists/best-of-2010s-movies
     sync_mode: sync
     smart_label: critic_rating.desc
-    sort_title: +++++++++++++++++++_10s Movies
+    sort_title: ++++++++++++++++++_10s Movies
     summary: The Best Movies From The 2010's  
     url_poster: https://theposterdb.com/api/assets/398491
     url_background: https://i.imgur.com/4bj6JMO.jpg
@@ -200,7 +200,7 @@ collections:
     trakt_list: https://trakt.tv/users/siskourso/lists/best-of-2020s-movies
     sync_mode: sync
     smart_label: critic_rating.desc
-    sort_title: +++++++++++++++++++_20s Movies
+    sort_title: ++++++++++++++++++_20s Movies
     summary: The Best Movies From The 2020's
     url_poster: https://theposterdb.com/api/assets/398490
     url_background: https://i.imgur.com/47iyE9i.jpg 
@@ -269,23 +269,26 @@ collections:
     plex_search:
       all:
         type: movies
-      sort_by: added.asc
-      limit: 50
+    sort_by: added.asc
+    limit: 50
+    sync_mode: sync
     url_poster: https://theposterdb.com/api/assets/345281
     url_background: https://i.imgur.com/NEifsKj.jpg
   Recently Released:
     plex_search:
       all:
         type: movies
-      sort_by: release.asc
-      limit: 50
-      url_poster: https://theposterdb.com/api/assets/345277
-      url_background: https://i.imgur.com/NEifsKj.jpg      
+    sort_by: release.asc
+    limit: 50
+    sync_mode: sync
+    url_poster: https://theposterdb.com/api/assets/345277
+    url_background: https://i.imgur.com/NEifsKj.jpg      
   Top 100 on Plex:
     plex_search:
       all:
         type: movies
-      sort_by: user_rating.asc
-      limit: 100
-      url_poster: https://theposterdb.com/api/assets/248186
-      url_background: https://i.imgur.com/NEifsKj.jpg
+    sort_by: user_rating.asc
+    limit: 100
+    sync_mode: sync
+    url_poster: https://theposterdb.com/api/assets/248186
+    url_background: https://i.imgur.com/NEifsKj.jpg
