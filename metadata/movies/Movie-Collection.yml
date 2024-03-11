@@ -111,8 +111,6 @@ collections:
   Angels in the ...:
     template: {name: Collection, collection: 508334, poster: https://theposterdb.com/api/assets/202530}
     name_mapping: Angels in the
-  The Animatrix:
-    template: {name: Collection, collection: 712859, poster: https://www.themoviedb.org/t/p/original/1GWbAkuoVqbNYCKab0z4kV3Xmlh.jpg}
   The Angry Birds:
     template: {name: Collection, collection: 531315, poster: https://theposterdb.com/api/assets/23354}
   Annabelle:
@@ -1300,7 +1298,7 @@ collections:
   Thor:
     template: {name: Collection, collection: 131296, poster: https://theposterdb.com/api/assets/4819}
   The Three Mothers:
-    template: {name: Collection, collection: 868672, poster: https://www.themoviedb.org/t/p/original/8i0s5eiDdCWiAnMfiTchEmPATlc.jpg}
+    template: {name: Collection, collection: 1229144, poster: https://www.themoviedb.org/t/p/original/8i0s5eiDdCWiAnMfiTchEmPATlc.jpg}
   The Thing:
     template: {name: Collection, collection: 479888, poster: https://theposterdb.com/api/assets/17180}
   Timecop:

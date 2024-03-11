@@ -144,9 +144,9 @@ collections:
     url_background: https://i.imgur.com/eELv4eB.jpg
   Pandemic:
     template: {name: Trakt, list: https://trakt.tv/users/siskourso/lists/pandemic-movies, poster: https://theposterdb.com/api/assets/55837, background: https://i.imgur.com/WNK2Uqs.png}
-    imdb_list:    
-      - url: https://www.imdb.com/list/ls041901506/
-      - url: https://www.imdb.com/list/ls092321048/
+   # imdb_list:    
+   #   - url: https://www.imdb.com/list/ls041901506/
+   #   - url: https://www.imdb.com/list/ls092321048/
    # summary: A Pandemic film resolves around widespread viruses, plagues, and diseases.
   Romance:
     template: {name: Genre, genre: Romance, poster: https://theposterdb.com/api/assets/53062, background: https://i.imgur.com/XStnvPc.jpeg}
@@ -164,7 +164,7 @@ collections:
     template: {name: Trakt, list: https://trakt.tv/users/giladg/lists/stand-up-comedy, poster: https://theposterdb.com/api/assets/74610, background: https://i.imgur.com/Ud0oGzk.jpeg}
     summary: Stand-up comedy is a comedic style in which a comedian performs in front of a live audience, speaking directly to them through a microphone. Comedians give the illusion that they are dialoguing, but in actuality, they are monologuing a grouping of humorous stories, jokes and one-liners, typically called a shtick, routine, act, or set. Some stand-up comedians use props, music or magic tricks to enhance their acts. Stand-up comedians perform quasi-autobiographical and fictionalized extensions of their offstage selves.
   Submarine:
-    template: {name: Trakt, keyword: submarine-movie, limit: 200, poster: https://theposterdb.com/api/assets/89095, background: https://i.imgur.com/sP7ULC4.jpeg}
+    template: {name: Trakt, list: https://trakt.tv/users/siskourso/lists/submarine-movies, poster: https://theposterdb.com/api/assets/89095, background: https://i.imgur.com/sP7ULC4.jpeg}
    # summary: Collection of movies based around or about Submarines.
   Sword & Sorcery:
     template: {name: Trakt, list: https://trakt.tv/users/siskourso/lists/sword-sorcery-movies, poster: https://theposterdb.com/api/assets/74604, background: https://i.imgur.com/2rvMiHj.jpeg}
