@@ -17,6 +17,11 @@ templates:
     summary: Rotten Tomatoes Best Movies of <<year>>
     url_poster: <<poster>>
     smart_label: audience_rating.desc
+  Trakt:
+    trakt_list_details: <<list>>
+    url_poster: <<poster>>
+    sync_mode: sync
+    collection_order: custom
 
 collections:
 
@@ -44,24 +49,15 @@ collections:
   Popular:
     template: { name: Chart, num: 3, poster: https://theposterdb.com/api/assets/205416 }
     tmdb_popular: 40
-    imdb_search:
-      type: movie, tv_movie, short
-      sort_by: popularity.desc
-      limit: 40
-    summary: Popular Movies across the internet
+    trakt_list_details: https://trakt.tv/users/siskourso/lists/popular-movies
+   # summary: Popular Movies across the internet
   Top Rated Global:
-    template: { name: Chart, num: 4 }
-    imdb_search:
-      limit: 100
-      imdb_top: 100
-    url_poster: https://theposterdb.com/api/assets/213605
-    summary: Top Rated Movies across the World
+    template: { name: Chart, num: 4, poster: https://theposterdb.com/api/assets/213605}
+    trakt_list_details: https://trakt.tv/users/siskourso/lists/top-rated-movies-global
+   # summary: Top Rated Movies across the World
   Oscars:
     template: { name: Chart, num: 5, poster: https://theposterdb.com/api/assets/192593 }
-    imdb_search: 
-      type: movie
-      event.winning: oscar_picture, oscar_director
-      limit: 100
+    mdblist_list: https://mdblist.com/lists/siskourso/external/27388
     summary: Oscar Winning Movies
   Best of 2014:
     template: { name: Best of, year: 2014, poster: https://theposterdb.com/api/assets/205154 }
@@ -218,9 +214,7 @@ collections:
     url_poster: https://i.imgur.com/GQca9tU.png
 
   IMDB Top 100 Movies:
-    imdb_search: 
-      imdb_top: 100
-      limit: 100
+    mdblist_list: https://mdblist.com/lists/siskourso/external/27390
     sync_mode: sync
     smart_label: critic_rating.desc
     sort_title: ++++++++++++++++++_IMDB Top 100
