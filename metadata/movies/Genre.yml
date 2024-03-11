@@ -50,6 +50,8 @@ collections:
   Anime:
     template: {name: Genre, genre: Anime, poster: https://theposterdb.com/api/assets/126743, background: https://i.imgur.com/lyhKY7y.jpeg}
     summary: A collection of Anime movies
+  Apocalypse:
+    template: {name: Trakt, list: https://trakt.tv/users/siskourso/lists/apocalypse-movies, poster: https://theposterdb.com/api/assets/210142, background: https://i.imgur.com/mgNSZP9.jpg}  
   Biography:
     template: {name: Genre, genre: Biography, poster: https://theposterdb.com/api/assets/60369, background: https://i.imgur.com/9co5794.jpeg}
     summary: A collection of Biography movies
@@ -143,10 +145,9 @@ collections:
     url_background: https://i.imgur.com/eELv4eB.jpg
   Pandemic:
     template: {name: Trakt, list: https://trakt.tv/users/siskourso/lists/pandemic-movies, poster: https://theposterdb.com/api/assets/55837, background: https://i.imgur.com/WNK2Uqs.png}
-   # imdb_list:    
-   #   - url: https://www.imdb.com/list/ls041901506/
-   #   - url: https://www.imdb.com/list/ls092321048/
    # summary: A Pandemic film resolves around widespread viruses, plagues, and diseases.
+  Post Apocalypse:
+    template: {name: Trakt, list: https://trakt.tv/users/siskourso/lists/post-apocalypse-movies, poster: https://theposterdb.com/api/assets/210166, background: https://i.imgur.com/nvAVzwE.jpg}
   Romance:
     template: {name: Genre, genre: Romance, poster: https://theposterdb.com/api/assets/53062, background: https://i.imgur.com/XStnvPc.jpeg}
     summary: "Romance film can be defined as a genre wherein the plot revolves around the love between two protagonists. This genre usually has a theme that explores an issue within love, including but not limited to: love at first sight, forbidden love, love triangles, and sacrificial love. The tone of Romance film can vary greatly. Whether the end is happy or tragic, Romance film aims to evoke strong emotions in the audience."
@@ -180,3 +181,5 @@ collections:
   Western:
     template: {name: Genre, genre: Western, poster: https://theposterdb.com/api/assets/51774, background: https://i.imgur.com/X5YSG4J.jpg}
     summary: "Western Film is a genre that revolves around stories primarily set in the late 19th century in the American Old West. Most Westerns are set between the American Civil War (1865) and the early 1900s. Common themes within Western Film include: the conquest of the wild west, the cultural separation of the East and the West, the West’s resistance to modern change, the conflict between Cowboys and Indians, outlaws, and treasure/gold hunting. American Western Film usually revolves around a stoic hero and emphasizes the importance of honor and sacrifice."
+  Zombie:
+    template: {name: Trakt, list: https://trakt.tv/users/giladg/lists/zombie-movies, poster: https://theposterdb.com/api/assets/275894, background: https://i.imgur.com/jGvLmCq.jpg}  

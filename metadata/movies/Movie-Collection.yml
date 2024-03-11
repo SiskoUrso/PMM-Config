@@ -1432,3 +1432,19 @@ collections:
     template: {name: Collection, collection: 352789, poster: https://theposterdb.com/api/assets/51995}
   Zorro:
     template: {name: Collection, collection: 1657, poster: https://theposterdb.com/api/assets/27774}
+
+
+######################################################
+#                Plex Sever Specific                 #
+######################################################
+
+  4K:
+    plex_search:
+      all:
+        resolution: 4K
+    sync_mode: sync
+    collection_mode: default
+    collection_order: release
+    sort_title: "+++++++++++++++++_4K"
+    url_poster: https://i.imgur.com/hsioeWu.png
+    url_background: https://i.imgur.com/nUDbuIi.jpg

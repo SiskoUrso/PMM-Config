@@ -39,17 +39,16 @@ collections:
       list_days: 30
       list_size: 20
       list_buffer: 20
-    summary: Movies Popular on Plex
+    summary: Movies Popular on this Plex Server in the last 30 days.
   Trending:
     template: { name: Chart, num: 2, poster: https://theposterdb.com/api/assets/169001 }
     trakt_trending: 10
     tmdb_trending_daily: 10
     tmdb_trending_weekly: 10
-    summary: Movies Trending across the internet
+    summary: Movies Trending across the internet.
   Popular:
     template: { name: Trakt, list: https://trakt.tv/users/siskourso/lists/popular-movies, poster: https://theposterdb.com/api/assets/205416 }
     sort_title: +1_3Popular
-   # tmdb_popular: 40
    # summary: Popular Movies across the internet
   Top Rated Global:
     template: { name: Trakt, list: https://trakt.tv/users/siskourso/lists/top-rated-movies-global, poster: https://theposterdb.com/api/assets/213605 }
@@ -102,6 +101,15 @@ collections:
     summary: Most Pirated Movies of The Week
     url_background: https://i.imgur.com/SOVfrIq.png
     url_poster: https://i.imgur.com/dYdjSOu.png
+
+  20s Movies:
+    trakt_list: https://trakt.tv/users/siskourso/lists/best-of-1920s-movies
+    sync_mode: sync
+    smart_label: critic_rating.desc
+    sort_title: ++++++++++++++++++_20s Movies
+    summary: The Best Movies From The 20's
+    url_poster: https://theposterdb.com/api/assets/398497
+    url_background: https://i.imgur.com/ZHFWLF6.jpg
 
   30s Movies:
     trakt_list: https://trakt.tv/users/jvanbortel/lists/best-of-the-30s
@@ -170,33 +178,49 @@ collections:
     url_poster: https://i.imgur.com/Nq8fxp8.png
     url_background: https://i.imgur.com/g2yfzfx.jpg
 
-  Sundance Film Festival 2021:
-    trakt_list: https://trakt.tv/users/hdlists/lists/sundance-2021-movie-guide
+  2000s Movies:
+    trakt_list: https://trakt.tv/users/siskourso/lists/best-of-2000s-movies
     sync_mode: sync
     smart_label: critic_rating.desc
-    sort_title: ++++++++++++++++++_Sundance 2021 Collection
-    summary: Sundance Film Festival 2021 Movie Guide
-    url_poster: https://i.imgur.com/6CqlOaq.png
-    url_background: https://i.imgur.com/goapGVl.jpg
+    sort_title: +++++++++++++++++++_00s Movies
+    summary: The Best Movies From The 2000's
+    url_poster: https://theposterdb.com/api/assets/398496
+    url_background: https://i.imgur.com/Uhi7Ygt.jpg 
 
-  Highest Rated Movies of 2021:
-    trakt_list: https://trakt.tv/users/hdlists/lists/2021-best-rated-movies-so-far
+  2010s Movies:
+    trakt_list: https://trakt.tv/users/siskourso/lists/best-of-2010s-movies
     sync_mode: sync
     smart_label: critic_rating.desc
-    sort_title: ++++++++++++++++++_12021 Top Rated popular
-    summary: The Top Rated Movies of 2021 on RottenTomatoes.com
-    url_poster: https://i.imgur.com/w7Ucfa5.png
-    url_background: https://i.imgur.com/trITIgI.jpg
+    sort_title: +++++++++++++++++++_10s Movies
+    summary: The Best Movies From The 2010's  
+    url_poster: https://theposterdb.com/api/assets/398491
+    url_background: https://i.imgur.com/4bj6JMO.jpg
 
-  Most Popular Movies of 2020:
-    trakt_list: https://trakt.tv/users/hdlists/lists/most-popular-movies-of-2020
+  2020s Movies:
+    trakt_list: https://trakt.tv/users/siskourso/lists/best-of-2020s-movies
     sync_mode: sync
     smart_label: critic_rating.desc
-    sort_title: ++++++++++++++++++_2020 Most popular
-    summary: The Most Popular Movies of 2020
-    url_poster: https://i.imgur.com/LLURmaF.png
-    url_background: https://i.imgur.com/gO3Rlft.jpg
+    sort_title: +++++++++++++++++++_20s Movies
+    summary: The Best Movies From The 2020's
+    url_poster: https://theposterdb.com/api/assets/398490
+    url_background: https://i.imgur.com/47iyE9i.jpg 
 
+  Popular on Amazon Prime:
+    trakt_list_details: https://trakt.tv/users/siskourso/lists/popular-on-amazon-prime-movies
+    sync_mode: sync
+    smart_label: critic_rating.desc
+    sort_title: ++++++++++++++++++_Popular on Amazon Prime
+    url_poster: https://theposterdb.com/api/assets/359362
+    url_background: https://i.imgur.com/GA9wHw8.jpg  
+
+  Popular on Netflix:
+    trakt_list_details: https://trakt.tv/users/siskourso/lists/popular-on-netflix-movies
+    sync_mode: sync
+    smart_label: critic_rating.desc
+    sort_title: ++++++++++++++++++_Popular on Netflix
+    url_poster: https://theposterdb.com/api/assets/359355
+    url_background: https://i.imgur.com/hyR0I5Z.jpg
+    
   Reddit Top 250 From 2017:
     trakt_list: https://trakt.tv/users/tehrobot/lists/reddit
     sync_mode: sync
@@ -213,12 +237,55 @@ collections:
     summary: Movies That Everyone is Watching
     url_poster: https://i.imgur.com/GQca9tU.png
 
-  IMDB Top 100 Movies:
+  IMDb Top 100 Movies:
     mdblist_list: https://mdblist.com/lists/siskourso/external/27390
     sync_mode: sync
     smart_label: critic_rating.desc
-    sort_title: ++++++++++++++++++_IMDB Top 100
-    summary: Top 100 Movies as rated on IMDB
+    sort_title: ++++++++++++++++++_IMDb Top 100
+    summary: Top 100 Movies as rated on IMDb
     url_poster: https://theposterdb.com/api/assets/282397
     url_background: https://i.imgur.com/lxg5fn4.jpg
 
+  IMDb Best of last 6 Months:
+    trakt_list_details: https://trakt.tv/users/siskourso/lists/imdb-best-of-last-6-months-movies 
+    smart_label: critic_rating.desc
+    sort_title: ++++++++++++++++++_IMDb Best Last 6 Months
+    url_poster: https://theposterdb.com/api/assets/313083
+    url_background: https://i.imgur.com/lxg5fn4.jpg
+
+  IMDb Worst 1000 Movies:
+    trakt_list_details: https://trakt.tv/users/siskourso/lists/imdb-worst-1000-movies
+    limit: 1000
+    smart_label: critic_rating.asc
+    sort_title: ++++++++++++++++++_IMDb Worst 1000
+    url_poster: https://theposterdb.com/api/assets/264260
+    url_background: https://i.imgur.com/lxg5fn4.jpg
+
+######################################################
+#                Plex Sever Specific                 #
+######################################################
+
+  Recently Added:
+    plex_search:
+      all:
+        type: movies
+      sort_by: added.asc
+      limit: 50
+    url_poster: https://theposterdb.com/api/assets/345281
+    url_background: https://i.imgur.com/NEifsKj.jpg
+  Recently Released:
+    plex_search:
+      all:
+        type: movies
+      sort_by: release.asc
+      limit: 50
+      url_poster: https://theposterdb.com/api/assets/345277
+      url_background: https://i.imgur.com/NEifsKj.jpg      
+  Top 100 on Plex:
+    plex_search:
+      all:
+        type: movies
+      sort_by: user_rating.asc
+      limit: 100
+      url_poster: https://theposterdb.com/api/assets/248186
+      url_background: https://i.imgur.com/NEifsKj.jpg
