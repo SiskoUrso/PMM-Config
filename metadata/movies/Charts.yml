@@ -49,7 +49,7 @@ collections:
   Popular:
     template: { name: Trakt, list: https://trakt.tv/users/siskourso/lists/popular-movies, poster: https://theposterdb.com/api/assets/205416 }
     sort_title: +1_3Popular
-    tmdb_popular: 40
+   # tmdb_popular: 40
    # summary: Popular Movies across the internet
   Top Rated Global:
     template: { name: Trakt, list: https://trakt.tv/users/siskourso/lists/top-rated-movies-global, poster: https://theposterdb.com/api/assets/213605 }
@@ -151,7 +151,7 @@ collections:
   80s Movies:
     trakt_list:
      - https://trakt.tv/users/hdlists/lists/rottentomatoes-com-s-best-of-the-80s
-     - https://trakt.tv/users/zyrus/lists/80s-classics
+     - https://trakt.tv/users/siskourso/lists/80-s-classics-movies
     smart_label: critic_rating.desc
     sync_mode: sync
     sort_title: ++++++++++++++++++_80s Movies

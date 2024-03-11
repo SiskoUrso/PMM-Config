@@ -79,7 +79,6 @@ collections:
     trakt_list:
       - https://trakt.tv/users/kairbear08/lists/halloween
       - https://trakt.tv/users/mybicycle/lists/halloween
-      - https://trakt.tv/users/jayinftl/lists/halloween
       - https://trakt.tv/users/roswellgeek/lists/halloween
     name_mapping: Halloween (Season)
     summary: Halloween themed movies in a collection.
