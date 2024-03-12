@@ -267,11 +267,9 @@ collections:
 
   Recently Added:
     smart_filter:
-      sort_by: added.desc
       all:
-        added: 92
-        release: 365
-      limit: 250
+        release: 120
+      sort_by: added.desc
     sync_mode: sync
     summary: Recently Added within the last 3 Months. 
     sort_title: ++++++++++++++++++++++_2Recently Added
@@ -281,8 +279,7 @@ collections:
     smart_filter:
         sort_by: release.desc
         all:
-          added: 92
-          release: 365
+          release: 120
     limit: 250
     summary: Movies Recently Released in the last 3 Months.
     sync_mode: sync
@@ -292,9 +289,6 @@ collections:
   Top 100 on Plex:
     smart_filter:
         sort_by: user_rating.asc
-        all:
-          added: 92
-          release: 365
     limit: 100
     sync_mode: sync
     sort_title: ++++++++++++++++++++++_3Top 100 on Plex
