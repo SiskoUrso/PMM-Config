@@ -268,7 +268,6 @@ collections:
   Recently Added:
     plex_search:
       all:
-        type: movies
     sort_by: added.asc
     limit: 50
     sync_mode: sync
@@ -277,7 +276,6 @@ collections:
   Recently Released:
     plex_search:
       all:
-        type: movies
     sort_by: release.asc
     limit: 50
     sync_mode: sync
@@ -286,7 +284,6 @@ collections:
   Top 100 on Plex:
     plex_search:
       all:
-        type: movies
     sort_by: user_rating.asc
     limit: 100
     sync_mode: sync
