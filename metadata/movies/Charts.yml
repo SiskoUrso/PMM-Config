@@ -271,12 +271,10 @@ collections:
       all:
         added: 92
         release: 365
-        label.not:
-          - hide from newest
-          - move to older movies
       limit: 250
     sync_mode: sync
     summary: Recently Added within the last 3 Months. 
+    sort_title: ++++++++++++++++++++++_2Recently Added
     url_poster: https://theposterdb.com/api/assets/345281
     url_background: https://i.imgur.com/NEifsKj.jpg
   Recently Released:
@@ -286,7 +284,9 @@ collections:
           added: 92
           release: 365
     limit: 250
+    summary: Movies Recently Released in the last 3 Months.
     sync_mode: sync
+    sort_title: ++++++++++++++++++++++_1Recently Released
     url_poster: https://theposterdb.com/api/assets/345277
     url_background: https://i.imgur.com/NEifsKj.jpg      
   Top 100 on Plex:
@@ -297,5 +297,7 @@ collections:
           release: 365
     limit: 100
     sync_mode: sync
+    sort_title: ++++++++++++++++++++++_3Top 100 on Plex
+    summary: Top 100 Movies as rated by the users on this Plex Server.
     url_poster: https://theposterdb.com/api/assets/248186
     url_background: https://i.imgur.com/NEifsKj.jpg
