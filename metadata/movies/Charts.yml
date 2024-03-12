@@ -280,7 +280,6 @@ collections:
         sort_by: release.desc
         all:
           release: 120
-    limit: 250
     summary: Movies Recently Released in the last 3 Months.
     sync_mode: sync
     sort_title: ++++++++++++++++++++++_1Recently Released
