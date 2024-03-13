@@ -265,16 +265,16 @@ collections:
 #                Plex Sever Specific                 #
 ######################################################
 
-  Recently Added:
-    smart_filter:
-      all:
-        release: 120
-      sort_by: added.desc
-    sync_mode: sync
-    summary: Recently Added within the last 3 Months. 
-    sort_title: ++++++++++++++++++++++_2Recently Added
-    url_poster: https://theposterdb.com/api/assets/345281
-    url_background: https://i.imgur.com/NEifsKj.jpg
+#  Recently Added:
+#    smart_filter:
+#      all:
+#        release: 120
+#      sort_by: added.desc
+#    sync_mode: sync
+#    summary: Recently Added within the last 3 Months. 
+#    sort_title: ++++++++++++++++++++++_2Recently Added
+#    url_poster: https://theposterdb.com/api/assets/345281
+#   url_background: https://i.imgur.com/NEifsKj.jpg
   Recently Released:
     smart_filter:
         sort_by: release.desc
@@ -288,6 +288,8 @@ collections:
   Top 100 on Plex:
     smart_filter:
         sort_by: user_rating.asc
+        all:
+          user_rating.gt: 0.0
     limit: 100
     sync_mode: sync
     sort_title: ++++++++++++++++++++++_3Top 100 on Plex
