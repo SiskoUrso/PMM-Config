@@ -1,0 +1,69 @@
+######################################################
+#         SiskoUrso Studio Light Collections         #
+######################################################
+
+templates:
+  Studio:
+    optional:
+      - company
+    tmdb_company: <<company>>
+    sort_title: +5_<<collection_name>>
+    sync_mode: sync
+    smart_label: release.desc
+    url_poster: <<poster>>
+
+collections:
+  A24:
+    template: {name: Studio, company: 41077, poster: https://theposterdb.com/api/assets/179136}
+    summary: A24 is an American independent entertainment company founded on August 20, 2012, by Daniel Katz, David Fenkel, and John Hodges and based in New York City. It specializes in film distribution, and film and television production.
+  Aardman:
+    template: {name: Studio, company: 297, poster: https://theposterdb.com/api/assets/26074}
+    summary: Aardman Animations, Ltd. is a British animation studio based in Bristol, England. Aardman is known for films made using stop-motion clay animation techniques, particularly those featuring Plasticine characters Wallace and Gromit.
+  Blue Sky:
+    template: {name: Studio, company: 9383, poster: https://theposterdb.com/api/assets/70086}
+    summary: Blue Sky Studios, Inc. is an American computer animation film studio based in Greenwich, Connecticut. It is a subsidiary of 20th Century Animation, a division of Disney Studios Content.
+  Blumhouse Productions:
+    template: {name: Studio, company: 3172, poster: https://theposterdb.com/api/assets/70087}
+    summary: Blumhouse Productions is an American film and television production company founded in 2000 by Jason Blum. It is known mainly for producing horror films.
+  BRON:
+    template: {name: Studio, company: 13240, poster: https://theposterdb.com/api/assets/238458}
+    summary: Bron Studios (stylized as BRON) is a Canadian motion picture company based in British Columbia owned by Bron Media Corporation. Bron's notable productions include Joker, Bombshell, Queen & Slim, Greyhound, Judas and the Black Messiah, The Mule, Henchmen, Roman J. Israel, Esq., Rudderless, Welcome to Me, The Addams Family, The Willoughbys, and Ghostbusters Afterlife.
+  DC Extended Universe:
+    template: {name: Studio, company: 9993, poster: https://theposterdb.com/api/assets/128644}
+    summary: The DC Extended Universe (DCEU) is an American media franchise and shared universe centered on a series of superhero films and television series produced by DC Films and distributed by Warner Bros. Pictures. It is based on characters that appear in American comic books published by DC Comics. The DCEU also includes comic books, short films, novels, and video games. Much like the original DC Universe in comic books, the DCEU was established by crossing over common plot elements, settings, cast, and characters.
+  GAINAX:
+    template: {name: Studio, company: 3041, poster: https://theposterdb.com/api/assets/198852}
+    summary: GAINAX Co., Ltd. is a Japanese anime studio famous for productions such as Neon Genesis Evangelion, Royal Space Force, Gunbuster, Nadia The Secret of Blue Water, Kare Kano, FLCL, Magical Shopping Arcade Abenobashi, and Gurren Lagann, which have garnered critical acclaim[1][2] and commercial success.
+  Lucasfilm:
+    template: {name: Studio, company: 1, poster: https://theposterdb.com/api/assets/206133}
+    summary: Lucasfilm Ltd. LLC is an American film and television production company that is a subsidiary of Walt Disney Studios, which is a business segment of The Walt Disney Company. The studio is best known for creating and producing the Star Wars and Indiana Jones franchises, as well as its leadership in developing special effects, sound, and computer animation for films. Lucasfilm was founded by filmmaker George Lucas in 1971 in San Rafael, California; most of the company's operations were moved to San Francisco in 2005.[3] Disney acquired Lucasfilm in October 2012 for $2.2 billion in cash and $1.855 billion in stock.
+  Madhouse:
+    template: {name: Studio, company: 3464, poster: https://theposterdb.com/api/assets/198858}
+    summary: Madhouse Inc. is a Japanese animation studio founded in 1972 by ex–Mushi Pro animators, including Masao Maruyama, Osamu Dezaki, Rintaro and Yoshiaki Kawajiri.
+  Marvel Studios:
+    template: {name: Studio, company: "420,7505", poster: https://theposterdb.com/api/assets/4742}
+    summary: Marvel Studios, LLC is an American film and television studio that is a subsidiary of Walt Disney Studios, a division of The Walt Disney Company. Marvel Studios is known for the production of the Marvel Cinematic Universe films, based on characters that appear in Marvel Comics publications.
+  Monkeypaw Productions:
+    template: {name: Studio, company: 88934, poster: https://theposterdb.com/api/assets/238462}
+    summary: Monkeypaw Productions is an American production company founded by director and producer Jordan Peele in 2012. The company is known for producing the horror films Get Out and Us. The company is named after the 1902 horror short story "The Monkey's Paw".
+  NEON:
+    template: {name: Studio, company: 90733, poster: https://theposterdb.com/api/assets/140344}
+    summary: Neon is an American film production and distribution company founded in 2017 by CEO Tom Quinn and Tim League, who also was the co-founder of the Alamo Drafthouse Cinema chain.
+  Pixar:
+    template: {name: Studio, company: 3, poster: https://theposterdb.com/api/assets/34750}
+    summary: Pixar Animation Studios, commonly known as Pixar, is an American computer animation studio based in Emeryville, California, a subsidiary of Disney Studios Content owned by The Walt Disney Company. Pixar began in 1979 as part of the Lucasfilm computer division, known as the Graphics Group, before its spin-off as a corporation on February 3, 1986, with funding from Apple co-founder Steve Jobs, who became its majority shareholder. Disney purchased Pixar in 2006 at a valuation of $7.4 billion by converting each share of Pixar stock to 2.3 shares of Disney stock, a transaction that resulted in Jobs becoming Disney's largest single shareholder at the time. Pixar is best known for its feature films technologically powered by RenderMan, the company's own implementation of the industry-standard RenderMan Interface Specification image-rendering application programming interface. Luxo Jr., a desk lamp from the studio's 1986 short film of the same name, is the studio's mascot.
+  Scott Free Productions:
+    template: {name: Studio, company: 1645, poster: https://theposterdb.com/api/assets/197002}
+    summary: Scott Free Productions is a British-American independent film and television production company founded in 1970 by filmmakers and brothers Ridley Scott and Tony Scott. They formed the feature film development company Percy Main Productions in 1980, naming the company after the English village Percy Main, where their father grew up. The company was renamed to Scott Free Productions in 1995. Scott Free has produced films ranging from the 2000 Hollywood blockbuster Gladiator (2000) to "smaller pictures" like Cracks (2009). Between the productions of White Squall (1996) and G.I. Jane (1997), Ridley Scott reorganised the company.
+  Studio Ghibli:
+    template: {name: Studio, company: 10342, poster: https://theposterdb.com/api/assets/32223}
+    summary: Studio Ghibli Inc. is a Japanese animation film studio headquartered in Koganei, Tokyo. The studio is best known for its animated feature films, and has also produced several short films, television commercials, and one television film. The studio’s mascot and most recognizable symbol is the character, Totoro, a giant cat-like spirit from the 1988 classic, My Neighbor Totoro.
+  View Askew:
+    template: {name: Studio, company: 16934, poster: https://theposterdb.com/api/assets/45956}
+    summary: View Askew Productions is an American film and television production company founded by Kevin Smith and Scott Mosier in 1994.
+  Walt Disney Animation Studios:
+    template: {name: Studio, company: 6125, poster: https://theposterdb.com/api/assets/81861}
+    summary: Walt Disney Animation Studios (WDAS), sometimes shortened to Disney Animation, is an American animation studio that creates animated features and short films for The Walt Disney Company. Founded on October 16, 1923 by brothers Walt Disney and Roy O. Disney, it is one of the oldest-running animation studios in the world. It is currently organized as a division of Walt Disney Studios and is headquartered at the Roy E. Disney Animation Building at the Walt Disney Studios lot in Burbank, California.
+  Walt Disney Pictures:
+    template: {name: Studio, company: 1, poster: https://theposterdb.com/api/assets/103271}
+    summary: Walt Disney Pictures is an American film production studio of The Walt Disney Studios, which is owned by The Walt Disney Company. The studio is the flagship producer of live-action feature films within the Walt Disney Studios unit, and is based at the Walt Disney Studios in Burbank, California. Animated films produced by Walt Disney Animation Studios and Pixar Animation Studios are also released under this brand. Walt Disney Studios Motion Pictures distributes and markets the films produced by Walt Disney Pictures.
