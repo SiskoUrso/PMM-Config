@@ -237,6 +237,15 @@ collections:
     summary: Movies That Everyone is Watching
     url_poster: https://i.imgur.com/GQca9tU.png
 
+  The Criterion Collection:
+    imdb_list: https://www.imdb.com/list/ls087831830/
+    sync_mode: sync
+    smart_label: critic_rating.desc
+    sort_title: ++++++++++++++++++_Criterion
+    summary: The Criterion Collection, Inc. (or simply Criterion) is an American home-video distribution company that focuses on licensing, restoring and distributing "important classic and contemporary films". Criterion serves film and media scholars, cinephiles and public and academic libraries. Criterion has helped to standardize certain aspects of home-video releases such as film restoration, the letterboxing format for widescreen films and the inclusion of bonus features such as scholarly essays and documentary content about the films and filmmakers. 
+    url_poster: https://theposterdb.com/api/assets/206770
+    url_background: https://i.imgur.com/kvyOuBJ.jpg
+
   IMDb Top 100 Movies:
     mdblist_list: https://mdblist.com/lists/siskourso/external/27390
     sync_mode: sync
