@@ -290,7 +290,7 @@ collections:
         sort_by: user_rating.asc
         all:
           user_rating.gt: 0.0
-    limit: 100
+        limit: 100
     sync_mode: sync
     sort_title: ++++++++++++++++++++++_3Top 100 on Plex
     summary: Top 100 Movies as rated by the users on this Plex Server.
