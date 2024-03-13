@@ -287,7 +287,7 @@ collections:
     url_background: https://i.imgur.com/NEifsKj.jpg      
   Top 100 on Plex:
     smart_filter:
-        sort_by: user_rating.asc
+        sort_by: user_rating.desc
         all:
           user_rating.gt: 0.0
         limit: 100
