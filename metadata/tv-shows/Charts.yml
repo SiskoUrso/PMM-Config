@@ -37,22 +37,22 @@ collections:
   Popular:
     template: { name: Chart, num: 3 }
     tmdb_popular: 40
-    imdb_list:
-      url: https://www.imdb.com/search/title/?title_type=tv_series,tv_miniseries
+    mdblist_list:
+      url: https://mdblist.com/lists/siskourso/external/28076
       limit: 40
     summary: Popular Shows across the internet
     url_poster: https://theposterdb.com/api/assets/205416
   Top Rated:
     template: { name: Chart, num: 4 }
-    imdb_list:
-      url: https://www.imdb.com/search/title/?title_type=tv_series,tv_miniseries&num_votes=20000,&sort=user_rating,desc
+    mdblist_list:
+      url: https://mdblist.com/lists/siskourso/external/28077
       limit: 100
     tmdb_top_rated: 100
     summary: Top Rated Movies across the internet
     url_poster: https://theposterdb.com/api/assets/213605
   Emmy Winners:
     template: { name: Chart, num: 5 }
-    imdb_list: https://www.imdb.com/search/title/?title_type=tv_series,tv_miniseries&groups=emmy_winner
+    mdblist_list: https://mdblist.com/lists/siskourso/external/28078 
     summary: Emmy Winning Shows
     url_poster: https://theposterdb.com/api/assets/214681
   TV Picks of the Last Year:
