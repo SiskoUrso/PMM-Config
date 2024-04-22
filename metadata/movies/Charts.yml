@@ -258,6 +258,7 @@ collections:
   IMDb Best of last 6 Months:
     trakt_list_details: https://trakt.tv/users/siskourso/lists/imdb-best-of-last-6-months-movies 
     smart_label: critic_rating.desc
+    sync_mode: sync
     sort_title: ++++++++++++++++++_IMDb Best Last 6 Months
     url_poster: https://theposterdb.com/api/assets/313083
     url_background: https://i.imgur.com/lxg5fn4.jpg
@@ -265,6 +266,7 @@ collections:
   IMDb Worst 1000 Movies:
     trakt_list_details: https://trakt.tv/users/siskourso/lists/imdb-worst-1000-movies
     limit: 1000
+    sync_mode: sync
     smart_label: critic_rating.asc
     sort_title: ++++++++++++++++++_IMDb Worst 1000
     url_poster: https://theposterdb.com/api/assets/264260
