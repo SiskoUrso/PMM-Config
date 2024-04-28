@@ -205,7 +205,7 @@ collections:
     url_poster: https://theposterdb.com/api/assets/398490
     url_background: https://i.imgur.com/47iyE9i.jpg 
 
-  Popular on Amazon Prime:
+  Popular Movies on Amazon Prime:
     trakt_list: https://trakt.tv/users/siskourso/lists/popular-on-amazon-prime-movies
     trakt_description: https://trakt.tv/users/siskourso/lists/popular-on-amazon-prime-movies
     sync_mode: sync
@@ -214,7 +214,7 @@ collections:
     url_poster: https://theposterdb.com/api/assets/359362
     url_background: https://i.imgur.com/GA9wHw8.jpg  
 
-  Popular on Netflix:
+  Popular Movies on Netflix:
     trakt_list: https://trakt.tv/users/siskourso/lists/popular-on-netflix-movies
     trakt_description: https://trakt.tv/users/siskourso/lists/popular-on-netflix-movies
     sync_mode: sync
@@ -257,7 +257,7 @@ collections:
     url_poster: https://theposterdb.com/api/assets/282397
     url_background: https://i.imgur.com/lxg5fn4.jpg
 
-  IMDb Best of last 6 Months:
+  IMDb Best of last 6 months:
     trakt_list: https://trakt.tv/users/siskourso/lists/imdb-best-of-last-6-months-movies 
     trakt_description: https://trakt.tv/users/siskourso/lists/imdb-best-of-last-6-months-movies
     smart_label: critic_rating.desc
@@ -266,7 +266,7 @@ collections:
     url_poster: https://theposterdb.com/api/assets/313083
     url_background: https://i.imgur.com/lxg5fn4.jpg
 
-  IMDb Worst 1000 Movies:
+  IMDb Worst 1000:
     trakt_list: https://trakt.tv/users/siskourso/lists/imdb-worst-1000-movies
     trakt_description: https://trakt.tv/users/siskourso/lists/imdb-worst-1000-movies
     limit: 1000
