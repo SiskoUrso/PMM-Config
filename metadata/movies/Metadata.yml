@@ -18,7 +18,7 @@ metadata:
 
   # 2001 Maniacs
   2001 Maniacs:
-    year: 2005
+    year: 2006
     url_poster: https://theposterdb.com/api/assets/173750
   "2001 Maniacs: Field of Screams":
     year: 2010
@@ -33,20 +33,15 @@ metadata:
     url_poster: https://theposterdb.com/api/assets/79742
 
   # 300
-  300:
-    year: 2007
+  "300":
+    match:
+      mapping_id: 1271
+      title: 300
+      year: 2007
     url_poster: https://theposterdb.com/api/assets/138690
   "300: Rise of an Empire":
     year: 2014
     url_poster: https://theposterdb.com/api/assets/138691
-
-  # 3 Men
-  3 Men and a Baby:
-    year: 1987
-    url_poster: https://theposterdb.com/api/assets/231580
-  3 Men and a Little Lady:
-    year: 1990
-    url_poster: https://theposterdb.com/api/assets/231581
 
   # 30 Days of Night
   30 Days of Night:
@@ -87,7 +82,7 @@ metadata:
   "Ace Ventura: When Nature Calls":
     year: 1995
     url_poster: https://theposterdb.com/api/assets/6614
-  "Ace Ventura Jr: Pet Detective":
+  "Ace Ventura: Pet Detective Jr.":
     year: 2009
     url_poster: https://theposterdb.com/api/assets/6615
 
@@ -96,6 +91,7 @@ metadata:
     year: 1991
     url_poster: https://theposterdb.com/api/assets/53153
   Addams Family Values:
+    year: 1993
     url_poster: https://theposterdb.com/api/assets/53154
   Addams Family Reunion:
     url_poster: https://theposterdb.com/api/assets/53155
@@ -112,7 +108,7 @@ metadata:
     year: 1993
     url_poster: https://theposterdb.com/api/assets/375208
   "The Adventures of Young Indiana Jones: The Phantom Train of Doom":
-    year: 1993
+    year: 1999
     url_poster: https://theposterdb.com/api/assets/375209
   "The Adventures of Young Indiana Jones: Hollywood Follies":
     year: 1994
@@ -147,11 +143,11 @@ metadata:
   "The Adventures of Young Indiana Jones: Demons of Deception":
     year: 1999
     url_poster: https://theposterdb.com/api/assets/375220
-  "The Adventures of Young Indiana Jones: Oganga, The Giver and Taker of Life":
+  "The Adventures of Young Indiana Jones: Oganga, the Giver and Taker of Life":
     year: 1999
     url_poster: https://theposterdb.com/api/assets/375221
   "The Adventures of Young Indiana Jones: Adventures in the Secret Service":
-    year: 1999
+    year: 2000
     url_poster: https://theposterdb.com/api/assets/375222
   "The Adventures of Young Indiana Jones: Daredevils of the Desert":
     year: 1999
@@ -160,13 +156,13 @@ metadata:
     year: 1999
     url_poster: https://theposterdb.com/api/assets/375224
   "The Adventures of Young Indiana Jones: My First Adventure":
-    year: 2000
+    year: 2002
     url_poster: https://theposterdb.com/api/assets/375225
   "The Adventures of Young Indiana Jones: Passion for Life":
-    year: 2000
+    year: 2007
     url_poster: https://theposterdb.com/api/assets/375226
   "The Adventures of Young Indiana Jones: Journey of Radiance":
-    year: 2000
+    year: 2007
     url_poster: https://theposterdb.com/api/assets/375227
   "The Adventures of Young Indiana Jones: The Perils of Cupid":
     year: 2000
@@ -418,7 +414,7 @@ metadata:
     url_poster: https://theposterdb.com/api/assets/7896
   "Amityville: A New Generation":
     url_poster: https://theposterdb.com/api/assets/7897
-  "Amityville: Dollhouse":
+  "Amityville Dollhouse":
     url_poster: https://theposterdb.com/api/assets/7898
   The Amityville Horror (Reboot):
     match:
@@ -426,6 +422,7 @@ metadata:
       year: 2005
     url_poster: https://theposterdb.com/api/assets/7899
   The Amityville Haunting:
+    year: 2011
     url_poster: https://theposterdb.com/api/assets/7900
   The Amityville Asylum:
     url_poster: https://theposterdb.com/api/assets/7901
@@ -444,6 +441,7 @@ metadata:
   Amityville Exorcism:
     url_poster: https://theposterdb.com/api/assets/7908
   "Amityville: The Awakening":
+    year: 2016
     url_poster: https://theposterdb.com/api/assets/7909
   The Amityville Murders:
     url_poster: https://theposterdb.com/api/assets/7910
@@ -452,7 +450,7 @@ metadata:
   "Anchorman: The Legend of Ron Burgundy":
     year: 2004
     url_poster: https://theposterdb.com/api/assets/13974
-  "Wake Up, Ron Burgundy: The Lost Movie":
+  "Wake Up, Ron Burgundy":
     year: 2004
     url_poster: https://theposterdb.com/api/assets/14102
   "Anchorman 2: The Legend Continues":
@@ -472,7 +470,9 @@ metadata:
     year: 2013
     url_poster: https://theposterdb.com/api/assets/158082
   Antisocial 2:
-    year: 2015
+    match:
+      mapping_id: 350837
+      year: 2015
     url_poster: https://theposterdb.com/api/assets/158083
 
   # Army of the Dead
@@ -504,10 +504,10 @@ metadata:
   "Atlas Shrugged: Part I":
     year: 2011
     url_poster: https://theposterdb.com/api/assets/83647
-  "Atlas Shrugged: Part II":
+  "Atlas Shrugged II: The Strike":
     year: 2012
     url_poster: https://theposterdb.com/api/assets/83648
-  "Atlas Shrugged: Part III":
+  "Atlas Shrugged: Who Is John Galt?":
     year: 2014
     url_poster: https://theposterdb.com/api/assets/83649
 
@@ -538,8 +538,10 @@ metadata:
 
   # AVP
   Alien vs. Predator:
+    year: 2004
     url_poster: https://theposterdb.com/api/assets/43456
-  "Aliens vs Predator: Requiem":
+  "Aliens vs. Predator: Requiem":
+    year: 2007
     url_poster: https://theposterdb.com/api/assets/43457
 
   # Baby Driver
@@ -6645,6 +6647,14 @@ metadata:
       year: 2011
       title: The Thing
     url_poster: https://theposterdb.com/api/assets/17182
+
+  # Three Men and a Baby
+  Three Men and a Baby:
+    year: 1987
+    url_poster: https://theposterdb.com/api/assets/231580
+  Three Men and a Little Lady:
+    year: 1990
+    url_poster: https://theposterdb.com/api/assets/231581
 
   # Timecop
   Timecop:
