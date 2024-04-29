@@ -257,7 +257,7 @@ collections:
     url_poster: https://theposterdb.com/api/assets/282397
     url_background: https://i.imgur.com/lxg5fn4.jpg
 
-  IMDb Best of last 6 months:
+  IMDb The Best of last 6 Months:
     trakt_list_details: https://trakt.tv/users/siskourso/lists/imdb-best-of-last-6-months-movies 
     trakt_description: https://trakt.tv/users/siskourso/lists/imdb-best-of-last-6-months-movies
     smart_label: critic_rating.desc
