@@ -94,7 +94,8 @@ collections:
  #   template: { name: Best of, year: 2030, poster: https://theposterdb.com/api/assets/205170 }        
 
   Top Ten Pirated Weekly:
-    trakt_list: https://trakt.tv/users/hdlists/lists/top-ten-pirated-movies-of-the-week-torrent-freak-com
+    trakt_list_details: https://trakt.tv/users/hdlists/lists/top-ten-pirated-movies-of-the-week-torrent-freak-com
+    trakt_description: https://trakt.tv/users/hdlists/lists/top-ten-pirated-movies-of-the-week-torrent-freak-com
     smart_label: year.desc
     sync_mode: sync
     sort_title: +++++++++++++++++++++_1APirated Weekly
