@@ -35,16 +35,14 @@ collections:
       list_days: 30
       list_size: 20
       list_buffer: 20
-      list_minimum: 0
     tautulli_watched:
       list_days: 30
       list_size: 20
       list_buffer: 20
-      list_minimum: 0
     summary: Movies Popular on this Plex Server in the last 30 days.
   Trending:
     template: { name: Chart, num: 2, poster: https://theposterdb.com/api/assets/169001 }
-    trakt_chart: 10
+    trakt_trending: 10
     tmdb_trending_daily: 10
     tmdb_trending_weekly: 10
     summary: Movies Trending across the internet.
