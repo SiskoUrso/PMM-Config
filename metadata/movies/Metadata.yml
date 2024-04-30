@@ -2013,9 +2013,10 @@ metadata:
   # Dune
   Dune:
     year: 2021
-    url_poster: https://theposterdb.com/api/assets/197349
+    url_poster: https://theposterdb.com/api/assets/393190
   "Dune: Part Two":
-    url_poster: https://theposterdb.com/api/assets/197350
+    year: 2024
+    url_poster: https://theposterdb.com/api/assets/393191
 
   # El Mariachi
   El Mariachi:
@@ -2235,19 +2236,19 @@ metadata:
     url_poster: https://theposterdb.com/api/assets/129919
 
   # Fear Street
-  "Fear Street: 1994":
+  "Fear Street: Part One - 1994":
     year: 2021
     url_poster: https://theposterdb.com/api/assets/165322
-  "Fear Street: 1978":
+  "Fear Street: Part Two - 1978":
     year: 2021
     url_poster: https://theposterdb.com/api/assets/165323
-  "Fear Street: 1666":
+  "Fear Street: Part Three - 1666":
     year: 2021
     url_poster: https://theposterdb.com/api/assets/165324
 
   # Feast
   Feast:
-    year: 2005
+    year: 2007
     url_poster: https://theposterdb.com/api/assets/25065
   "Feast II: Sloppy Seconds":
     year: 2008
@@ -2324,7 +2325,7 @@ metadata:
   Fortress:
     year: 1992
     url_poster: https://theposterdb.com/api/assets/37380
-  Fortress 2:
+  "Fortress 2: Re-Entry":
     year: 2000
     url_poster: https://theposterdb.com/api/assets/37381
 
@@ -2395,7 +2396,7 @@ metadata:
   Friday the 13th Part 2:
     year: 1981
     url_poster: https://theposterdb.com/api/assets/169890
-  Friday the 13th Part III:
+  "Friday the 13th: Part 3":
     year: 1982
     url_poster: https://theposterdb.com/api/assets/169891
   "Friday the 13th: The Final Chapter":
@@ -2407,13 +2408,13 @@ metadata:
   "Friday the 13th Part VI: Jason Lives":
     year: 1986
     url_poster: https://theposterdb.com/api/assets/169894
-  "Friday the 13th Part VII: The New Blood":
+  "Friday the 13th: The New Blood":
     year: 1988
     url_poster: https://theposterdb.com/api/assets/169895
   "Friday the 13th Part VIII: Jason Takes Manhattan":
     year: 1989
     url_poster: https://theposterdb.com/api/assets/169896
-  "Jason Goes to Hell: The Final Friday":
+  "Jason Goes to Hell":
     year: 1993
     url_poster: https://theposterdb.com/api/assets/169897
   Jason X:
@@ -2442,7 +2443,7 @@ metadata:
       title: Fright Night
       year: 2011
     url_poster: https://theposterdb.com/api/assets/108818
-  "Fright Night 2: New Blood":
+  "Fright Night 2":
     year: 2013
     url_poster: https://theposterdb.com/api/assets/108819
 
@@ -2543,7 +2544,7 @@ metadata:
   The Gate:
     year: 1987
     url_poster: https://theposterdb.com/api/assets/23791
-  The Gate II:
+  "Gate 2: The Trespassers":
     year: 1990
     url_poster: https://theposterdb.com/api/assets/23792
 
@@ -2581,22 +2582,22 @@ metadata:
     url_poster: https://theposterdb.com/api/assets/175262
 
   # Ghost In The Shell: Arise
-  "Ghost in the Shell Arise - Border 1: Ghost Pain":
+  "Ghost in the Shell: Arise - Border 1: Ghost Pain":
     year: 2013
     url_poster: https://theposterdb.com/api/assets/175264
-  "Ghost in the Shell Arise - Border 2: Ghost Whispers":
+  "Ghost in the Shell: Arise - Border 2: Ghost Whispers":
     year: 2013
     url_poster: https://theposterdb.com/api/assets/175265
-  "Ghost in the Shell Arise - Border 3: Ghost Tears":
+  "Ghost in the Shell: Arise - Border 3: Ghost Tears":
     year: 2014
     url_poster: https://theposterdb.com/api/assets/175266
-  "Ghost in the Shell Arise - Border 4: Ghost Stands Alone":
+  "Ghost in the Shell: Arise - Border 4: Ghost Stands Alone":
     year: 2014
     url_poster: https://theposterdb.com/api/assets/175267
   "Ghost in the Shell: The New Movie":
     year: 2015
     url_poster: https://theposterdb.com/api/assets/175268
-  "Ghost in the Shell Arise - Border 5: Pyrophoric Cult":
+  "Ghost in the Shell: Arise - Border 5: Pyrophoric Cult":
     year: 2015
     url_poster: https://theposterdb.com/api/assets/175269
 
@@ -2655,15 +2656,18 @@ metadata:
 
   # The Godfather Saga
   The Godfather:
+    year: 1972
     url_poster: https://theposterdb.com/api/assets/4857
-  "The Godfather: Part II":
+  "The Godfather Part II":
+    year: 1974
     url_poster: https://theposterdb.com/api/assets/4858
-  "The Godfather: Part III":
+  "The Godfather Part III":
+    year: 1990
     url_poster: https://theposterdb.com/api/assets/4859
 
   # The Gods Must Be Crazy
   The Gods Must Be Crazy:
-    year: 1980
+    year: 1981
     url_poster: https://theposterdb.com/api/assets/31746
   The Gods Must Be Crazy II:
     year: 1989
@@ -2863,7 +2867,9 @@ metadata:
     year: 2009
     url_poster: https://theposterdb.com/api/assets/100700
   The Grudge (Reboot):
-    year: 2020
+    match:
+      title: The Grudge
+      year: 2019
     url_poster: https://theposterdb.com/api/assets/100701
 
   # Halloween - https://theposterdb.com/set/115186
