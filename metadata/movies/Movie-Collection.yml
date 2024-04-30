@@ -311,7 +311,7 @@ collections:
     url_poster: https://theposterdb.com/api/assets/106306
   Children of the Corn:
     template: {name: Collection, collection: 115225, poster: https://theposterdb.com/api/assets/80035}
-  Childs Play:
+  Child's Play:
     template: {name: Collection, collection: 10455, poster: https://theposterdb.com/api/assets/94853}
   Chili Palmer:
     template: {name: Collection, collection: 91698, poster: https://www.themoviedb.org/t/p/original/7eq03V9q80w3HPC0gUV2OEQVQ7W.jpg}
