@@ -693,7 +693,8 @@ metadata:
     url_poster: https://theposterdb.com/api/assets/193419
 
   # Batman other
-  Batman vs. Teenage Mutant Ninja Turtles:
+  Batman vs Teenage Mutant Ninja Turtles:
+    year: 2019
     url_poster: https://theposterdb.com/api/assets/73030
   "Batman: The Killing Joke":
     url_poster: https://theposterdb.com/api/assets/73020
@@ -811,10 +812,13 @@ metadata:
 
   # Blade
   Blade:
+    year: 1998
     url_poster: https://theposterdb.com/api/assets/36518
   Blade II:
+    year: 2002
     url_poster: https://theposterdb.com/api/assets/36519
-  Blade Trinity:
+  "Blade: Trinity":
+    year: 2004
     url_poster: https://theposterdb.com/api/assets/36520
 
   # Black Water
@@ -856,13 +860,13 @@ metadata:
 
   # BloodRayne
   BloodRayne:
-    year: 2005
+    year: 2006
     url_poster: https://theposterdb.com/api/assets/44190
-  "BloodRayne 2: Deliverance":
+  "BloodRayne: Deliverance":
     year: 2007
     url_poster: https://theposterdb.com/api/assets/44191
   "BloodRayne: The Third Reich":
-    year: 2010
+    year: 2012
     url_poster: https://theposterdb.com/api/assets/44192
 
   # The Blues Brothers
@@ -878,18 +882,20 @@ metadata:
     url_poster: https://theposterdb.com/api/assets/80257
 
   # Borat
-  "Borat: Cultural Learnings of America for Make Benefit Glorious Nation of Kazakhstan":
+  Borat:
+    year: 2006
     url_poster: https://theposterdb.com/api/assets/139171
   Borat Subsequent Moviefilm:
+    year: 2020
     url_poster: https://theposterdb.com/api/assets/139172
 
   # The Boss Baby
   The Boss Baby:
     year: 2017
     url_poster: https://theposterdb.com/api/assets/71191
-  "The Boss Baby: Back in Business":
-    year: 2018
-    url_poster: https://theposterdb.com/api/assets/71192
+  "The Boss Baby: Family Business":
+    year: 2021
+    url_poster: https://theposterdb.com/api/assets/159711
 
   # The Boy
   The Boy:
@@ -1096,7 +1102,7 @@ metadata:
   Up in Smoke:
     year: 1978
     url_poster: https://theposterdb.com/api/assets/147960
-  "Cheech & Chong's Next Movie":
+  "Cheech and Chong's Next Movie":
     year: 1980
     url_poster: https://theposterdb.com/api/assets/147961
   Nice Dreams:
@@ -1111,10 +1117,10 @@ metadata:
   "Cheech & Chong's The Corsican Brothers":
     year: 1984
     url_poster: https://theposterdb.com/api/assets/147965
-  Cheech & Chong Get Out of My Room:
+  Get Out of My Room:
     year: 1985
     url_poster: https://theposterdb.com/api/assets/147966
-  Cheech & Chong's Hey Watch This:
+  Hey Watch This:
     year: 2010
     url_poster: https://theposterdb.com/api/assets/147967
   Cheech & Chong's Animated Movie:
@@ -1126,7 +1132,7 @@ metadata:
     year: 1984
     url_poster: https://theposterdb.com/api/assets/80036
   "Children of the Corn II: The Final Sacrifice":
-    year: 1992
+    year: 1993
     url_poster: https://theposterdb.com/api/assets/80037
   "Children of the Corn III: Urban Harvest":
     year: 1995
@@ -1149,7 +1155,7 @@ metadata:
       year: 2009
     url_poster: https://theposterdb.com/api/assets/80043
   "Children of the Corn: Genesis":
-    year: 2011
+    year: 2012
     url_poster: https://theposterdb.com/api/assets/80044
   "Children of the Corn: Runaway":
     year: 2018
@@ -1387,10 +1393,10 @@ metadata:
 
   # Creep
   Creep:
-    year: 2014
+    year: 2015
     url_poster: https://theposterdb.com/api/assets/178618
   Creep 2:
-    year: 2016
+    year: 2017
     url_poster: https://theposterdb.com/api/assets/178619
   Creep 3:
     url_poster: https://theposterdb.com/api/assets/178617
@@ -1403,7 +1409,7 @@ metadata:
     year: 1987
     url_poster: https://theposterdb.com/api/assets/81047
   Creepshow 3:
-    year: 2006
+    year: 2007
     url_poster: https://theposterdb.com/api/assets/81048
 
   # The Crimson Rivers
@@ -1480,7 +1486,7 @@ metadata:
   Cube:
     year: 1997
     url_poster: https://theposterdb.com/api/assets/179535
-  "Cube 2: Hypercube":
+  "Cube²: Hypercube":
     year: 2002
     url_poster: https://theposterdb.com/api/assets/179536
   Cube Zero:
@@ -1548,7 +1554,7 @@ metadata:
     url_poster: https://theposterdb.com/api/assets/7657
   Joker:
     url_poster: https://theposterdb.com/api/assets/79254
-  Birds of Prey (and the Fantabulous Emancipation of One Harley Quinn):
+  Birds of Prey:
     year: 2020
     url_poster: https://theposterdb.com/api/assets/47803
   Wonder Woman 1984:
@@ -1627,7 +1633,7 @@ metadata:
   "Death Wish 4: The Crackdown":
     year: 1987
     url_poster: https://theposterdb.com/api/assets/74845
-  "Death Wish V: The Face of Death":
+  "Death Wish: The Face of Death":
     year: 1994
     url_poster: https://theposterdb.com/api/assets/74846
 
@@ -1728,7 +1734,7 @@ metadata:
     url_poster: https://theposterdb.com/api/assets/720
   Die Hard 2:
     url_poster: https://theposterdb.com/api/assets/721
-  "Die Hard: With a Vengeance":
+  "Die Hard with a Vengeance":
     url_poster: https://theposterdb.com/api/assets/722
   Live Free or Die Hard:
     url_poster: https://theposterdb.com/api/assets/723
@@ -2007,9 +2013,10 @@ metadata:
   # Dune
   Dune:
     year: 2021
-    url_poster: https://theposterdb.com/api/assets/197349
+    url_poster: https://theposterdb.com/api/assets/393190
   "Dune: Part Two":
-    url_poster: https://theposterdb.com/api/assets/197350
+    year: 2024
+    url_poster: https://theposterdb.com/api/assets/393191
 
   # El Mariachi
   El Mariachi:
@@ -2023,7 +2030,7 @@ metadata:
     url_poster: https://theposterdb.com/api/assets/214464
 
   # Elvira
-  Elvira, Mistress of the Dark:
+  "Elvira: Mistress of the Dark":
     year: 1988
     url_poster: https://theposterdb.com/api/assets/8033
 
@@ -2110,7 +2117,7 @@ metadata:
 
   # Evil Dead
   The Evil Dead:
-    year: 1981
+    year: 1983
     url_poster: https://theposterdb.com/api/assets/112884
   Evil Dead II:
     year: 1987
@@ -2135,7 +2142,7 @@ metadata:
   "Exorcist: The Beginning":
     year: 2004
     url_poster: https://theposterdb.com/api/assets/18708
-  "Dominion: Prequel to The Exorcist":
+  "Dominion: Prequel to the Exorcist":
     year: 2005
     url_poster: https://theposterdb.com/api/assets/18709
 
@@ -2168,7 +2175,7 @@ metadata:
 
   # Fantasia
   Fantasia:
-    year: 1940
+    year: 1941
     url_poster: https://theposterdb.com/api/assets/130369
   Fantasia 2000:
     url_poster: https://theposterdb.com/api/assets/130370
@@ -2213,8 +2220,12 @@ metadata:
     url_poster: https://theposterdb.com/api/assets/110863
   "Fast & Furious Presents: Hobbs & Shaw":
     url_poster: https://theposterdb.com/api/assets/110864
-  F9:
+  "F9: The Fast Saga":
+    year: 2021
     url_poster: https://theposterdb.com/api/assets/156988
+  Fast X:
+    year: 2023
+    url_poster: https://theposterdb.com/api/assets/373081
 
   # Father Of The Bride
   Father of the Bride:
@@ -2225,19 +2236,19 @@ metadata:
     url_poster: https://theposterdb.com/api/assets/129919
 
   # Fear Street
-  "Fear Street: 1994":
+  "Fear Street: Part One - 1994":
     year: 2021
     url_poster: https://theposterdb.com/api/assets/165322
-  "Fear Street: 1978":
+  "Fear Street: Part Two - 1978":
     year: 2021
     url_poster: https://theposterdb.com/api/assets/165323
-  "Fear Street: 1666":
+  "Fear Street: Part Three - 1666":
     year: 2021
     url_poster: https://theposterdb.com/api/assets/165324
 
   # Feast
   Feast:
-    year: 2005
+    year: 2007
     url_poster: https://theposterdb.com/api/assets/25065
   "Feast II: Sloppy Seconds":
     year: 2008
@@ -2314,7 +2325,7 @@ metadata:
   Fortress:
     year: 1992
     url_poster: https://theposterdb.com/api/assets/37380
-  Fortress 2:
+  "Fortress 2: Re-Entry":
     year: 2000
     url_poster: https://theposterdb.com/api/assets/37381
 
@@ -2385,7 +2396,7 @@ metadata:
   Friday the 13th Part 2:
     year: 1981
     url_poster: https://theposterdb.com/api/assets/169890
-  Friday the 13th Part III:
+  "Friday the 13th: Part 3":
     year: 1982
     url_poster: https://theposterdb.com/api/assets/169891
   "Friday the 13th: The Final Chapter":
@@ -2397,13 +2408,13 @@ metadata:
   "Friday the 13th Part VI: Jason Lives":
     year: 1986
     url_poster: https://theposterdb.com/api/assets/169894
-  "Friday the 13th Part VII: The New Blood":
+  "Friday the 13th: The New Blood":
     year: 1988
     url_poster: https://theposterdb.com/api/assets/169895
   "Friday the 13th Part VIII: Jason Takes Manhattan":
     year: 1989
     url_poster: https://theposterdb.com/api/assets/169896
-  "Jason Goes to Hell: The Final Friday":
+  "Jason Goes to Hell":
     year: 1993
     url_poster: https://theposterdb.com/api/assets/169897
   Jason X:
@@ -2432,7 +2443,7 @@ metadata:
       title: Fright Night
       year: 2011
     url_poster: https://theposterdb.com/api/assets/108818
-  "Fright Night 2: New Blood":
+  "Fright Night 2":
     year: 2013
     url_poster: https://theposterdb.com/api/assets/108819
 
@@ -2533,7 +2544,7 @@ metadata:
   The Gate:
     year: 1987
     url_poster: https://theposterdb.com/api/assets/23791
-  The Gate II:
+  "Gate 2: The Trespassers":
     year: 1990
     url_poster: https://theposterdb.com/api/assets/23792
 
@@ -2571,22 +2582,22 @@ metadata:
     url_poster: https://theposterdb.com/api/assets/175262
 
   # Ghost In The Shell: Arise
-  "Ghost in the Shell Arise - Border 1: Ghost Pain":
+  "Ghost in the Shell: Arise - Border 1: Ghost Pain":
     year: 2013
     url_poster: https://theposterdb.com/api/assets/175264
-  "Ghost in the Shell Arise - Border 2: Ghost Whispers":
+  "Ghost in the Shell: Arise - Border 2: Ghost Whispers":
     year: 2013
     url_poster: https://theposterdb.com/api/assets/175265
-  "Ghost in the Shell Arise - Border 3: Ghost Tears":
+  "Ghost in the Shell: Arise - Border 3: Ghost Tears":
     year: 2014
     url_poster: https://theposterdb.com/api/assets/175266
-  "Ghost in the Shell Arise - Border 4: Ghost Stands Alone":
+  "Ghost in the Shell: Arise - Border 4: Ghost Stands Alone":
     year: 2014
     url_poster: https://theposterdb.com/api/assets/175267
   "Ghost in the Shell: The New Movie":
     year: 2015
     url_poster: https://theposterdb.com/api/assets/175268
-  "Ghost in the Shell Arise - Border 5: Pyrophoric Cult":
+  "Ghost in the Shell: Arise - Border 5: Pyrophoric Cult":
     year: 2015
     url_poster: https://theposterdb.com/api/assets/175269
 
@@ -2645,15 +2656,18 @@ metadata:
 
   # The Godfather Saga
   The Godfather:
+    year: 1972
     url_poster: https://theposterdb.com/api/assets/4857
-  "The Godfather: Part II":
+  "The Godfather Part II":
+    year: 1974
     url_poster: https://theposterdb.com/api/assets/4858
-  "The Godfather: Part III":
+  "The Godfather Part III":
+    year: 1990
     url_poster: https://theposterdb.com/api/assets/4859
 
   # The Gods Must Be Crazy
   The Gods Must Be Crazy:
-    year: 1980
+    year: 1981
     url_poster: https://theposterdb.com/api/assets/31746
   The Gods Must Be Crazy II:
     year: 1989
@@ -2853,7 +2867,9 @@ metadata:
     year: 2009
     url_poster: https://theposterdb.com/api/assets/100700
   The Grudge (Reboot):
-    year: 2020
+    match:
+      title: The Grudge
+      year: 2019
     url_poster: https://theposterdb.com/api/assets/100701
 
   # Halloween - https://theposterdb.com/set/115186

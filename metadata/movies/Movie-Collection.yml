@@ -311,7 +311,7 @@ collections:
     url_poster: https://theposterdb.com/api/assets/106306
   Children of the Corn:
     template: {name: Collection, collection: 115225, poster: https://theposterdb.com/api/assets/80035}
-  Childs Play:
+  Child's Play:
     template: {name: Collection, collection: 10455, poster: https://theposterdb.com/api/assets/94853}
   Chili Palmer:
     template: {name: Collection, collection: 91698, poster: https://www.themoviedb.org/t/p/original/7eq03V9q80w3HPC0gUV2OEQVQ7W.jpg}
@@ -484,7 +484,7 @@ collections:
   Dumb and Dumber:
     template: {name: Collection, collection: 96665, poster: https://theposterdb.com/api/assets/12114}
   Dune:
-    template: {name: Collection, collection: 726871, poster: https://theposterdb.com/api/assets/197348}
+    template: {name: Collection, collection: 726871, poster: https://theposterdb.com/api/assets/393189}
   Dungeons & Dragons:
     template: {name: Collection, collection: 106498, poster: https://theposterdb.com/api/assets/73505}
   El Mariachi:
