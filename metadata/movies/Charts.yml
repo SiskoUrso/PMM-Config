@@ -223,17 +223,10 @@ collections:
     sort_title: ++++++++++++++++++_Popular on Netflix
     url_poster: https://theposterdb.com/api/assets/359355
     url_background: https://i.imgur.com/hyR0I5Z.jpg
-    
-  Reddit Top 250 From 2017:
-    trakt_list: https://trakt.tv/users/tehrobot/lists/reddit
-    sync_mode: sync
-    smart_label: critic_rating.desc
-    sort_title: ++++++++++++++++++_Reddit Top 250
-    summary: Reddit's list of top 250 movies from the list made in 2017.
-    url_poster: https://i.redd.it/lcm7fe9bnib61.png
 
   Movies People are Watching:
-    trakt_list: https://trakt.tv/users/siskourso/lists/movies-people-are-watching
+    trakt_list_details: https://trakt.tv/users/siskourso/lists/movies-people-are-watching
+    trakt_description: https://trakt.tv/users/siskourso/lists/movies-people-are-watching
     sort_title: +++++++++++++++++++++_Everyones Watching
     sync_mode: sync
     smart_label: year.desc
