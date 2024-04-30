@@ -13,7 +13,7 @@ templates:
   Other Genre:
     sort_title: +3_<<collection_name>>
     sync_mode: sync
-    smart_label: alpha
+    smart_label: critic_rating.desc
     url_poster: <<poster>>
     url_background: <<background>>
   Trakt:
