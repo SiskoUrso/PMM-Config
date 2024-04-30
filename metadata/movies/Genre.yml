@@ -13,9 +13,9 @@ templates:
   Other Genre:
     sort_title: +3_<<collection_name>>
     sync_mode: sync
-    smart_label: alpha
     url_poster: <<poster>>
     url_background: <<background>>
+    collection_order: alpha
   Trakt:
     sort_title: +3_<<collection_name>>
     trakt_list_details: <<list>>
