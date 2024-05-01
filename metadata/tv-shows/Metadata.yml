@@ -1712,7 +1712,8 @@ metadata:
         url_poster: https://theposterdb.com/api/assets/373661
 
   Tales of the Walking Dead:
-    year: 2022
+    match:
+      mapping_id: 411314
     url_poster: https://theposterdb.com/api/assets/373738
     seasons: 
       1: 
@@ -2043,7 +2044,8 @@ metadata:
 
   # A&E
   The First 48:
-    year: 2004
+    match:
+      mapping_id: 81275
     url_poster: https://theposterdb.com/api/assets/39038
     seasons:
       1:
@@ -2766,8 +2768,9 @@ metadata:
       4: 
         url_poster: https://theposterdb.com/api/assets/106407
 
-  Shenmue the Animation: 
-    year: 2022
+  Shenmue the Animation:
+    match:
+      mapping_id: 402726
     url_poster: https://theposterdb.com/api/assets/211077
     seasons: 
       1: 
@@ -3012,10 +3015,12 @@ metadata:
   # Apple+
   Home: 
     year: 2020
-    url_poster: https://theposterdb.com/api/assets/110264
+    url_poster: https://theposterdb.com/api/assets/390511
     seasons: 
       1: 
-        url_poster: https://theposterdb.com/api/assets/110265
+        url_poster: https://theposterdb.com/api/assets/390512
+      2: 
+        url_poster: https://theposterdb.com/api/assets/390513
 
   Mythic Quest: 
     year: 2020
@@ -3343,7 +3348,8 @@ metadata:
         url_poster: https://theposterdb.com/api/assets/151543
 
   Rescue Me: 
-    year: 2004
+    match:
+      mapping_id: 73741
     url_poster: https://theposterdb.com/api/assets/346088
     seasons: 
       1: 

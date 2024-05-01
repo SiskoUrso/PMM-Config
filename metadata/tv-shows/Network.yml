@@ -43,7 +43,7 @@ collections:
   Bravo:
     template: { name: network, network: 74, poster: https://theposterdb.com/api/assets/204367, background: https://i.imgur.com/SrLhX1B.png}
   Cartoon Network:
-    template: { name: network, network: "56, 217, 1232, 1483, 2193, 3917, 4771", poster: https://theposterdb.com/api/assets/172187, background: https://i.imgur.com/utFR0O6.jpg}
+    template: { name: network, network: "56, 217, 1232, 1483, 2193, 3917", poster: https://theposterdb.com/api/assets/172187, background: https://i.imgur.com/utFR0O6.jpg}
   CBS:
     template: { name: network, network: "16, 2528, 1709, 2621", poster: https://theposterdb.com/api/assets/48744, background: https://i.imgur.com/16Ufnj2.jpg}
   Channel 4:
@@ -53,7 +53,7 @@ collections:
   Cinemax:
     template: { name: network, network: 359, poster: https://theposterdb.com/api/assets/193488, background: https://i.imgur.com/VEyPNrx.png}
   Comedy Central:
-    template: { name: network, network: 47, poster: https://theposterdb.com/api/assets/193571, background: https://i.imgur.com/ugVlt2o.png}
+    template: { name: network, network: 47, poster: https://theposterdb.com/api/assets/113149, background: https://i.imgur.com/ugVlt2o.png}
   Crunchyroll:
     template: { name: network, network: 1112, poster: https://theposterdb.com/api/assets/170981, background: https://i.imgur.com/CS5M6yc.jpg}
   Discovery:
@@ -65,7 +65,7 @@ collections:
   Food Network:
     template: { name: network, network: 143, poster: https://theposterdb.com/api/assets/214678, background: https://i.imgur.com/caeRoaM.jpg}
   Fox:
-    template: { name: network, network: 19, poster: https://theposterdb.com/api/assets/193568, background: https://i.imgur.com/6CxLjO9.jpg}
+    template: { name: network, network: 19, poster: https://theposterdb.com/api/assets/113173, background: https://i.imgur.com/6CxLjO9.jpg}
   Freeform:
     template: { name: network, network: 1267, poster: https://theposterdb.com/api/assets/207424, background: https://i.imgur.com/eL8XgGL.jpg}
   Fuji TV:
@@ -113,11 +113,11 @@ collections:
   Spike:
     template: { name: network, network: 55, poster: https://theposterdb.com/api/assets/203808, background: https://i.imgur.com/i86BAqj.png}
   Starz:
-    template: { name: network, network: "318, 758, 4906", poster: https://theposterdb.com/api/assets/81775, background: https://i.imgur.com/p52moai.jpg}
+    template: { name: network, network: "318, 758", poster: https://theposterdb.com/api/assets/81775, background: https://i.imgur.com/p52moai.jpg}
   Syfy:
     template: { name: network, network: "77, 3701", poster: https://theposterdb.com/api/assets/193549, background: https://i.imgur.com/388g2Vw.jpg}
   TBS:
-    template: { name: network, network: "68, 160, 4888", poster: https://theposterdb.com/api/assets/193552, background: https://i.imgur.com/hY4NSXH.jpg}
+    template: { name: network, network: "68, 160", poster: https://theposterdb.com/api/assets/193552, background: https://i.imgur.com/hY4NSXH.jpg}
   The CW:
     template: { name: network, network: 71, poster: https://theposterdb.com/api/assets/204375, background: https://i.imgur.com/0qwBhNf.jpg}
   The WB:
@@ -135,4 +135,4 @@ collections:
   VH1:
     template: { name: network, network: 158, poster: https://theposterdb.com/api/assets/220565, background: https://i.imgur.com/ZcALjQs.png}
   YouTube:
-    template: { name: network, network: "247, 1436, 4869", poster: https://theposterdb.com/api/assets/193485, background: https://i.imgur.com/o7Jyzby.jpg}
+    template: { name: network, network: "247, 1436", poster: https://theposterdb.com/api/assets/193485, background: https://i.imgur.com/o7Jyzby.jpg}
