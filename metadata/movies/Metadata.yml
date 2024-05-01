@@ -2995,7 +2995,8 @@ metadata:
 
   # Hatchet
   Hatchet:
-    year: 2006
+    match:
+      mapping_id: 11908
     url_poster: https://theposterdb.com/api/assets/5115
   Hatchet II:
     year: 2010
@@ -3023,7 +3024,7 @@ metadata:
     year: 2018
     url_poster: https://theposterdb.com/api/assets/215236
   "Hell House LLC III: Lake of Fire":
-    year: 2019
+    year: 2020
     url_poster: https://theposterdb.com/api/assets/215237
 
   # Hellboy
@@ -3195,7 +3196,7 @@ metadata:
   Honey, I Blew Up the Kid:
     year: 1992
     url_poster: https://theposterdb.com/api/assets/27436
-  Honey, We Shrunk Ourselves:
+  "Honey, We Shrunk Ourselves!":
     year: 1997
     url_poster: https://theposterdb.com/api/assets/27437
 
@@ -3209,7 +3210,7 @@ metadata:
 
   # Hostel
   Hostel:
-    year: 2005
+    year: 2006
     url_poster: https://theposterdb.com/api/assets/19781
   "Hostel: Part II":
     year: 2007
@@ -3252,7 +3253,7 @@ metadata:
   The Horror Show:
     year: 1989
     url_poster: https://theposterdb.com/api/assets/63415
-  "House IV: Home Deadly Home":
+  "House IV":
     year: 1992
     url_poster: https://theposterdb.com/api/assets/63416
 
@@ -3302,7 +3303,7 @@ metadata:
     year: 1988
     url_poster: https://theposterdb.com/api/assets/22385
   "Howling V: The Rebirth":
-    year: 1989
+    year: 1990
     url_poster: https://theposterdb.com/api/assets/22386
   "Howling VI: The Freaks":
     year: 1991
@@ -3368,6 +3369,9 @@ metadata:
   "The Hunger Games: Mockingjay - Part 2":
     year: 2015
     url_poster: https://theposterdb.com/api/assets/18158
+  "The Hunger Games: The Ballad of Songbirds & Snakes":
+    year: 2023
+    url_poster: https://theposterdb.com/api/assets/457767
 
   # The Huntsman
   Snow White and the Huntsman:
@@ -3395,7 +3399,7 @@ metadata:
   I Spit on Your Grave 2:
     year: 2013
     url_poster: https://theposterdb.com/api/assets/8282
-  "I Spit on Your Grave III: Vengeance is Mine":
+  "I Spit on Your Grave: Vengeance Is Mine":
     year: 2015
     url_poster: https://theposterdb.com/api/assets/8283
 
@@ -3930,7 +3934,8 @@ metadata:
     year: 2000
     url_poster: https://theposterdb.com/api/assets/12191
   "Ju-on: The Grudge":
-    year: 2002
+    match:
+      mapping_id: 11838
     url_poster: https://theposterdb.com/api/assets/12192
   "Ju-on: The Grudge 2":
     year: 2003
@@ -4164,10 +4169,10 @@ metadata:
   "Leprechaun 4: In Space":
     year: 1996
     url_poster: https://theposterdb.com/api/assets/8309
-  Leprechaun in the Hood:
+  "Leprechaun 5: In the Hood":
     year: 2000
     url_poster: https://theposterdb.com/api/assets/8310
-  "Leprechaun: Back 2 tha Hood":
+  "Leprechaun 6: Back 2 Tha Hood":
     year: 2003
     url_poster: https://theposterdb.com/api/assets/8311
   "Leprechaun: Origins":
@@ -4274,7 +4279,7 @@ metadata:
   Look Who's Talking Too:
     year: 1990
     url_poster: https://theposterdb.com/api/assets/134203
-  Look Who's Talking Now!:
+  Look Who's Talking Now:
     year: 1993
     url_poster: https://theposterdb.com/api/assets/134204
 
@@ -4304,7 +4309,7 @@ metadata:
   Mad Max:
     year: 1979
     url_poster: https://theposterdb.com/api/assets/134426
-  Mad Max 2:
+  The Road Warrior:
     year: 1981
     url_poster: https://theposterdb.com/api/assets/134427
   Mad Max Beyond Thunderdome:
@@ -4853,7 +4858,7 @@ metadata:
     url_poster: https://theposterdb.com/api/assets/160871
 
   # National Lampoon's Vacation
-  National Lampoon's Vacation:
+  Vacation:
     year: 1983
     url_poster: https://theposterdb.com/api/assets/1001
   National Lampoon's European Vacation:
@@ -4868,8 +4873,10 @@ metadata:
   "Christmas Vacation 2: Cousin Eddie's Island Adventure":
     year: 2003
     url_poster: https://theposterdb.com/api/assets/1008
-  Vacation:
-    year: 2015
+  Vacation (Reboot):
+    match:
+      title: Vacation
+      year: 2015
     url_poster: https://theposterdb.com/api/assets/1009
 
   # National Treasure
@@ -4936,17 +4943,23 @@ metadata:
   A Nightmare on Elm Street:
     year: 1984
     url_poster: https://theposterdb.com/api/assets/115953
-  "A Nightmare on Elm Street Part 2: Freddy's Revenge":
+  "A Nightmare on Elm Street 2: Freddy's Revenge":
+    year: 1985
     url_poster: https://theposterdb.com/api/assets/115954
   "A Nightmare on Elm Street 3: Dream Warriors":
+    year: 1987
     url_poster: https://theposterdb.com/api/assets/115955
   "A Nightmare on Elm Street 4: The Dream Master":
+    year: 1988
     url_poster: https://theposterdb.com/api/assets/115956
   "A Nightmare on Elm Street: The Dream Child":
+    year: 1989
     url_poster: https://theposterdb.com/api/assets/115957
   "Freddy's Dead: The Final Nightmare":
+    year: 1991
     url_poster: https://theposterdb.com/api/assets/115958
   New Nightmare:
+    year: 1994
     url_poster: https://theposterdb.com/api/assets/115959
   A Nightmare on Elm Street (Remake):
     match:
@@ -4972,6 +4985,7 @@ metadata:
 
   # Ocean's Too Many
   Ocean's Eleven:
+    year: 2001
     sort_title: Ocean's 11
     url_poster: https://theposterdb.com/api/assets/64819
   Ocean's Twelve:
@@ -5066,7 +5080,8 @@ metadata:
 
   # Paranormal Activity - https://theposterdb.com/set/59980
   Paranormal Activity:
-    year: 2007
+    match:
+      mapping_id: 23827
     url_poster: https://theposterdb.com/api/assets/94530
   Paranormal Activity 2:
     year: 2010
@@ -5142,7 +5157,8 @@ metadata:
     year: 1984
     url_poster: https://theposterdb.com/api/assets/72127
   Philadelphia Experiment II:
-    year: 1993
+    match: 
+      mapping_id: 35610
     url_poster: https://theposterdb.com/api/assets/72128
   The Philadelphia Experiment (Remake):
     match:
@@ -5260,7 +5276,7 @@ metadata:
   "Police Academy 4: Citizens on Patrol":
     year: 1987
     url_poster: https://theposterdb.com/api/assets/217972
-  "Police Academy 5: Assignment Miami Beach":
+  "Police Academy 5: Assignment: Miami Beach":
     year: 1988
     url_poster: https://theposterdb.com/api/assets/217973
   "Police Academy 6: City Under Siege":
@@ -5306,12 +5322,13 @@ metadata:
 
   # Porky's
   Porky's:
-    year: 1981
+    match:
+      mapping_id: 10246
     url_poster: https://theposterdb.com/api/assets/72233
   "Porky's II: The Next Day":
     year: 1983
     url_poster: https://theposterdb.com/api/assets/72234
-  "Porky's 3: Revenge":
+  "Porky's Revenge":
     year: 1985
     url_poster: https://theposterdb.com/api/assets/72235
 
@@ -5408,7 +5425,7 @@ metadata:
   "The Prophecy: Uprising":
     year: 2005
     url_poster: https://theposterdb.com/api/assets/36720
-  "The Prophecy V: Forsaken":
+  "The Prophecy: Forsaken":
     year: 2005
     url_poster: https://theposterdb.com/api/assets/36721
 
@@ -5434,13 +5451,16 @@ metadata:
     year: 1990
     url_poster: https://theposterdb.com/api/assets/8395
   "Puppet Master III: Toulon's Revenge":
-    year: 1991
+    match:
+      mapping_id: 26956
     url_poster: https://theposterdb.com/api/assets/8396
   Puppet Master 4:
-    year: 1993
+    match:
+      mapping_id: 26957
     url_poster: https://theposterdb.com/api/assets/8397
-  "Puppet Master 5: The Final Chapter":
-    year: 1994
+  Puppet Master 5:
+    match:
+      mapping_id: 26958
     url_poster: https://theposterdb.com/api/assets/8398
   Curse of the Puppet Master:
     year: 1998
@@ -5548,16 +5568,20 @@ metadata:
 
   # [REC]
   "[REC]":
-    year: 2007
+    match:
+      mapping_id: 8329
     url_poster: https://theposterdb.com/api/assets/25198
   "[REC]²":
-    year: 2009
+    match: 
+      mapping_id: 10664
     url_poster: https://theposterdb.com/api/assets/25199
   "[REC]³ Genesis":
-    year: 2012
+    match:
+      mapping_id: 80280
     url_poster: https://theposterdb.com/api/assets/25200
   "[REC]⁴ Apocalypse":
-    year: 2014
+    match:
+      mapping_id: 185341
     url_poster: https://theposterdb.com/api/assets/25201
 
   # RED
@@ -5619,17 +5643,20 @@ metadata:
   The Return of the Living Dead:
     year: 1985
     url_poster: https://theposterdb.com/api/assets/21011
-  Return of the Living Dead Part II:
+  Return of the Living Dead II:
     year: 1988
     url_poster: https://theposterdb.com/api/assets/21012
   Return of the Living Dead III:
-    year: 1993
+    match:
+      mapping_id: 28260
     url_poster: https://theposterdb.com/api/assets/21013
   "Return of the Living Dead: Rave to the Grave":
-    year: 2005
+    match:
+      mapping_id: 24939
     url_poster: https://theposterdb.com/api/assets/21015
   "Return of the Living Dead: Necropolis":
-    year: 2005
+    match:
+      mapping_id: 24935
     url_poster: https://theposterdb.com/api/assets/21014
 
   # Revenge of the Nerds
@@ -5642,7 +5669,7 @@ metadata:
   "Revenge of the Nerds III: The Next Generation":
     year: 1992
     url_poster: https://theposterdb.com/api/assets/131583
-  "Revenge of the Nerds IV: Nerds In Love":
+  "Revenge of the Nerds IV: Nerds in Love":
     year: 1994
     url_poster: https://theposterdb.com/api/assets/131584
 
@@ -5667,18 +5694,21 @@ metadata:
 
   # Ringu
   Ringu:
-    year: 1998
+    match: 
+      mapping_id: 2671
     url_poster: https://theposterdb.com/api/assets/7677
   Spiral (Ringu):
     match:
       year: 1998
       title: Spiral
     url_poster: https://theposterdb.com/api/assets/7678
-  Ringu 2:
-    year: 1999
+  Ring 2:
+    match:
+      mapping_id: 9669
     url_poster: https://theposterdb.com/api/assets/7679
-  Ringu 0:
-    year: 2000
+  Ring 0:
+    match:
+      mapping_id: 9674
     url_poster: https://theposterdb.com/api/assets/7680
 
   # Rio
@@ -5719,10 +5749,10 @@ metadata:
   # The Rocky Horror Picture Show
   The Rocky Horror Picture Show:
     year: 1975
-    url_poster: https://theposterdb.com/api/assets/143618
+    url_poster: https://theposterdb.com/api/assets/343093
   Shock Treatment:
     year: 1981
-    url_poster: https://theposterdb.com/api/assets/143619
+    url_poster: https://theposterdb.com/api/assets/343094
 
   # RoboCop
   RoboCop:
@@ -5895,7 +5925,7 @@ metadata:
   Scary Movie 4:
     year: 2006
     url_poster: https://theposterdb.com/api/assets/997
-  Scary Movie 5:
+  Scary Movie V:
     year: 2013
     url_poster: https://theposterdb.com/api/assets/998
 
@@ -6040,7 +6070,7 @@ metadata:
   Silent Hill:
     year: 2006
     url_poster: https://theposterdb.com/api/assets/11691
-  "Silent Hill: Revelation 3D":
+  "Silent Hill: Revelation":
     year: 2012
     url_poster: https://theposterdb.com/api/assets/11693
 
@@ -6069,7 +6099,8 @@ metadata:
     year: 1958
     url_poster: https://theposterdb.com/api/assets/52062
   The Golden Voyage of Sinbad:
-    year: 1973
+    match:
+      mapping_id: 17897
     url_poster: https://theposterdb.com/api/assets/52069
   Sinbad and the Eye of the Tiger:
     year: 1977
@@ -6142,21 +6173,25 @@ metadata:
     year: 1983
     url_poster: https://theposterdb.com/api/assets/89063
   "Sleepaway Camp II: Unhappy Campers":
-    year: 1988
+    match:
+      mapping_id: 34311
     url_poster: https://theposterdb.com/api/assets/89064
   "Sleepaway Camp III: Teenage Wasteland":
     year: 1989
     url_poster: https://theposterdb.com/api/assets/89065
   "Sleepaway Camp IV: The Survivor":
-    year: 1992
+    match:
+      mapping_id: 70553
     url_poster: https://theposterdb.com/api/assets/89066
   Return to Sleepaway Camp:
-    year: 2008
+    match: 
+      mapping_id: 35626
     url_poster: https://theposterdb.com/api/assets/89067
 
   # Smokin' Aces
   Smokin' Aces:
-    year: 2006
+    match:
+      mapping_id: 7516
     url_poster: https://theposterdb.com/api/assets/105661
   "Smokin' Aces 2: Assassins' Ball":
     year: 2010
@@ -6239,8 +6274,10 @@ metadata:
   "2001: A Space Odyssey":
     year: 1968
     url_poster: https://theposterdb.com/api/assets/21636
-  2010:
-    year: 1984
+  2010 (Sequel):
+    match:
+      mapping_id: 4437
+      year: 1984
     url_poster: https://theposterdb.com/api/assets/21637
 
   # Species
@@ -6251,7 +6288,8 @@ metadata:
     year: 1998
     url_poster: https://theposterdb.com/api/assets/6941
   Species III:
-    year: 2004
+    match:
+      mapping_id: 9711
     url_poster: https://theposterdb.com/api/assets/6942
   "Species: The Awakening":
     year: 2007
