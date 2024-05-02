@@ -52,7 +52,7 @@ collections:
   Addams Family:
     template: {name: Collection, collection: "11716, 750822", poster: https://theposterdb.com/api/assets/53152}
   The Adventures of Young Indiana Jones:
-    template: {name: Trakt, list: https://trakt.tv/lists/1937, poster: https://theposterdb.com/api/assets/375207}  
+    template: {name: Trakt, list: https://trakt.tv/lists/1937, poster: https://theposterdb.com/api/assets/375207, background: https://i.imgur.com/K4E8HNs.jpg}  
   Air Bud:
     template: {name: Collection, collection: 97445, poster: https://theposterdb.com/api/assets/96172}
   Airplane:
@@ -339,7 +339,7 @@ collections:
   Cloudy with a Chance of Meatballs:
     template: {name: Collection, collection: 177467, poster: https://theposterdb.com/api/assets/37354}
   Cloverfield:
-    template: {name: Trakt, list: https://trakt.tv/users/siskourso/lists/cloverfield-collection, poster: https://theposterdb.com/api/assets/80058}
+    template: {name: Trakt, list: https://trakt.tv/users/siskourso/lists/cloverfield-collection, poster: https://theposterdb.com/api/assets/80058, background: https://i.imgur.com/SRmWhVD.jpg}
     summary: Cloverfield is an American science fiction anthology film series and media franchise created and produced by J. J. Abrams consisting of three films, viral marketing websites linking the films together, and a tie-in manga to the first film titled Cloverfield/Kishin (2008), all set in a shared fictional universe referred to as the "Cloververse". The franchise as a whole deals with creatures from other dimensions attacking Earth throughout various decades, all as a repercussion of an experiment by an astronaut team aboard the Cloverfield Station in outer-space. Each film depicts the reality-altering effects of their study, which was meant to find a new energy source replacing the planet's depleted resources, only to open portals for assault from various beasts from deep space.
   Cocoon:
     template: {name: Collection, collection: 86307, poster: https://theposterdb.com/api/assets/17251}
@@ -896,7 +896,7 @@ collections:
   Marvel One-Shot:
     template: {name: Collection, movie: "211387, 76122, 119569, 253980, 505945, 758025, 413279, 441829, 76535", poster: https://theposterdb.com/api/assets/153891}
   The Man with No Name:
-    template: {name: Trakt, list: https://trakt.tv/users/siskourso/lists/the-man-with-no-name, poster: https://theposterdb.com/api/assets/54596}
+    template: {name: Trakt, list: https://trakt.tv/users/siskourso/lists/the-man-with-no-name, poster: https://theposterdb.com/api/assets/54596, background: https://i.imgur.com/xQTEphr.jpg}
   Marvel Rising:
     template: {name: Collection, collection: 627234, poster: https://theposterdb.com/api/assets/172296}
   Man of Steel:
@@ -941,7 +941,7 @@ collections:
   Monsters, Inc.:
     template: {name: Collection, collection: 137696, poster: https://theposterdb.com/api/assets/161790}
   Monty Python:
-    template: {name: Trakt, list: https://trakt.tv/users/siskourso/lists/monty-python, poster: https://theposterdb.com/api/assets/15665}
+    template: {name: Trakt, list: https://trakt.tv/users/siskourso/lists/monty-python, poster: https://theposterdb.com/api/assets/15665, background: https://i.imgur.com/Bv7oxF8.jpg}
   Mortal Kombat:
     template: {name: Collection, collection: 9818, movie: "664767, 460465", poster: https://theposterdb.com/api/assets/6106}
   Mothra:
