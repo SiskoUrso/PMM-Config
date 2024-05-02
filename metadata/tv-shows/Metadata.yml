@@ -3465,128 +3465,128 @@ metadata:
       5: 
         url_poster: https://theposterdb.com/api/assets/371751
 
-# Fox
-"Married... with Children":
-  match:
-    mapping_id: 76385
-  url_poster: https://theposterdb.com/api/assets/382139
-  seasons:
-    0:
-      url_poster: https://theposterdb.com/api/assets/382140
-    1:
-      url_poster: https://theposterdb.com/api/assets/382141
-    2:
-      url_poster: https://theposterdb.com/api/assets/382142
-    3:
-      url_poster: https://theposterdb.com/api/assets/382143  
-    4:
-      url_poster: https://theposterdb.com/api/assets/382144
-    5:
-      url_poster: https://theposterdb.com/api/assets/382145
-    6:
-      url_poster: https://theposterdb.com/api/assets/382146
-    7:
-      url_poster: https://theposterdb.com/api/assets/382147
-    8:
-      url_poster: https://theposterdb.com/api/assets/382148
-    9:
-      url_poster: https://theposterdb.com/api/assets/382149
-    10:
-      url_poster: https://theposterdb.com/api/assets/382150
-    11:
-      url_poster: https://theposterdb.com/api/assets/382151
+  # Fox
+  "Married... with Children":
+    match:
+      mapping_id: 76385
+    url_poster: https://theposterdb.com/api/assets/382139
+    seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/382140
+      1:
+        url_poster: https://theposterdb.com/api/assets/382141
+      2:
+        url_poster: https://theposterdb.com/api/assets/382142
+      3:
+        url_poster: https://theposterdb.com/api/assets/382143  
+      4:
+        url_poster: https://theposterdb.com/api/assets/382144
+      5:
+        url_poster: https://theposterdb.com/api/assets/382145
+      6:
+        url_poster: https://theposterdb.com/api/assets/382146
+      7:
+        url_poster: https://theposterdb.com/api/assets/382147
+      8:
+        url_poster: https://theposterdb.com/api/assets/382148
+      9:
+        url_poster: https://theposterdb.com/api/assets/382149
+      10:
+        url_poster: https://theposterdb.com/api/assets/382150
+      11:
+        url_poster: https://theposterdb.com/api/assets/382151
 
-Beetlejuice:
-  match:
-    mapping_id: 76892
-  url_poster: https://theposterdb.com/api/assets/425560
-  seasons:
-    1:
-      url_poster: https://theposterdb.com/api/assets/425552
-    2:
-      url_poster: https://theposterdb.com/api/assets/425553
-    3:
-      url_poster: https://theposterdb.com/api/assets/425554
-    4:
-      url_poster: https://theposterdb.com/api/assets/425555      
+  Beetlejuice:
+    match:
+      mapping_id: 76892
+    url_poster: https://theposterdb.com/api/assets/425560
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/425552
+      2:
+        url_poster: https://theposterdb.com/api/assets/425553
+      3:
+        url_poster: https://theposterdb.com/api/assets/425554
+      4:
+        url_poster: https://theposterdb.com/api/assets/425555      
 
-The Simpsons:
-  match: 
-    mapping_id: 71663
-  url_poster: https://theposterdb.com/api/assets/420903
-  seasons:
-    0:
-      url_poster: https://theposterdb.com/api/assets/421002
-    1:
-      url_poster: https://theposterdb.com/api/assets/420904
-    2:
-      url_poster: https://theposterdb.com/api/assets/420905
-    3:
-      url_poster: https://theposterdb.com/api/assets/420906
-    4:
-      url_poster: https://theposterdb.com/api/assets/420907
-    5:
-      url_poster: https://theposterdb.com/api/assets/420908
-    6:
-      url_poster: https://theposterdb.com/api/assets/420909
-    7:
-      url_poster: https://theposterdb.com/api/assets/420910
-    8:
-      url_poster: https://theposterdb.com/api/assets/420911
-    9:
-      url_poster: https://theposterdb.com/api/assets/420912
-    10:
-      url_poster: https://theposterdb.com/api/assets/420913
-    11:
-      url_poster: https://theposterdb.com/api/assets/420914
-    12:
-      url_poster: https://theposterdb.com/api/assets/420915
-    13:
-      url_poster: https://theposterdb.com/api/assets/420916
-    14:
-      url_poster: https://theposterdb.com/api/assets/420917
-    15:
-      url_poster: https://theposterdb.com/api/assets/420918
-    16:
-      url_poster: https://theposterdb.com/api/assets/420919
-    17:
-      url_poster: https://theposterdb.com/api/assets/420920
-    18:
-      url_poster: https://theposterdb.com/api/assets/420921
-    19:
-      url_poster: https://theposterdb.com/api/assets/420922
-    20:
-      url_poster: https://theposterdb.com/api/assets/420923
-    21:
-      url_poster: https://theposterdb.com/api/assets/420924
-    22:
-      url_poster: https://theposterdb.com/api/assets/420925
-    23:
-      url_poster: https://theposterdb.com/api/assets/420926
-    24:
-      url_poster: https://theposterdb.com/api/assets/420927
-    25:
-      url_poster: https://theposterdb.com/api/assets/420928
-    26:
-      url_poster: https://theposterdb.com/api/assets/420929
-    27:
-      url_poster: https://theposterdb.com/api/assets/420930
-    28:
-      url_poster: https://theposterdb.com/api/assets/420931
-    29:
-      url_poster: https://theposterdb.com/api/assets/420932
-    30:
-      url_poster: https://theposterdb.com/api/assets/420933
-    31:
-      url_poster: https://theposterdb.com/api/assets/420934
-    32:
-      url_poster: https://theposterdb.com/api/assets/420935
-    33:
-      url_poster: https://theposterdb.com/api/assets/420936
-    34:
-      url_poster: https://theposterdb.com/api/assets/420937
-    35:
-      url_poster: https://theposterdb.com/api/assets/420938
+  The Simpsons:
+    match: 
+      mapping_id: 71663
+    url_poster: https://theposterdb.com/api/assets/420903
+    seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/421002
+      1:
+        url_poster: https://theposterdb.com/api/assets/420904
+      2:
+        url_poster: https://theposterdb.com/api/assets/420905
+      3:
+        url_poster: https://theposterdb.com/api/assets/420906
+      4:
+        url_poster: https://theposterdb.com/api/assets/420907
+      5:
+        url_poster: https://theposterdb.com/api/assets/420908
+      6:
+        url_poster: https://theposterdb.com/api/assets/420909
+      7:
+        url_poster: https://theposterdb.com/api/assets/420910
+      8:
+        url_poster: https://theposterdb.com/api/assets/420911
+      9:
+        url_poster: https://theposterdb.com/api/assets/420912
+      10:
+        url_poster: https://theposterdb.com/api/assets/420913
+      11:
+        url_poster: https://theposterdb.com/api/assets/420914
+      12:
+        url_poster: https://theposterdb.com/api/assets/420915
+      13:
+        url_poster: https://theposterdb.com/api/assets/420916
+      14:
+        url_poster: https://theposterdb.com/api/assets/420917
+      15:
+        url_poster: https://theposterdb.com/api/assets/420918
+      16:
+        url_poster: https://theposterdb.com/api/assets/420919
+      17:
+        url_poster: https://theposterdb.com/api/assets/420920
+      18:
+        url_poster: https://theposterdb.com/api/assets/420921
+      19:
+        url_poster: https://theposterdb.com/api/assets/420922
+      20:
+        url_poster: https://theposterdb.com/api/assets/420923
+      21:
+        url_poster: https://theposterdb.com/api/assets/420924
+      22:
+        url_poster: https://theposterdb.com/api/assets/420925
+      23:
+        url_poster: https://theposterdb.com/api/assets/420926
+      24:
+        url_poster: https://theposterdb.com/api/assets/420927
+      25:
+        url_poster: https://theposterdb.com/api/assets/420928
+      26:
+        url_poster: https://theposterdb.com/api/assets/420929
+      27:
+        url_poster: https://theposterdb.com/api/assets/420930
+      28:
+        url_poster: https://theposterdb.com/api/assets/420931
+      29:
+        url_poster: https://theposterdb.com/api/assets/420932
+      30:
+        url_poster: https://theposterdb.com/api/assets/420933
+      31:
+        url_poster: https://theposterdb.com/api/assets/420934
+      32:
+        url_poster: https://theposterdb.com/api/assets/420935
+      33:
+        url_poster: https://theposterdb.com/api/assets/420936
+      34:
+        url_poster: https://theposterdb.com/api/assets/420937
+      35:
+        url_poster: https://theposterdb.com/api/assets/420938
 
   In Living Color:
     match:
