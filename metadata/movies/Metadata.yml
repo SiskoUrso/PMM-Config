@@ -6949,18 +6949,21 @@ metadata:
     url_poster: https://theposterdb.com/api/assets/77411
 
   # V/H/S
-  V/H/S:
+  "V/H/S":
     year: 2012
     url_poster: https://theposterdb.com/api/assets/103362
-  V/H/S/2:
+  "V/H/S/2":
     year: 2013
     url_poster: https://theposterdb.com/api/assets/103363
   "V/H/S: Viral":
     year: 2014
     url_poster: https://theposterdb.com/api/assets/103364
-  V/H/S/94:
+  "V/H/S/94":
     year: 2021
     url_poster: https://theposterdb.com/api/assets/181738
+  "V/H/S/85":
+    year: 2023
+    url_poster: https://theposterdb.com/api/assets/418476
 
   # Vacancy
   Vacancy:
