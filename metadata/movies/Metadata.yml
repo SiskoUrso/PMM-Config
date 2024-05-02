@@ -2788,16 +2788,28 @@ metadata:
     year: 2021
     url_poster: https://theposterdb.com/api/assets/135072
 
-  # Godzilla (Anime)
+  # Godzilla (Reiwa):
+  Shin Godzilla:
+    match:
+      mapping_id: 315011
+    url_poster: https://theposterdb.com/api/assets/467027
   "Godzilla: Planet of the Monsters":
-    year: 2017
-    url_poster: https://theposterdb.com/api/assets/21828
+    match:
+      mapping_id: 449574
+    url_poster: https://theposterdb.com/api/assets/467026
   "Godzilla: City on the Edge of Battle":
-    year: 2018
-    url_poster: https://theposterdb.com/api/assets/21829
+    match:
+      mapping_id: 492719
+    url_poster: https://theposterdb.com/api/assets/467025
   "Godzilla: The Planet Eater":
-    year: 2018
-    url_poster: https://theposterdb.com/api/assets/21830
+    match:
+      mapping_id: 536115
+    url_poster: https://theposterdb.com/api/assets/467024
+  Godzilla Minus One:
+    match:
+      mapping_id: 940721
+    url_poster: https://theposterdb.com/api/assets/467023
+      
 
   # A Goofy Movie
   A Goofy Movie:
@@ -7357,7 +7369,7 @@ metadata:
     year: 2005
     url_poster: https://theposterdb.com/api/assets/27776
 
-  # Unsorted
+  # Non Collection Based Movies
   Chinatown:
     url_poster: https://theposterdb.com/api/assets/110518
   Last Action Hero:
@@ -7377,3 +7389,7 @@ metadata:
   "El Camino: A Breaking Bad Movie":
     year: 2019
     url_poster: https://theposterdb.com/api/assets/292010  
+  Being John Malkovich:
+    match:
+      mapping_id: 492
+    url_poster: https://theposterdb.com/api/assets/433699

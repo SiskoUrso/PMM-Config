@@ -1630,7 +1630,7 @@ metadata:
         url_poster: https://theposterdb.com/api/assets/445607
         summary: Ahsoka Tano, the former Jedi apprentice of Anakin Skywalker during the Clone Wars, seeks to prevent the return of Grand Admiral Thrawn following the fall of the Empire.      
 
-  # The Walking Dead - https://theposterdb.com/set/67802
+  # The Walking Dead - https://theposterdb.com/set/211394
   The Walking Dead:
     year: 2010
     url_poster: https://theposterdb.com/api/assets/373644
@@ -1711,6 +1711,14 @@ metadata:
       2: 
         url_poster: https://theposterdb.com/api/assets/373661
 
+  "The Walking Dead: Origins":
+    match:
+      mapping_id: 448039
+    url_poster: https://theposterdb.com/api/assets/373753
+    seasons:
+      1: 
+        url_poster: https://theposterdb.com/api/assets/373754     
+
   Tales of the Walking Dead:
     match:
       mapping_id: 411314
@@ -1729,6 +1737,24 @@ metadata:
       1: 
         url_poster: https://theposterdb.com/api/assets/373658
         summary: The series follows Maggie and Negan traveling into a post-apocalyptic Manhattan cut off from the mainland in search of Maggie's kidnapped son, Hershel. The crumbling city is filled with the dead and denizens who have made New York City their own world full of anarchy, danger, beauty, and terror.             
+
+  "The Walking Dead: Daryl Dixon":
+    match:
+      mapping_id: 427464
+    url_poster: https://theposterdb.com/api/assets/486185
+    seasons: 
+      1:    
+        url_poster: https://theposterdb.com/api/assets/486186  
+        summary: Daryl washes ashore in France (the origin of the zombie virus) and struggles to piece together how he got there and why. The series tracks his journey across a broken but resilient France as he hopes to find a way back home. As he makes the journey, though, the connections he forms along the way complicate his ultimate plan.
+
+  "The Walking Dead: The Ones Who Live":
+    match: 
+      mapping_id: 427202
+    url_poster: https://theposterdb.com/api/assets/486183
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/486186
+        summary: A love story of two people kept apart by an unstoppable power, trying to find each other.       
 
   # Whoniverse - https://theposterdb.com/set/31427
   Doctor Who:
@@ -2867,6 +2893,13 @@ metadata:
       3: 
         url_poster: https://theposterdb.com/api/assets/250971
 
+  The Devil's Hour: 
+    year: 2022
+    url_poster: https://theposterdb.com/api/assets/278711
+    seasons: 
+      1: 
+        url_poster: https://theposterdb.com/api/assets/278712      
+
   The Expanse:
     year: 2015
     url_poster: https://theposterdb.com/api/assets/183290
@@ -2893,13 +2926,14 @@ metadata:
         url_poster: https://theposterdb.com/api/assets/183289
         summary: Holden and the crew of the Rocinante fight alongside the Combined Fleet of Earth and Mars to protect the Inner Planets from Marco Inaros and his Free Navy's campaign of death and destruction. The combined fleet, allied with the fleet of Camina Drummer and other Belter fleets, is successful in defeating Marco and his Free Navy. On a distant planet beyond the Rings, a new power rises.
 
-  The Devil's Hour: 
-    year: 2022
-    url_poster: https://theposterdb.com/api/assets/278711
-    seasons: 
+  Fallout:
+    match:
+      mapping_id: 416744
+    url_poster: https://theposterdb.com/api/assets/481117
+    seasons:
       1: 
-        url_poster: https://theposterdb.com/api/assets/278712      
-
+        url_poster: https://theposterdb.com/api/assets/481128     
+        
   Hunters: 
     year: 2020
     url_poster: https://theposterdb.com/api/assets/81426
@@ -3421,6 +3455,24 @@ metadata:
         url_poster: https://theposterdb.com/api/assets/371751
 
   # Fox
+  "X-Men: The Animated Series":
+    match:
+      mapping_id: 76115
+    url_poster: https://theposterdb.com/api/assets/426689
+    seasons: 
+      0:
+        url_poster: https://theposterdb.com/api/assets/426690
+      1:
+        url_poster: https://theposterdb.com/api/assets/426691
+      2:
+        url_poster: https://theposterdb.com/api/assets/426692
+      3:
+        url_poster: https://theposterdb.com/api/assets/426693
+      4:
+        url_poster: https://theposterdb.com/api/assets/426694
+      5:
+        url_poster: https://theposterdb.com/api/assets/426695
+
   24:
     match:
       mapping_id: 76290
@@ -3471,6 +3523,16 @@ metadata:
         url_poster: https://theposterdb.com/api/assets/66317
       5:
         url_poster: https://theposterdb.com/api/assets/66318
+
+  "X-Men '97":
+    match:
+      mapping_id: 412432
+    url_poster: https://theposterdb.com/api/assets/474229
+    seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/474230
+      1:
+        url_poster: https://theposterdb.com/api/assets/474231
 
   # HBO
   Oz:

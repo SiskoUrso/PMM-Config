@@ -14,6 +14,7 @@ templates:
   Trakt:
     trakt_list_details: <<list>>
     url_poster: <<poster>>
+    url_background: <<background>>
     sync_mode: sync
     collection_order: custom
 collections:
@@ -642,9 +643,9 @@ collections:
   Godzilla (MonsterVerse):
     template: {name: Collection, collection: 535313, movie: 293167, poster: https://theposterdb.com/api/assets/135068}
     sort_title: Godzilla 05 (MonsterVerse)
-  Godzilla (Anime):
-    template: {name: Collection, collection: 535790, poster: https://theposterdb.com/api/assets/21827}
-    sort_title: Godzilla 07 (Anime)
+  Godzilla (Reiwa):
+    template: {name: Trakt, list: https://trakt.tv/users/siskourso/lists/godzilla-reiwa, poster: https://theposterdb.com/api/assets/171336, background: https://i.imgur.com/oxChDaf.jpg}
+    sort_title: Godzilla 06 (Reiwa)
   A Goofy Movie:
     template: {name: Collection, collection: 410261, poster: https://theposterdb.com/api/assets/131198}
   Goosebumps:
