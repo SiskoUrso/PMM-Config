@@ -3652,10 +3652,163 @@ metadata:
       5:
         url_poster: https://theposterdb.com/api/assets/93603
 
+  King of the Hill:    
+    match:
+      mapping_id: 73903
+    url_poster: https://theposterdb.com/api/assets/184979
+    seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/184980
+      1:
+        url_poster: https://theposterdb.com/api/assets/184981
+      2:
+        url_poster: https://theposterdb.com/api/assets/184982
+      3:
+        url_poster: https://theposterdb.com/api/assets/184983
+      4:
+        url_poster: https://theposterdb.com/api/assets/184984
+      5:
+        url_poster: https://theposterdb.com/api/assets/184985
+      6:
+        url_poster: https://theposterdb.com/api/assets/184986
+      7:
+        url_poster: https://theposterdb.com/api/assets/184987
+      8:
+        url_poster: https://theposterdb.com/api/assets/184988
+      9:
+        url_poster: https://theposterdb.com/api/assets/184989
+      10:
+        url_poster: https://theposterdb.com/api/assets/184990
+      11:
+        url_poster: https://theposterdb.com/api/assets/184991
+      12:
+        url_poster: https://theposterdb.com/api/assets/184992
+      13:
+        url_poster: https://theposterdb.com/api/assets/184993
+
+  "That '70s Show":
+    match:
+      mapping_id: 73787
+    url_poster: https://theposterdb.com/api/assets/261019
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/261020
+      2:
+        url_poster: https://theposterdb.com/api/assets/261021
+      3:
+        url_poster: https://theposterdb.com/api/assets/261022
+      4:
+        url_poster: https://theposterdb.com/api/assets/261023
+      5:
+        url_poster: https://theposterdb.com/api/assets/261024
+      6:
+        url_poster: https://theposterdb.com/api/assets/261025
+      7:
+        url_poster: https://theposterdb.com/api/assets/261026
+      8:
+        url_poster: https://theposterdb.com/api/assets/261027
+
+  Family Guy:
+    match:
+      mapping_id: 75978
+    url_poster: https://theposterdb.com/api/assets/394536
+    seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/394537
+      1:
+        url_poster: https://theposterdb.com/api/assets/394538
+      2:
+        url_poster: https://theposterdb.com/api/assets/394539
+      3:
+        url_poster: https://theposterdb.com/api/assets/394540
+      4:
+        url_poster: https://theposterdb.com/api/assets/394541
+      5:
+        url_poster: https://theposterdb.com/api/assets/394542
+      6:
+        url_poster: https://theposterdb.com/api/assets/394543
+      7:
+        url_poster: https://theposterdb.com/api/assets/394544
+      8:
+        url_poster: https://theposterdb.com/api/assets/394545
+      9:
+        url_poster: https://theposterdb.com/api/assets/394546
+      10:
+        url_poster: https://theposterdb.com/api/assets/394547
+      11:
+        url_poster: https://theposterdb.com/api/assets/394548
+      12:
+        url_poster: https://theposterdb.com/api/assets/394549
+      13:
+        url_poster: https://theposterdb.com/api/assets/394550
+      14:
+        url_poster: https://theposterdb.com/api/assets/394551
+      15:
+        url_poster: https://theposterdb.com/api/assets/394552
+      16:
+        url_poster: https://theposterdb.com/api/assets/394553
+      17:
+        url_poster: https://theposterdb.com/api/assets/394554
+      18:
+        url_poster: https://theposterdb.com/api/assets/394555
+      19:
+        url_poster: https://theposterdb.com/api/assets/394556
+      20:
+        url_poster: https://theposterdb.com/api/assets/394557
+      21:
+        url_poster: https://theposterdb.com/api/assets/394558
+      22:
+        url_poster: https://theposterdb.com/api/assets/394559
+
+  Futurama:
+    match:
+      mapping_id: 73871
+    url_poster: https://theposterdb.com/api/assets/389694
+    seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/389695
+      1:
+        url_poster: https://theposterdb.com/api/assets/389696
+      2:
+        url_poster: https://theposterdb.com/api/assets/389697
+      3:
+        url_poster: https://theposterdb.com/api/assets/389698
+      4:
+        url_poster: https://theposterdb.com/api/assets/389699
+      5:
+        url_poster: https://theposterdb.com/api/assets/389700
+      6:
+        url_poster: https://theposterdb.com/api/assets/389701
+      7:
+        url_poster: https://theposterdb.com/api/assets/389702
+      8:
+        url_poster: https://theposterdb.com/api/assets/389703
+
+  Malcolm in the Middle:
+    match: 
+      mapping_id: 73838
+    url_poster: https://theposterdb.com/api/assets/479531
+    seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/479532
+      1:
+        url_poster: https://theposterdb.com/api/assets/479533
+      2:
+        url_poster: https://theposterdb.com/api/assets/479534
+      3:
+        url_poster: https://theposterdb.com/api/assets/479535
+      4:
+        url_poster: https://theposterdb.com/api/assets/479536
+      5:
+        url_poster: https://theposterdb.com/api/assets/479537
+      6:
+        url_poster: https://theposterdb.com/api/assets/479538
+      7:
+        url_poster: https://theposterdb.com/api/assets/479539  
+
   24:
     match:
       mapping_id: 76290
-      year: 2001
     url_poster: https://theposterdb.com/api/assets/83054
     seasons:
       1:
@@ -3686,6 +3839,180 @@ metadata:
         url_poster: https://theposterdb.com/api/assets/83063
         summary: 24 Live Another Day also known as Season 9 or Day 9, takes place four years after the events of season 8. James Heller, now president, is negotiating a treaty in London, where a hacker collective preaching freedom of information has enlisted the help of Chloe O'Brian. Jack Bauer, who has been tracking the activities of Chloe's group while living in exile, resurfaces when he hears of an imminent attempt on Heller's life.
 
+  Andy Richter Controls the Universe:
+    match:
+      mapping_id: 77290
+    url_poster: https://theposterdb.com/api/assets/332269
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/332270
+      2:
+        url_poster: https://theposterdb.com/api/assets/332271
+
+  Firefly:
+    match:
+      mapping_id: 78874
+    url_poster: https://theposterdb.com/api/assets/118702
+    seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/118703
+      1:
+        url_poster: https://theposterdb.com/api/assets/118704   
+
+  House:  
+    match:
+      mapping_id: 73255
+    url_poster: https://theposterdb.com/api/assets/96826
+    seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/96775
+      1:
+        url_poster: https://theposterdb.com/api/assets/96776
+      2:
+        url_poster: https://theposterdb.com/api/assets/96777
+      3:
+        url_poster: https://theposterdb.com/api/assets/96778
+      4:
+        url_poster: https://theposterdb.com/api/assets/96779
+      5:
+        url_poster: https://theposterdb.com/api/assets/96780
+      6:
+        url_poster: https://theposterdb.com/api/assets/96781
+      7:
+        url_poster: https://theposterdb.com/api/assets/96782
+      8:
+        url_poster: https://theposterdb.com/api/assets/96783
+
+  "American Dad!":
+    match:
+      mapping_id: 73141
+    url_poster: https://theposterdb.com/api/assets/274094   
+    seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/117655
+      1:
+        url_poster: https://theposterdb.com/api/assets/117656
+      2:
+        url_poster: https://theposterdb.com/api/assets/117657
+      3:
+        url_poster: https://theposterdb.com/api/assets/117658
+      4:
+        url_poster: https://theposterdb.com/api/assets/117659
+      5:
+        url_poster: https://theposterdb.com/api/assets/117660
+      6:
+        url_poster: https://theposterdb.com/api/assets/117661
+      7:
+        url_poster: https://theposterdb.com/api/assets/117662
+      8:
+        url_poster: https://theposterdb.com/api/assets/117663
+      9:
+        url_poster: https://theposterdb.com/api/assets/117664
+      10:
+        url_poster: https://theposterdb.com/api/assets/117665
+      11:
+        url_poster: https://theposterdb.com/api/assets/117666
+      12:
+        url_poster: https://theposterdb.com/api/assets/117667
+      13:
+        url_poster: https://theposterdb.com/api/assets/117668
+      14:
+        url_poster: https://theposterdb.com/api/assets/117669
+      15:
+        url_poster: https://theposterdb.com/api/assets/117670
+      16:
+        url_poster: https://theposterdb.com/api/assets/117671
+      17:
+        url_poster: https://theposterdb.com/api/assets/117672
+      18:
+        url_poster: https://theposterdb.com/api/assets/147102
+      19:
+        url_poster: https://theposterdb.com/api/assets/214772
+      20:
+        url_poster: https://theposterdb.com/api/assets/343449
+
+  "Hell's Kitchen":
+    match:
+      mapping_id: 74897
+    url_poster: https://theposterdb.com/api/assets/118140
+    seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/118141
+      1:
+        url_poster: https://theposterdb.com/api/assets/118142
+      2:
+        url_poster: https://theposterdb.com/api/assets/118143
+      3:
+        url_poster: https://theposterdb.com/api/assets/118144
+      4:
+        url_poster: https://theposterdb.com/api/assets/118145
+      5:
+        url_poster: https://theposterdb.com/api/assets/118146
+      6:
+        url_poster: https://theposterdb.com/api/assets/118147
+      7:
+        url_poster: https://theposterdb.com/api/assets/118148
+      8:
+        url_poster: https://theposterdb.com/api/assets/118149
+      9:
+        url_poster: https://theposterdb.com/api/assets/118150
+      10:
+        url_poster: https://theposterdb.com/api/assets/118151
+      11:
+        url_poster: https://theposterdb.com/api/assets/118152
+      12:
+        url_poster: https://theposterdb.com/api/assets/118153
+      13:
+        url_poster: https://theposterdb.com/api/assets/118154
+      14:
+        url_poster: https://theposterdb.com/api/assets/118155
+      15:
+        url_poster: https://theposterdb.com/api/assets/118156
+      16:
+        url_poster: https://theposterdb.com/api/assets/118157
+      17:
+        url_poster: https://theposterdb.com/api/assets/118158
+      18:
+        url_poster: https://theposterdb.com/api/assets/118159
+      19:
+        url_poster: https://theposterdb.com/api/assets/162428
+      20:
+        url_poster: https://theposterdb.com/api/assets/179833
+      21:
+        url_poster: https://theposterdb.com/api/assets/309005
+      22:
+        url_poster: https://theposterdb.com/api/assets/414275
+
+  Kitchen Nightmares:
+    match:
+      mapping_id: 80552
+    url_poster: https://theposterdb.com/api/assets/396851
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/396852
+      2:
+        url_poster: https://theposterdb.com/api/assets/396853
+      3:
+        url_poster: https://theposterdb.com/api/assets/396854
+      4:
+        url_poster: https://theposterdb.com/api/assets/396855
+      5:
+        url_poster: https://theposterdb.com/api/assets/396856
+      6:
+        url_poster: https://theposterdb.com/api/assets/396857
+      7:
+        url_poster: https://theposterdb.com/api/assets/396858
+
+  "Terminator: The Sarah Connor Chronicles":
+    match:
+      mapping_id: 80344
+    url_poster: https://theposterdb.com/api/assets/151340
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/232055
+      2:
+        url_poster: https://theposterdb.com/api/assets/232056
+
   Fringe:
     year: 2008
     url_poster: https://theposterdb.com/api/assets/66312
@@ -3702,6 +4029,98 @@ metadata:
         url_poster: https://theposterdb.com/api/assets/66317
       5:
         url_poster: https://theposterdb.com/api/assets/66318
+
+  The Cleveland Show: 
+    match:
+      mapping_id: 93991
+    url_poster: https://theposterdb.com/api/assets/445052
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/445053
+      2:
+        url_poster: https://theposterdb.com/api/assets/445054
+      3:
+        url_poster: https://theposterdb.com/api/assets/445055
+      4:
+        url_poster: https://theposterdb.com/api/assets/445056
+
+  MasterChef:
+    match:
+      mapping_id: 167751
+    url_poster: https://theposterdb.com/api/assets/308972
+    seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/308973
+      1:
+        url_poster: https://theposterdb.com/api/assets/308974
+      2:
+        url_poster: https://theposterdb.com/api/assets/308975
+      3:
+        url_poster: https://theposterdb.com/api/assets/308976
+      4:
+        url_poster: https://theposterdb.com/api/assets/308977
+      5:
+        url_poster: https://theposterdb.com/api/assets/308978
+      6:
+        url_poster: https://theposterdb.com/api/assets/308979
+      7:
+        url_poster: https://theposterdb.com/api/assets/308980
+      8:
+        url_poster: https://theposterdb.com/api/assets/308981
+      9:
+        url_poster: https://theposterdb.com/api/assets/308982
+      10:
+        url_poster: https://theposterdb.com/api/assets/308983
+      11:
+        url_poster: https://theposterdb.com/api/assets/308984
+      12:
+        url_poster: https://theposterdb.com/api/assets/308985
+      13:
+        url_poster: https://theposterdb.com/api/assets/410323
+
+  Bob's Burgers:
+    match: 
+      mapping_id: 194031
+    url_poster: https://theposterdb.com/api/assets/418213
+    seasons:  
+      0:
+        url_poster: https://theposterdb.com/api/assets/418214
+      1:
+        url_poster: https://theposterdb.com/api/assets/418215
+      2:
+        url_poster: https://theposterdb.com/api/assets/418216
+      3:
+        url_poster: https://theposterdb.com/api/assets/418217
+      4:
+        url_poster: https://theposterdb.com/api/assets/418218
+      5:
+        url_poster: https://theposterdb.com/api/assets/418219
+      6:
+        url_poster: https://theposterdb.com/api/assets/418220
+      7:
+        url_poster: https://theposterdb.com/api/assets/418221
+      8:
+        url_poster: https://theposterdb.com/api/assets/418222
+      9:
+        url_poster: https://theposterdb.com/api/assets/418223
+      10:
+        url_poster: https://theposterdb.com/api/assets/418224
+      11:
+        url_poster: https://theposterdb.com/api/assets/418483
+      12:
+        url_poster: https://theposterdb.com/api/assets/418225
+      13:
+        url_poster: https://theposterdb.com/api/assets/418226
+      14:
+        url_poster: https://theposterdb.com/api/assets/418227    
+
+  Terra Nova:
+    match:
+      mapping_id: 164091
+    url_poster: https://theposterdb.com/api/assets/233293
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/233294
 
   # HBO
   Oz:
