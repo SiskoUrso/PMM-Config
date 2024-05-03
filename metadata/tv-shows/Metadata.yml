@@ -1570,10 +1570,9 @@ metadata:
 
   "Star Wars: Tales of the Jedi":
     year: 2022
+    url_poster: https://theposterdb.com/api/assets/385763
     seasons: 
       1: 
-        url_poster: https://theposterdb.com/api/assets/385763
-      2: 
         url_poster: https://theposterdb.com/api/assets/385764
         
   "Star Wars: Young Jedi Adventures":
