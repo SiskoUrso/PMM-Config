@@ -994,6 +994,8 @@ collections:
     template: {name: Collection, collection: 66761, poster: https://theposterdb.com/api/assets/174215}
   Ouija:
     template: {name: Collection, collection: 426103, poster: https://theposterdb.com/api/assets/217698}
+  Outpost:
+    template: {name: Collection, collection: 108804, poster: https://theposterdb.com/api/assets/474265}
   Oz:
     template: {name: Collection, collection: 627517, movie: "13155, 68728", poster: https://theposterdb.com/api/assets/60207}
   Pacific Rim:

@@ -4122,6 +4122,154 @@ metadata:
       1:
         url_poster: https://theposterdb.com/api/assets/233294
 
+  Last Man Standing:
+    match:
+      mapping_id: 248834
+    url_poster: https://theposterdb.com/api/assets/147886
+    seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/147887
+      1:
+        url_poster: https://theposterdb.com/api/assets/147888
+      2:
+        url_poster: https://theposterdb.com/api/assets/147889
+      3:
+        url_poster: https://theposterdb.com/api/assets/147890
+      4:
+        url_poster: https://theposterdb.com/api/assets/147891
+      5:
+        url_poster: https://theposterdb.com/api/assets/147892
+      6:
+        url_poster: https://theposterdb.com/api/assets/147893
+      7:
+        url_poster: https://theposterdb.com/api/assets/147894
+      8:
+        url_poster: https://theposterdb.com/api/assets/147895
+      9: 
+        url_poster: https://theposterdb.com/api/assets/147896
+
+  Hotel Hell: 
+    match:
+      mapping_id: 257609
+    url_poster: https://theposterdb.com/api/assets/412791
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/412792
+      2:
+        url_poster: https://theposterdb.com/api/assets/412793
+      3:
+        url_poster: https://theposterdb.com/api/assets/412794
+
+  Cosmos:
+    match:
+      mapping_id: 260586
+    url_poster: https://theposterdb.com/api/assets/63005
+    seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/63006
+      1:
+        url_poster: https://theposterdb.com/api/assets/63007
+      2:
+        url_poster: https://theposterdb.com/api/assets/63008
+
+  Gotham:
+    match:
+      mapping_id: 274431
+    url_poster: https://theposterdb.com/api/assets/102811
+    seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/102812
+      1:
+        url_poster: https://theposterdb.com/api/assets/102813
+      2:
+        url_poster: https://theposterdb.com/api/assets/102814
+      3:
+        url_poster: https://theposterdb.com/api/assets/102815
+      4:
+        url_poster: https://theposterdb.com/api/assets/102816
+      5:
+        url_poster: https://theposterdb.com/api/assets/102817
+
+  Wayward Pines:
+    match:
+      mapping_id: 269750
+    url_poster: https://theposterdb.com/api/assets/89626
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/89627
+      2:
+        url_poster: https://theposterdb.com/api/assets/89628
+
+  Scream Queens:
+    match:
+      mapping_id: 293302
+    url_poster: https://theposterdb.com/api/assets/487008
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/4588
+      2:
+        url_poster: https://theposterdb.com/api/assets/4589
+
+  The Exorcist:
+    match:
+      mapping_id: 311816
+    url_poster: https://theposterdb.com/api/assets/419007
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/419008
+      2:
+        url_poster: https://theposterdb.com/api/assets/419009
+
+  The Orville:
+    match:
+      mapping_id: 328487
+    url_poster: https://theposterdb.com/api/assets/268136
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/268137
+      2:
+        url_poster: https://theposterdb.com/api/assets/268138
+      3:
+        url_poster: https://theposterdb.com/api/assets/268139
+
+  The Gifted:
+    match:
+      mapping_id: 328552
+    url_poster: https://theposterdb.com/api/assets/233917
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/233918
+      2:
+        url_poster: https://theposterdb.com/api/assets/233919
+
+  Prodigal Son:
+    match:
+      mapping_id: 352883
+    url_poster: https://theposterdb.com/api/assets/124565
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/124566
+      2:
+        url_poster: https://theposterdb.com/api/assets/124567
+
+  Accused:
+    match:
+      mapping_id: 402879
+    url_poster: https://theposterdb.com/api/assets/311941
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/311942
+
+  Animal Control:
+    match:
+      mapping_id: 423022
+    url_poster: https://theposterdb.com/api/assets/471342
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/471343
+      2:
+        url_poster: https://theposterdb.com/api/assets/471344
+
   # HBO
   Oz:
     year: 1997

@@ -5063,6 +5063,20 @@ metadata:
     year: 2016
     url_poster: https://theposterdb.com/api/assets/217700
 
+  # Outpost
+  Outpost:
+    match:
+      mapping_id: 9017
+    url_poster: https://theposterdb.com/api/assets/474268
+  "Outpost: Black Sun": 
+    match:
+      mapping_id: 100183
+    url_poster: https://theposterdb.com/api/assets/474267
+  "Outpost: Rise of the Spetsnaz":
+    match:
+      mapping_id: 164377
+    url_poster: https://theposterdb.com/api/assets/474266
+
   # Oz
   The Wizard of Oz:
     year: 1939
