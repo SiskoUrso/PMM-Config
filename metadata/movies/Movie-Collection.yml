@@ -631,17 +631,24 @@ collections:
     template: {name: Collection, collection: 170416, poster: https://www.themoviedb.org/t/p/original/fQV9wWOIM7f9uaRSG9hikrkpr8N.jpg}
   The Gods Must Be Crazy:
     template: {name: Collection, collection: 87805, poster: https://www.themoviedb.org/t/p/original/3KAJpE2OOimXE5Z15LHARbeA0eC.jpg}
+  Godzilla Complete Collection:
+    template: {name: Collection, collection: "374509, 374511, 374512, 535313, 813157", poster: https://theposterdb.com/api/assets/397750}
+    trakt_list: https://trakt.tv/users/siskourso/lists/godzilla-reiwa
+    url_background: https://i.imgur.com/qZIgEmZ.png
   Godzilla (Showa):
-    template: {name: Collection, collection: 374509, movie: 18983, poster: https://theposterdb.com/api/assets/96311}
+    template: {name: Collection, collection: 374509, poster: https://theposterdb.com/api/assets/452810}
     sort_title: Godzilla 01 (Showa)
+  Godzilla (Americanized):
+    template: {name: Collection, collection: 813157, poster: https://theposterdb.com/api/assets/452824}
+    sort_title: Godzilla 02 (Americanized)
   Godzilla (Heisei):
-    template: {name: Collection, collection: 374511, movie: 39256, poster: https://theposterdb.com/api/assets/232328}
-    sort_title: Godzilla 02 (Heisei)
+    template: {name: Collection, collection: 374511, movie: 39256, poster: https://theposterdb.com/api/assets/452811}
+    sort_title: Godzilla 03 (Heisei)
   Godzilla (Millennium):
-    template: {name: Collection, collection: 374512, poster: https://theposterdb.com/api/assets/226311}
+    template: {name: Collection, collection: 374512, poster: https://theposterdb.com/api/assets/452812}
     sort_title: Godzilla 04 (Millennium)
   Godzilla (MonsterVerse):
-    template: {name: Collection, collection: 535313, movie: 293167, poster: https://theposterdb.com/api/assets/135068}
+    template: {name: Collection, collection: 535313, movie: 293167, poster: https://theposterdb.com/api/assets/170350}
     sort_title: Godzilla 05 (MonsterVerse)
   Godzilla (Reiwa):
     template: {name: Trakt, list: https://trakt.tv/users/siskourso/lists/godzilla-reiwa, poster: https://theposterdb.com/api/assets/171336, background: https://i.imgur.com/oxChDaf.jpg}

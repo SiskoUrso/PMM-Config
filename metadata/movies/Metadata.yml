@@ -2676,117 +2676,129 @@ metadata:
   # Godzilla (Showa)
   Godzilla:
     year: 1954
-    url_poster: https://theposterdb.com/api/assets/125927
+    url_poster: https://theposterdb.com/api/assets/397751
   Godzilla Raids Again:
     year: 1955
-    url_poster: https://theposterdb.com/api/assets/125928
+    url_poster: https://theposterdb.com/api/assets/397752
   King Kong vs. Godzilla:
     year: 1962
-    url_poster: https://theposterdb.com/api/assets/125929
+    url_poster: https://theposterdb.com/api/assets/397757
   Mothra vs. Godzilla:
     year: 1964
-    url_poster: https://theposterdb.com/api/assets/125930
+    url_poster: https://theposterdb.com/api/assets/397759
   Ghidorah, the Three-Headed Monster:
     year: 1964
-    url_poster: https://theposterdb.com/api/assets/125931
+    url_poster: https://theposterdb.com/api/assets/397761
   Invasion of Astro-Monster:
     year: 1965
-    url_poster: https://theposterdb.com/api/assets/125932
+    url_poster: https://theposterdb.com/api/assets/397762
   Ebirah, Horror of the Deep:
     year: 1966
-    url_poster: https://theposterdb.com/api/assets/125933
+    url_poster: https://theposterdb.com/api/assets/397763
   Son of Godzilla:
     year: 1967
-    url_poster: https://theposterdb.com/api/assets/125934
+    url_poster: https://theposterdb.com/api/assets/397764
   Destroy All Monsters:
     year: 1968
-    url_poster: https://theposterdb.com/api/assets/125935
+    url_poster: https://theposterdb.com/api/assets/397765
   All Monsters Attack:
     year: 1969
-    url_poster: https://theposterdb.com/api/assets/125936
+    url_poster: https://theposterdb.com/api/assets/397766
   Godzilla vs. Hedorah:
     year: 1971
-    url_poster: https://theposterdb.com/api/assets/125937
+    url_poster: https://theposterdb.com/api/assets/397767
   Godzilla vs. Gigan:
     year: 1972
-    url_poster: https://theposterdb.com/api/assets/125938
+    url_poster: https://theposterdb.com/api/assets/397768
   Godzilla vs. Megalon:
     year: 1973
-    url_poster: https://theposterdb.com/api/assets/125939
+    url_poster: https://theposterdb.com/api/assets/397769
   Godzilla vs. Mechagodzilla:
     year: 1974
-    url_poster: https://theposterdb.com/api/assets/125940
+    url_poster: https://theposterdb.com/api/assets/397770
   Terror of Mechagodzilla:
     year: 1975
-    url_poster: https://theposterdb.com/api/assets/125941
-  Godzilla, King of the Monsters!:
-    year: 1956
-    url_poster: https://theposterdb.com/api/assets/128719
-  Gigantis the Fire Monster:
-    year: 1959
-    url_poster: https://theposterdb.com/api/assets/128720
+    url_poster: https://theposterdb.com/api/assets/397771
+
+  #  Godzilla (Americanized)
+  "Godzilla, King of the Monsters!":
+    match:
+      mapping_id: 18983
+    url_poster: https://theposterdb.com/api/assets/397753
+  "Gigantis, the Fire Monster":
+    match:
+      mapping_id: 329237
+    url_poster: https://theposterdb.com/api/assets/397755
+  King Kong vs. Godzilla (Americanized):
+    match:
+      mapping_id: 686487
+      title: King Kong vs. Godzilla
+    url_poster: https://theposterdb.com/api/assets/397758
+  Godzilla 1985:
+    match:
+      mapping_id: 39256
+    url_poster: https://theposterdb.com/api/assets/397773
+  
+
 
   # Godzilla (Heisei)
   The Return of Godzilla:
     year: 1984
-    url_poster: https://theposterdb.com/api/assets/128722
-  Godzilla 1985:
-    year: 1985
-    url_poster: https://theposterdb.com/api/assets/128723
+    url_poster: https://theposterdb.com/api/assets/397772
   Godzilla vs. Biollante:
     year: 1989
-    url_poster: https://theposterdb.com/api/assets/128724
+    url_poster: https://theposterdb.com/api/assets/397774
   Godzilla vs. King Ghidorah:
     year: 1991
-    url_poster: https://theposterdb.com/api/assets/128725
-  Godzilla vs. SpaceGodzilla:
-    year: 1994
-    url_poster: https://theposterdb.com/api/assets/128728
+    url_poster: https://theposterdb.com/api/assets/397775
   Godzilla vs. Mothra:
     year: 1992
-    url_poster: https://theposterdb.com/api/assets/128726
+    url_poster: https://theposterdb.com/api/assets/397776
   Godzilla vs. Mechagodzilla II:
     year: 1993
-    url_poster: https://theposterdb.com/api/assets/128727
+    url_poster: https://theposterdb.com/api/assets/397777
+  Godzilla vs. SpaceGodzilla:
+    year: 1994
+    url_poster: https://theposterdb.com/api/assets/397778
   Godzilla vs. Destoroyah:
     year: 1995
-    url_poster: https://theposterdb.com/api/assets/128729
+    url_poster: https://theposterdb.com/api/assets/397779
 
   # Godzilla (Millennium)
   "Godzilla 2000: Millennium":
     year: 1999
-    url_poster: https://theposterdb.com/api/assets/136303
+    url_poster: https://theposterdb.com/api/assets/397784
   Godzilla vs. Megaguirus:
     year: 2000
-    url_poster: https://theposterdb.com/api/assets/136304
+    url_poster: https://theposterdb.com/api/assets/397785
   "Godzilla, Mothra and King Ghidorah: Giant Monsters All-Out Attack":
     year: 2001
-    url_poster: https://theposterdb.com/api/assets/136305
+    url_poster: https://theposterdb.com/api/assets/397786
   Godzilla Against MechaGodzilla:
     year: 2002
-    url_poster: https://theposterdb.com/api/assets/136306
+    url_poster: https://theposterdb.com/api/assets/397787
   "Godzilla: Tokyo S.O.S.":
     year: 2003
-    url_poster: https://theposterdb.com/api/assets/136307
+    url_poster: https://theposterdb.com/api/assets/397788
   "Godzilla: Final Wars":
     year: 2004
-    url_poster: https://theposterdb.com/api/assets/136308
+    url_poster: https://theposterdb.com/api/assets/397789
 
   # Godzilla (MonsterVerse)
   Godzilla (Reboot):
     match:
       title: Godzilla
       year: 2014
-    url_poster: https://theposterdb.com/api/assets/135069
+    url_poster: https://theposterdb.com/api/assets/397790
   "Kong: Skull Island":
     year: 2017
-    url_poster: https://theposterdb.com/api/assets/135070
+    url_poster: https://theposterdb.com/api/assets/397792
   "Godzilla: King of the Monsters":
     year: 2019
-    url_poster: https://theposterdb.com/api/assets/135071
+    url_poster: https://theposterdb.com/api/assets/397796
   Godzilla vs. Kong:
     year: 2021
-    url_poster: https://theposterdb.com/api/assets/135072
+    url_poster: https://theposterdb.com/api/assets/397797
 
   # Godzilla (Reiwa):
   Shin Godzilla:
@@ -2810,6 +2822,31 @@ metadata:
       mapping_id: 940721
     url_poster: https://theposterdb.com/api/assets/467023
       
+  # Godzilla (Everything Else)
+  Rodan:
+    match:
+      mapping_id: 19742
+    url_poster: https://theposterdb.com/api/assets/397754
+  Mothra:
+    match:
+      mapping_id: 39410
+    url_poster: https://theposterdb.com/api/assets/397756
+  Rebirth of Mothra:
+    match:
+      mapping_id: 36214
+    url_poster: https://theposterdb.com/api/assets/397780
+  Rebirth of Mothra II:
+    match:
+      mapping_id: 36212
+    url_poster: https://theposterdb.com/api/assets/397781
+  Rebirth of Mothra III:
+    match: 
+      mapping_id: 36247
+    url_poster: https://theposterdb.com/api/assets/397783
+  Godzilla (1998):
+    match:
+      mapping_id: 929   
+    url_poster: https://theposterdb.com/api/assets/397782 
 
   # A Goofy Movie
   A Goofy Movie:
