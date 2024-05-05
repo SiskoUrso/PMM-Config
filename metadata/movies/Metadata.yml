@@ -2065,9 +2065,17 @@ metadata:
 
   # The Equalizer
   The Equalizer:
-    url_poster: https://theposterdb.com/api/assets/20230
+    match:
+      mapping_id: 156022
+    url_poster: https://theposterdb.com/api/assets/131878
   The Equalizer 2:
-    url_poster: https://theposterdb.com/api/assets/20231
+    match:
+      mapping_id: 345887
+    url_poster: https://theposterdb.com/api/assets/131879
+  The Equalizer 3: 
+    match:
+      mapping_id: 926393
+    url_poster: https://theposterdb.com/api/assets/422215
 
   # Eraser
   Eraser:
