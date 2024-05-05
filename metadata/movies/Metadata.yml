@@ -1347,6 +1347,10 @@ metadata:
   "The Conjuring: The Devil Made Me Do It":
     year: 2021
     url_poster: https://theposterdb.com/api/assets/156085
+  The Nun II:
+    match:
+      mapping_id: 968051
+    url_poster: https://theposterdb.com/api/assets/406243
 
   # Contracted
   Contracted:
@@ -1586,6 +1590,10 @@ metadata:
   Black Adam:
     year: 2022
     url_poster: https://theposterdb.com/api/assets/286150
+  "Shazam! Fury of the Gods":
+    match:
+      mapping_id: 594767
+    url_poster: https://theposterdb.com/api/assets/347469
 
   # Dead or Alive
   Dead or Alive:
@@ -7500,6 +7508,10 @@ metadata:
   # Non Collection Based Movies
   Chinatown:
     url_poster: https://theposterdb.com/api/assets/110518
+  Dark City:
+    match:
+      mapping_id: 2666
+    url_poster: https://theposterdb.com/api/assets/55476
   Last Action Hero:
     year: 1993
     url_poster: https://theposterdb.com/api/assets/94940
