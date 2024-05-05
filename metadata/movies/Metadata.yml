@@ -1499,6 +1499,20 @@ metadata:
   Daddy's Home 2:
     url_poster: https://theposterdb.com/api/assets/14101
 
+  # Daimajin Trilogy
+  Daimajin: 
+    match: 
+      mapping_id: 28719
+    url_poster: https://theposterdb.com/api/assets/393973
+  Return of Giant Majin:
+    match:
+      mapping_id: 28857
+    url_poster: https://theposterdb.com/api/assets/393974
+  Wrath of Daimajin:
+    match:
+      mapping_id: 28856
+    url_poster: https://theposterdb.com/api/assets/393975
+
   # Dark Knight
   Batman Begins:
     url_poster: https://theposterdb.com/api/assets/8490
@@ -2533,6 +2547,54 @@ metadata:
     year: 2019
     url_poster: https://theposterdb.com/api/assets/25243
 
+  # Gamera (Showa)
+  "Gamera, the Giant Monster":
+    match:
+      mapping_id: 21930
+    url_poster: https://theposterdb.com/api/assets/397369
+  "Gamera vs. Barugon":
+    match:
+      mapping_id: 22899
+    url_poster: https://theposterdb.com/api/assets/397394
+  "Gamera vs. Gyaos":
+    match:
+      mapping_id: 52728
+    url_poster: https://theposterdb.com/api/assets/397395
+  "Gamera vs. Viras":
+    match:
+      mapping_id: 34131
+    url_poster: https://theposterdb.com/api/assets/397396
+  "Gamera vs. Guiron":
+    match:
+      mapping_id: 26947
+    url_poster: https://theposterdb.com/api/assets/397397
+  "Gamera vs. Jiger":
+    match:
+      mapping_id: 70327
+    url_poster: https://theposterdb.com/api/assets/397398
+  "Gamera vs. Zigra":
+    match:
+      mapping_id: 70322
+    url_poster: https://theposterdb.com/api/assets/397399
+  "Gamera: Super Monster":
+    match:
+      mapping_id: 70358
+    url_poster: https://theposterdb.com/api/assets/397400
+
+  # Gamera (Heisei)
+  "Gamera: Guardian of the Universe":
+    match:
+      mapping_id: 54433
+    url_poster: https://theposterdb.com/api/assets/393983
+  "Gamera 2: Attack of Legion":
+    match:
+      mapping_id: 59480
+    url_poster: https://theposterdb.com/api/assets/393984
+  "Gamera 3: Revenge of Iris": 
+    match:
+      mapping_id: 60159
+    url_poster: https://theposterdb.com/api/assets/393985
+
   # Garfield
   Garfield:
     year: 2004
@@ -2847,6 +2909,10 @@ metadata:
     match:
       mapping_id: 929   
     url_poster: https://theposterdb.com/api/assets/397782 
+  Gamera the Brave:
+    match:
+      mapping_id: 60160
+    url_poster: https://theposterdb.com/api/assets/393986
 
   # A Goofy Movie
   A Goofy Movie:

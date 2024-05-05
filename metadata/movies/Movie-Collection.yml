@@ -392,6 +392,8 @@ collections:
     template: {name: Collection, collection: 98853, poster: https://theposterdb.com/api/assets/4208}
   Daddy's Home:
     template: {name: Collection, collection: 473971, poster: https://theposterdb.com/api/assets/14099}
+  Daimajin Trilogy:
+    template: {name: Collection, collection: 245334, poster: https://theposterdb.com/api/assets/430468}
   The Damned:
     template: {name: Collection, collection: 746434, poster: https://theposterdb.com/api/assets/240763}
   The Dark Knight:
@@ -601,6 +603,12 @@ collections:
     template: {name: Collection, collection: 135468, poster: https://theposterdb.com/api/assets/42723}
   The Gallows:
     template: {name: Collection, collection: 506363, poster: https://theposterdb.com/api/assets/25241}
+  Gamera (Showa):
+    template: {name: Collection, collection: 161766, poster: https://theposterdb.com/api/assets/468703}
+    sort_title: Gamera 01 (Showa)
+  Gamera (Heisei):
+    template: {name: Collection, collection: 657313, poster: https://theposterdb.com/api/assets/468704}
+    sort_title: Gamera 02 (Heisei)
   Garfield:
     template: {name: Collection, collection: "86115, 373918", poster: https://theposterdb.com/api/assets/85594}
   The Gate:
