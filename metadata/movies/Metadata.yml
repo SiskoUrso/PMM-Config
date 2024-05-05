@@ -2641,6 +2641,9 @@ metadata:
     url_poster: https://theposterdb.com/api/assets/203165
   "Ghostbusters: Afterlife":
     url_poster: https://theposterdb.com/api/assets/203167
+  "Ghostbusters: Frozen Empire":
+    year: 2024
+    url_poster: https://theposterdb.com/api/assets/475587
 
   # Ghost in the Shell
   Ghost in the Shell:
