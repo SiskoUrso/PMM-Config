@@ -33,10 +33,10 @@ collections:
     template: { name: Chart, num: 1, poster: https://theposterdb.com/api/assets/136359 }
     tautulli_popular:
       list_days: 30
-      list_size: 30
+      list_size: 40
     tautulli_watched:
       list_days: 30
-      list_size: 30
+      list_size: 40
     summary: Movies Popular on this Plex Server in the last 30 days.
   Trending:
     template: { name: Chart, num: 2, poster: https://theposterdb.com/api/assets/169001 }

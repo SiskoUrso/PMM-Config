@@ -19,10 +19,10 @@ collections:
     template: { name: Chart, num: 1 }
     tautulli_popular:
       list_days: 30
-      list_size: 30
+      list_size: 40
     tautulli_watched:
       list_days: 30
-      list_size: 30
+      list_size: 40
     summary: Shows Popular on Plex
     url_poster: https://theposterdb.com/api/assets/136359
   Trending:
