@@ -7533,3 +7533,7 @@ metadata:
     match:
       mapping_id: 492
     url_poster: https://theposterdb.com/api/assets/433699
+  2067:
+    match:
+      mapping_id: 528085
+    url_poster: https://theposterdb.com/api/assets/138876
