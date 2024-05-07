@@ -222,6 +222,8 @@ collections:
     template: {name: Collection, collection: 690952, poster: https://theposterdb.com/api/assets/195021}
   Black Panther:
     template: {name: Collection, collection: 529892, poster: https://theposterdb.com/api/assets/210058}
+  The Black Phone:
+    template: {name: Collection, collection: 1197140, poster: https://theposterdb.com/api/assets/445401}
   Black Water:
     template: {name: Collection, collection: 730166, poster: https://theposterdb.com/api/assets/185348}
   Blade:
@@ -1349,6 +1351,8 @@ collections:
     template: {name: Collection, collection: 63043, movie: 73362, poster: https://theposterdb.com/api/assets/84596}
   Turbulence:
     template: {name: Collection, collection: 166379, poster: https://theposterdb.com/api/assets/167879}
+  Twister:
+    template: {name: Collection, collection: 1062948, poster: https://theposterdb.com/api/assets/460865}
   Unbreakable:
     template: {name: Collection}
     imdb_list: https://www.imdb.com/list/ls022101006/

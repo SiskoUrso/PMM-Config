@@ -821,6 +821,11 @@ metadata:
     year: 2004
     url_poster: https://theposterdb.com/api/assets/36520
 
+  # The Black Phone
+  The Black Phone:
+    year: 2022
+    url_poster: https://theposterdb.com/api/assets/250589
+
   # Black Water
   Black Water:
     url_poster: https://theposterdb.com/api/assets/185349
@@ -7024,6 +7029,16 @@ metadata:
     year: 2001
     url_poster: https://theposterdb.com/api/assets/167882
 
+  # Twister
+  Twister:
+    match:
+      mapping_id: 664
+    url_poster: https://theposterdb.com/api/assets/460867
+  Twisters:
+    match:
+      mapping_id: 718821
+    url_poster: https://theposterdb.com/api/assets/460866
+
   # Under Siege
   Under Siege:
     year: 1992
@@ -7505,35 +7520,117 @@ metadata:
     year: 2005
     url_poster: https://theposterdb.com/api/assets/27776
 
-  # Non Collection Based Movies
+  # Non Collection Based Movies in alphabetical order
+  13 Ghosts: 
+    match:
+      mapping_id: 29756
+    url_poster: https://theposterdb.com/api/assets/385041
+  1408:
+    match:
+      mapping_id: 3021
+    url_poster: https://theposterdb.com/api/assets/24135
+  2067:
+    match:
+      mapping_id: 528085
+    url_poster: https://theposterdb.com/api/assets/138876
+  Arcadian:
+    match:
+      mapping_id: 1051896
+    url_poster: https://theposterdb.com/api/assets/487318
+  Being John Malkovich:
+    match:
+      mapping_id: 492
+    url_poster: https://theposterdb.com/api/assets/433699
+  The 'Burbs:
+    match:
+      mapping_id: 11974
+    url_poster: https://theposterdb.com/api/assets/25866
   Chinatown:
+    match:
+      mapping_id: 829
     url_poster: https://theposterdb.com/api/assets/110518
   Dark City:
     match:
       mapping_id: 2666
     url_poster: https://theposterdb.com/api/assets/55476
+  Dead & Buried:
+    match:
+      mapping_id: 24274
+    url_poster: https://theposterdb.com/api/assets/190062
+  Dead Men Don't Wear Plaid: 
+    match:
+      mapping_id: 9442
+    url_poster: https://theposterdb.com/api/assets/105341
+  Dolls:
+    match:
+      mapping_id: 24341
+    url_poster: https://theposterdb.com/api/assets/430475
+  "El Camino: A Breaking Bad Movie":
+    year: 2019
+    url_poster: https://theposterdb.com/api/assets/292010
+  E.T. the Extra-Terrestrial:
+    match:
+      mapping_id: 601
+    url_poster: https://theposterdb.com/api/assets/29388
+  Field of Dreams:
+    match:
+      mapping_id: 2323
+    url_poster: https://theposterdb.com/api/assets/155250
+  The Fog:
+    match:
+      mapping_id: 790
+    url_poster: https://theposterdb.com/api/assets/265325
+  Hook:
+    match:
+      mapping_id: 879
+    url_poster: https://theposterdb.com/api/assets/117260
+  House of Wax:
+    match:
+      mapping_id: 18573
+    url_poster: https://theposterdb.com/api/assets/220339
+  Into the Storm:
+    match:
+      mapping_id: 216282
+    url_poster: https://theposterdb.com/api/assets/317563
+  Late Night with the Devil:
+    match:
+      mapping_id: 938614
+    url_poster: https://theposterdb.com/api/assets/484011
   Last Action Hero:
     year: 1993
     url_poster: https://theposterdb.com/api/assets/94940
+  The Masque of the Red Death:
+    match:
+      mapping_id: 25319
+    url_poster: https://theposterdb.com/api/assets/21285
+  Motel Hell:
+    match:
+      mapping_id: 30924
+    url_poster: https://theposterdb.com/api/assets/8061 
+  Sixteen Candles:
+    match:
+      mapping_id: 15144
+    url_poster: https://theposterdb.com/api/assets/53700
+  The Tingler:
+    match:
+      mapping_id: 26857
+    url_poster: https://theposterdb.com/api/assets/390672
   Titanic:
     year: 1997
     url_poster: https://theposterdb.com/api/assets/48395
-  The Black Phone:
-    year: 2022
-    url_poster: https://theposterdb.com/api/assets/250589
   THX 1138:
     year: 1971
     url_poster: https://theposterdb.com/api/assets/111355
+  What Ever Happened to Baby Jane:
+    match:
+      mapping_id: 10242
+    url_poster: https://theposterdb.com/api/assets/323088
   Who Framed Roger Rabbit:
-    url_poster: https://theposterdb.com/api/assets/115828
-  "El Camino: A Breaking Bad Movie":
-    year: 2019
-    url_poster: https://theposterdb.com/api/assets/292010  
-  Being John Malkovich:
     match:
-      mapping_id: 492
-    url_poster: https://theposterdb.com/api/assets/433699
-  2067:
+      mapping_id: 856
+    url_poster: https://theposterdb.com/api/assets/115828  
+  Young Frankenstein:
     match:
-      mapping_id: 528085
-    url_poster: https://theposterdb.com/api/assets/138876
+      mapping_id: 3034
+    url_poster: https://theposterdb.com/api/assets/25731
+  
