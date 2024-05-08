@@ -240,8 +240,6 @@ collections:
     template: {name: Collection, collection: 519018, poster: https://www.themoviedb.org/t/p/original/iNQgICyB52euXC4BXuDW7eJUMbB.jpg}
   BloodRayne:
     template: {name: Collection, collection: 97307, poster: https://theposterdb.com/api/assets/44189}
-  Bloodshot:
-    template: {name: Collection, collection: 763760, poster: https://www.themoviedb.org/t/p/original/jTu4dCrctrP1bgl6lvSsJoFVdks.jpg}
   Bloodsport:
     template: {name: Collection, collection: 36694, poster: https://theposterdb.com/api/assets/4087}
   The Blues Brothers:
