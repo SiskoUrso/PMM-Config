@@ -486,6 +486,8 @@ collections:
     template: {name: Collection, collection: 169452, poster: https://theposterdb.com/api/assets/23589}
   Drunken Master:
     template: {name: Collection, collection: 12203, poster: https://theposterdb.com/api/assets/170408}
+  The Dry: 
+    template: {name: Collection, collection: 989391, poster: https://theposterdb.com/api/assets/401980}
   The Dukes of Hazzard (Reboot):
     template: {name: Collection, collection: 332357, poster: https://theposterdb.com/api/assets/76843}
   Dumb and Dumber:
@@ -509,7 +511,7 @@ collections:
   Ernest:
     template: {name: Collection, collection: 330555, poster: https://theposterdb.com/api/assets/35570}
   Escape From ...:
-    template: {name: Collection, collection: 115838, poster: https://theposterdb.com/api/assets/96947}
+    template: {name: Collection, collection: 115838, poster: https://theposterdb.com/api/assets/67790}
     name_mapping: Escape From
   Escape Plan:
     template: {name: Collection, collection: 525891, poster: https://theposterdb.com/api/assets/63906}
@@ -1006,7 +1008,7 @@ collections:
   Nuke 'Em High:
     template: {name: Collection, collection: 263866, poster: https://www.themoviedb.org/t/p/original/eI4x4Sv2C4Et7Be2RCZY7EpNk0H.jpg}
   Ocean's:
-    template: {name: Collection, collection: 304, poster: https://theposterdb.com/api/assets/64818}
+    template: {name: Collection, collection: 304, movie: "299, 402900", poster: https://theposterdb.com/api/assets/448463}
   The Omen:
     template: {name: Collection, collection: 10919, movie: 806, poster: https://theposterdb.com/api/assets/20586}
   One Missed Call:
@@ -1348,7 +1350,7 @@ collections:
   Train to Busan:
     template: {name: Collection, collection: 619537, movie: 389868, poster: https://theposterdb.com/api/assets/82793}
   Transformers:
-    template: {name: Collection, collection: 8650, poster: https://theposterdb.com/api/assets/13251}
+    template: {name: Collection, collection: "8650, 939352", movie: "424783, 25565", poster: https://theposterdb.com/api/assets/447037}
   The Transporter:
     template: {name: Collection, collection: 9518, poster: https://theposterdb.com/api/assets/795}
   Trekkies:

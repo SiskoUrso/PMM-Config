@@ -2041,6 +2041,16 @@ metadata:
     year: 1994
     url_poster: https://theposterdb.com/api/assets/170410
 
+  # The Dry
+  The Dry:
+    match:
+      mapping_id: 567797
+    url_poster: https://theposterdb.com/api/assets/401981
+  "Force of Nature: The Dry 2":
+    match:
+      mapping_id: 832262
+    url_poster: https://theposterdb.com/api/assets/401982
+
   # The Dukes of Hazzard (Reboot)
   The Dukes of Hazzard:
     year: 2005
@@ -2149,9 +2159,9 @@ metadata:
 
   # Escape From ..
   Escape from New York:
-    url_poster: https://theposterdb.com/api/assets/96948
+    url_poster: https://theposterdb.com/api/assets/67791
   Escape from L.A.:
-    url_poster: https://theposterdb.com/api/assets/96949
+    url_poster: https://theposterdb.com/api/assets/67792
 
   # Escape Plan
   Escape Plan:
@@ -5171,20 +5181,25 @@ metadata:
     year: 2016
     url_poster: https://theposterdb.com/api/assets/10167
 
-  # Ocean's Too Many
-  Ocean's Eleven:
-    year: 2001
+  # Ocean's Too Many - https://theposterdb.com/set/247855
+  Ocean's Eleven: 
+    match:
+      mapping_id: 299
+    url_poster: https://theposterdb.com/api/assets/448477
+  Ocean's Eleven (Remake):
+    match:
+      mapping_id: 161
     sort_title: Ocean's 11
-    url_poster: https://theposterdb.com/api/assets/64819
+    url_poster: https://theposterdb.com/api/assets/448464
   Ocean's Twelve:
     sort_title: Ocean's 12
-    url_poster: https://theposterdb.com/api/assets/64820
+    url_poster: https://theposterdb.com/api/assets/448465
   Ocean's Thirteen:
     sort_title: Ocean's 13
-    url_poster: https://theposterdb.com/api/assets/64821
+    url_poster: https://theposterdb.com/api/assets/448466
   Ocean's Eight:
     sort_title: Ocean's 8
-    url_poster: https://theposterdb.com/api/assets/64822
+    url_poster: https://theposterdb.com/api/assets/448467
 
   # The Omen - https://theposterdb.com/set/11882
   The Omen:
@@ -7018,19 +7033,39 @@ metadata:
     year: 2020
     url_poster: https://theposterdb.com/api/assets/82796
 
-  # Transformers
+  # Transformers - https://theposterdb.com/set/247113
+  "Transformers: Beginnings": 
+    match:
+      mapping_id: 25565
+    url_poster: https://theposterdb.com/api/assets/447214
   Transformers:
-    url_poster: https://theposterdb.com/api/assets/14176
-  "Transformers: Dark of the Moon":
-    url_poster: https://theposterdb.com/api/assets/14178
+    match:
+      mapping_id: 1858
+    url_poster: https://theposterdb.com/api/assets/447038
   "Transformers: Revenge of the Fallen":
-    url_poster: https://theposterdb.com/api/assets/14177
-  "Transformers: The Last Knight":
-    url_poster: https://theposterdb.com/api/assets/14180
+    match:
+      mapping_id: 8373
+    url_poster: https://theposterdb.com/api/assets/447039
+  "Transformers: Dark of the Moon":
+    match:
+      mapping_id: 38356
+    url_poster: https://theposterdb.com/api/assets/447040
   "Transformers: Age of Extinction":
-    url_poster: https://theposterdb.com/api/assets/14179
+    match:
+      mapping_id: 91314
+    url_poster: https://theposterdb.com/api/assets/447041
+  "Transformers: The Last Knight":
+    match:
+      mapping_id: 335988
+    url_poster: https://theposterdb.com/api/assets/447042
   Bumblebee:
-    url_poster: https://theposterdb.com/api/assets/14181
+    match:
+      mapping_id: 424783
+    url_poster: https://theposterdb.com/api/assets/447043
+  "Transformers: Rise of the Beasts":
+    match:
+      mapping_id: 667538
+    url_poster: https://theposterdb.com/api/assets/447044
 
   # The Transporter
   The Transporter:
@@ -7618,6 +7653,10 @@ metadata:
     match:
       mapping_id: 492
     url_poster: https://theposterdb.com/api/assets/433699
+  Black Hawk Down:
+    match:
+      mapping_id: 855
+    url_poster: https://theposterdb.com/api/assets/27565
   Bram Stoker's Dracula: 
     match:
       mapping_id: 6114
