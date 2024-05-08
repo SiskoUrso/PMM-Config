@@ -1315,6 +1315,16 @@ metadata:
     year: 1988
     url_poster: https://theposterdb.com/api/assets/17253
 
+  # Code 8
+  Code 8:
+    match: 
+      mapping_id: 461130
+    url_poster: https://theposterdb.com/api/assets/452872
+  Code 8 Part II: 
+    match:
+      mapping_id: 932420
+    url_poster: https://theposterdb.com/api/assets/452870
+
   # Cold Prey
   Cold Prey:
     year: 2006
@@ -5010,6 +5020,20 @@ metadata:
     year: 2021
     url_poster: https://theposterdb.com/api/assets/185575
 
+  # The Mysterians
+  The Mysterians:
+    match:
+      mapping_id: 43226
+    url_poster: https://theposterdb.com/api/assets/452848
+  Battle in Outer Space: 
+    match:
+      mapping_id: 62472
+    url_poster: https://theposterdb.com/api/assets/452847
+  The War in Space: 
+    match:
+      mapping_id: 38268
+    url_poster: https://theposterdb.com/api/assets/452830
+
   # Naked Gun
   "The Naked Gun: From the Files of Police Squad!":
     year: 1988
@@ -5744,6 +5768,16 @@ metadata:
     year: 2003
     url_poster: https://theposterdb.com/api/assets/22285
 
+  # Rebel Moon
+  "Rebel Moon - Part One: A Child of Fire": 
+    match:
+      mapping_id: 848326
+    url_poster: https://theposterdb.com/api/assets/479577
+  "Rebel Moon - Part Two: The Scargiver":
+    match:
+      mapping_id: 934632
+    url_poster: https://theposterdb.com/api/assets/479576
+
   # [REC]
   "[REC]":
     match:
@@ -6142,6 +6176,10 @@ metadata:
       title: Scream
       year: 2022
     url_poster: https://theposterdb.com/api/assets/212929
+  Scream VI: 
+    match:
+      mapping_id: 934433
+    url_poster: https://theposterdb.com/api/assets/355473
 
   # The Secret Life of Pets
   The Secret Life of Pets:
@@ -7627,6 +7665,10 @@ metadata:
     match:
       mapping_id: 790
     url_poster: https://theposterdb.com/api/assets/265325
+  "Ghost Dog: The Way of the Samurai": 
+    match:
+      mapping_id: 4816
+    url_poster: https://theposterdb.com/api/assets/96686
   Great Balls of Fire!:
     match:
       mapping_id: 11465

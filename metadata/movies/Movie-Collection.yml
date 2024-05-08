@@ -347,6 +347,8 @@ collections:
     summary: Cloverfield is an American science fiction anthology film series and media franchise created and produced by J. J. Abrams consisting of three films, viral marketing websites linking the films together, and a tie-in manga to the first film titled Cloverfield/Kishin (2008), all set in a shared fictional universe referred to as the "Cloververse". The franchise as a whole deals with creatures from other dimensions attacking Earth throughout various decades, all as a repercussion of an experiment by an astronaut team aboard the Cloverfield Station in outer-space. Each film depicts the reality-altering effects of their study, which was meant to find a new energy source replacing the planet's depleted resources, only to open portals for assault from various beasts from deep space.
   Cocoon:
     template: {name: Collection, collection: 86307, poster: https://theposterdb.com/api/assets/17251}
+  Code 8:
+    template: {name: Collection, collection: 1196403, poster: https://theposterdb.com/api/assets/452822}
   Cold Prey:
     template: {name: Collection, collection: 86553, poster: https://theposterdb.com/api/assets/251008}
   The Collector:
@@ -977,6 +979,8 @@ collections:
     template: {name: Collection, collection: 1733, poster: https://theposterdb.com/api/assets/69966}
   The Muppets:
     template: {name: Collection, collection: 256377, poster: https://theposterdb.com/api/assets/13696}
+  The Mysterians:
+    template: {name: Collection, collection: 491769, poster: https://image.tmdb.org/t/p/original/Aw648O6eg0VADBrB8WUdjCtzand.jpg}
   Naked Gun:
     template: {name: Collection, collection: 37139, poster: https://theposterdb.com/api/assets/100010}
   National Lampoon's Vacation:
@@ -1101,6 +1105,8 @@ collections:
     template: {name: Collection, collection: 5039, poster: https://theposterdb.com/api/assets/2611}
   Re-Animator:
     template: {name: Collection, collection: 98036, poster: https://theposterdb.com/api/assets/22282}
+  Rebel Moon:
+    template: {name: Collection, collection: 934765, poster: https://theposterdb.com/api/assets/479575}
   "[REC]":
     template: {name: Collection, collection: 74508, poster: https://theposterdb.com/api/assets/25197}
   RED:
