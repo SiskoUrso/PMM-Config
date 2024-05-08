@@ -718,6 +718,16 @@ metadata:
     year: 2012
     url_poster: https://theposterdb.com/api/assets/122193
 
+  # Mr. Bean
+  Bean:
+    match:
+      mapping_id: 1281
+    url_poster: https://theposterdb.com/api/assets/6714
+  Mr. Bean's Holiday:
+    match:
+      mapping_id: 1268
+    url_poster: https://theposterdb.com/api/assets/6715
+
   # Beastmaster
   The Beastmaster:
     year: 1982
@@ -2348,9 +2358,24 @@ metadata:
   The Flintstones in Viva Rock Vegas:
     url_poster: https://theposterdb.com/api/assets/98291
 
-  # The Fly (1986)
+  # The Fly
   The Fly:
-    year: 1986
+    match:
+      mapping_id: 11815
+    url_poster: https://theposterdb.com/api/assets/113907
+  Return of the Fly:
+    match:
+      mapping_id: 38126
+    url_poster: https://theposterdb.com/api/assets/113908
+  Curse of the Fly: 
+    match:
+      mapping_id: 38125
+    url_poster: https://theposterdb.com/api/assets/113909
+
+  # The Fly (1986)
+  The Fly (1986):
+    match:
+      mapping_id: 9426
     url_poster: https://theposterdb.com/api/assets/150535
   The Fly II:
     year: 1989
@@ -6126,6 +6151,16 @@ metadata:
     year: 2019
     url_poster: https://theposterdb.com/api/assets/65776
 
+  # The Secret of NIMH
+  The Secret of NIMH:
+    match:
+      mapping_id: 11704
+    url_poster: https://theposterdb.com/api/assets/462750
+  "The Secret of NIMH 2: Timmy to the Rescue":
+    match:
+      mapping_id: 20756
+    url_poster: https://theposterdb.com/api/assets/462774
+
   # See No Evil
   See No Evil:
     year: 2006
@@ -7533,6 +7568,10 @@ metadata:
     match:
       mapping_id: 528085
     url_poster: https://theposterdb.com/api/assets/138876
+  Amadeus:
+    match:
+      mapping_id: 279
+    url_poster: https://theposterdb.com/api/assets/489065
   Arcadian:
     match:
       mapping_id: 1051896
@@ -7541,6 +7580,10 @@ metadata:
     match:
       mapping_id: 492
     url_poster: https://theposterdb.com/api/assets/433699
+  Bram Stoker's Dracula: 
+    match:
+      mapping_id: 6114
+    url_poster: https://theposterdb.com/api/assets/125844
   The 'Burbs:
     match:
       mapping_id: 11974
@@ -7565,6 +7608,10 @@ metadata:
     match:
       mapping_id: 24341
     url_poster: https://theposterdb.com/api/assets/430475
+  Don't Look Now:
+    match:
+      mapping_id: 931
+    url_poster: https://theposterdb.com/api/assets/95973
   "El Camino: A Breaking Bad Movie":
     year: 2019
     url_poster: https://theposterdb.com/api/assets/292010
@@ -7580,6 +7627,10 @@ metadata:
     match:
       mapping_id: 790
     url_poster: https://theposterdb.com/api/assets/265325
+  Great Balls of Fire!:
+    match:
+      mapping_id: 11465
+    url_poster: https://theposterdb.com/api/assets/425673
   Hook:
     match:
       mapping_id: 879
@@ -7621,6 +7672,10 @@ metadata:
   THX 1138:
     year: 1971
     url_poster: https://theposterdb.com/api/assets/111355
+  Two Evil Eyes:
+    match:
+      mapping_id: 29514
+    url_poster: https://image.tmdb.org/t/p/original/zVWaQfaSZ7AWE0XqbMT57szVmXo.jpg
   What Ever Happened to Baby Jane:
     match:
       mapping_id: 10242

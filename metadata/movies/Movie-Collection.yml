@@ -198,6 +198,8 @@ collections:
     template: {name: Collection, collection: 16302, poster: https://theposterdb.com/api/assets/72141}
   Battlestar Galactica:
     template: {name: Collection, collection: 91697, poster: https://theposterdb.com/api/assets/122190}
+  Mr. Bean:
+    template: {name: Collection, collection: 103372, poster: https://theposterdb.com/api/assets/6713}
   Beastmaster:
     template: {name: Collection, collection: 106000, poster: https://theposterdb.com/api/assets/75769}
   Beauty and the Beast:
@@ -565,6 +567,8 @@ collections:
     template: {name: Collection, collection: 104833, poster: https://www.themoviedb.org/t/p/original/aKsCNCiUtMdBRyL7yJTtyTU7uOg.jpg}
   The Flintstones:
     template: {name: Collection, collection: 351684, poster: https://theposterdb.com/api/assets/98289}
+  The Fly:
+    template: {name: Collection, collection: 123213, poster: https://theposterdb.com/api/assets/113906}
   The Fly (1986):
     template: {name: Collection, collection: 109609, poster: https://theposterdb.com/api/assets/150534}
   The Foreigner:
@@ -1166,6 +1170,8 @@ collections:
     template: {name: Collection, collection: 2602, poster: https://theposterdb.com/api/assets/804}
   The Secret Life of Pets:
     template: {name: Collection, collection: 427084, poster: https://theposterdb.com/api/assets/65774}
+  The Secret of NIMH: 
+    template: {name: Collection, collection: 141292, poster: https://theposterdb.com/api/assets/462773}
   See No Evil:
     template: {name: Collection, collection: 296872, poster: https://theposterdb.com/api/assets/219169}
   The Shadow:
