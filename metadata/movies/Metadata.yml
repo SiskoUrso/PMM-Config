@@ -4712,7 +4712,11 @@ metadata:
     url_poster: https://theposterdb.com/api/assets/320500
   "Guardians of the Galaxy Vol. 3": 
     year: 2023
-    url_poster: https://theposterdb.com/api/assets/330897    
+    url_poster: https://theposterdb.com/api/assets/330897   
+  "Deadpool & Wolverine":
+    match:
+      mapping_id: 533535
+    url_poster: https://theposterdb.com/api/assets/455844 
 
   # Marvel/Sony
   Spider-Man:
@@ -7653,6 +7657,10 @@ metadata:
     match:
       mapping_id: 492
     url_poster: https://theposterdb.com/api/assets/433699
+  Birdman of Alcatraz:
+    match:
+      mapping_id: 898
+    url_poster: https://theposterdb.com/api/assets/30107
   Black Hawk Down:
     match:
       mapping_id: 855
@@ -7669,6 +7677,10 @@ metadata:
     match:
       mapping_id: 829
     url_poster: https://theposterdb.com/api/assets/110518
+  Contact:
+    match:
+      mapping_id: 686
+    url_poster: https://theposterdb.com/api/assets/15398
   Dark City:
     match:
       mapping_id: 2666
@@ -7681,6 +7693,10 @@ metadata:
     match:
       mapping_id: 9442
     url_poster: https://theposterdb.com/api/assets/105341
+  Django Unchained:
+    match:
+      mapping_id: 68718
+    url_poster: https://theposterdb.com/api/assets/109603
   Dolls:
     match:
       mapping_id: 24341
@@ -7700,10 +7716,18 @@ metadata:
     match:
       mapping_id: 2323
     url_poster: https://theposterdb.com/api/assets/155250
+  Flight 7500:
+    match:
+      mapping_id: 82657
+    url_poster: https://theposterdb.com/api/assets/490343
   The Fog:
     match:
       mapping_id: 790
     url_poster: https://theposterdb.com/api/assets/265325
+  Full Metal Jacket:
+    match:
+      mapping_id: 600
+    url_poster: https://theposterdb.com/api/assets/34071
   "Ghost Dog: The Way of the Samurai": 
     match:
       mapping_id: 4816
@@ -7712,6 +7736,14 @@ metadata:
     match:
       mapping_id: 11465
     url_poster: https://theposterdb.com/api/assets/425673
+  The Happening:
+    match:
+      mapping_id: 8645
+    url_poster: https://theposterdb.com/api/assets/40335
+  The Hateful Eight:
+    match:
+      mapping_id: 273248
+    url_poster: https://theposterdb.com/api/assets/228966
   Hook:
     match:
       mapping_id: 879
@@ -7720,10 +7752,22 @@ metadata:
     match:
       mapping_id: 18573
     url_poster: https://theposterdb.com/api/assets/220339
+  Inglourious Basterds:
+    match:
+      mapping_id: 16869
+    url_poster: https://theposterdb.com/api/assets/31977
   Into the Storm:
     match:
       mapping_id: 216282
     url_poster: https://theposterdb.com/api/assets/317563
+  Jackie Brown:
+    match:
+      mapping_id: 184
+    url_poster: https://theposterdb.com/api/assets/31973
+  Krull:
+    match:
+      mapping_id: 849
+    url_poster: https://theposterdb.com/api/assets/352431
   Late Night with the Devil:
     match:
       mapping_id: 938614
@@ -7731,6 +7775,14 @@ metadata:
   Last Action Hero:
     year: 1993
     url_poster: https://theposterdb.com/api/assets/94940
+  Lord of War:
+    match:
+      mapping_id: 1830
+    url_poster: https://theposterdb.com/api/assets/54819
+  Mars Attacks!:
+    match:
+      mapping_id: 75
+    url_poster: https://theposterdb.com/api/assets/143148
   The Masque of the Red Death:
     match:
       mapping_id: 25319
@@ -7739,10 +7791,38 @@ metadata:
     match:
       mapping_id: 30924
     url_poster: https://theposterdb.com/api/assets/8061 
+  Over the Top: 
+    match:
+      mapping_id: 1825
+    url_poster: https://theposterdb.com/api/assets/175564
+  Pulp Fiction:
+    match:
+      mapping_id: 680
+    url_poster: https://theposterdb.com/api/assets/199235
+  Reservoir Dogs:
+    match:
+      mapping_id: 30485
+    url_poster: https://theposterdb.com/api/assets/173127
+  Saving Private Ryan:
+    match:
+      mapping_id: 857
+    url_poster: https://theposterdb.com/api/assets/123130
   Sixteen Candles:
     match:
       mapping_id: 15144
     url_poster: https://theposterdb.com/api/assets/53700
+  Slumber: 
+    match:
+      mapping_id: 463602
+    url_poster: https://theposterdb.com/api/assets/490284
+  The Stuff:
+    match:
+      mapping_id: 18502
+    url_poster: https://theposterdb.com/api/assets/489920
+  Tenet:
+    match:
+      mapping_id: 577922
+    url_poster: https://theposterdb.com/api/assets/487278
   The Tingler:
     match:
       mapping_id: 26857
