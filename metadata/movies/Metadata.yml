@@ -5585,6 +5585,10 @@ metadata:
   The Predator:
     year: 2018
     url_poster: https://theposterdb.com/api/assets/43446
+  Prey: 
+    match:
+     mapping_id: 766507
+    url_poster: https://theposterdb.com/api/assets/330509
 
   # The Princess Diaries
   The Princess Diaries:
