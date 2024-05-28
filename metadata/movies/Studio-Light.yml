@@ -55,6 +55,9 @@ collections:
   Studio Ghibli:
     template: {name: Studio, company: 10342, poster: https://theposterdb.com/api/assets/32223}
     summary: Studio Ghibli Inc. is a Japanese animation film studio headquartered in Koganei, Tokyo. The studio is best known for its animated feature films, and has also produced several short films, television commercials, and one television film. The studio’s mascot and most recognizable symbol is the character, Totoro, a giant cat-like spirit from the 1988 classic, My Neighbor Totoro.
+  Troma:
+    template: {name: Studio, company: "3052, 6423, 24313", poster: https://theposterdb.com/api/assets/175189}
+    summary: Troma Entertainment is an American independent film production and distribution company founded by Lloyd Kaufman and Michael Herz in 1974. The company produces low-budget independent films, or "B movies", primarily of the horror comedy genre, all geared exclusively to mature audiences. Many of them play on 1950s horror with elements of farce, parody, gore, and splatter.  
   View Askew:
     template: {name: Studio, company: 16934, poster: https://theposterdb.com/api/assets/45956}
     summary: View Askew Productions is an American film and television production company founded by Kevin Smith and Scott Mosier in 1994.
