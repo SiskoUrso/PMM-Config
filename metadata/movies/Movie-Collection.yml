@@ -302,9 +302,7 @@ collections:
     template: {name: Collection, collection: 223564, poster: https://theposterdb.com/api/assets/17441}
   Charlie Brown:
     template: {name: Collection}
-    imdb_search:
-      list: ls054850259
-    #imdb_list: https://www.imdb.com/list/ls054850259/
+    imdb_list: https://www.imdb.com/list/ls054850259/
     url_poster: https://theposterdb.com/api/assets/188202
     summary: Collection of Movies and TV Specials with the beloved Peanuts characters.
   Charlie's Angels:
@@ -363,9 +361,7 @@ collections:
     template: {name: Collection, collection: 358930, poster: https://theposterdb.com/api/assets/267446}
   Cornetto Trilogy:
     template: {name: Collection}
-    imdb_search:
-      list: ls068623110 
-    #imdb_list: https://www.imdb.com/list/ls068623110/
+    imdb_list: https://www.imdb.com/list/ls068623110/
     url_poster: https://theposterdb.com/api/assets/234
     summary: An anthology series of British comedic genre films directed by Edgar Wright, written by Wright and Simon Pegg, produced by Nira Park, and starring Pegg and Nick Frost. The trilogy consists of Shaun of the Dead (2004), Hot Fuzz (2007), and The World's End (2013).
   The Craft:
@@ -563,10 +559,8 @@ collections:
   Final Destination:
     template: {name: Collection, collection: 8864, poster: https://theposterdb.com/api/assets/66195}
   Final Fantasy:
-    template: {name: Collection}
-    imdb_search:
-      list: ls022264056    
-    #imdb_list: https://www.imdb.com/list/ls022264056/
+    template: {name: Collection}  
+    imdb_list: https://www.imdb.com/list/ls022264056/
     url_poster: https://theposterdb.com/api/assets/7212
     summary: A collection of films based off or closely associated with the Final Fantasy video games.
   Finding Nemo:
@@ -1373,9 +1367,7 @@ collections:
     template: {name: Collection, collection: 1062948, poster: https://theposterdb.com/api/assets/460865}
   Unbreakable:
     template: {name: Collection}
-    imdb_search:
-      list: ls022101006    
-    #imdb_list: https://www.imdb.com/list/ls022101006/
+    imdb_list: https://www.imdb.com/list/ls022101006/
     url_poster: https://theposterdb.com/api/assets/56425
     summary: The Unbreakable trilogy, officially known as the Eastrail 177 Trilogy, is an American superhero thriller and psychological horror film series. The films were written, produced, and directed by M. Night Shyamalan. The trilogy consists of Unbreakable (2000), Split (2016), and Glass (2019).
   Under Siege:
