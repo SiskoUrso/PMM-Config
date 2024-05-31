@@ -66,6 +66,9 @@ collections:
   Star Wars (Live Action):
     template: {name: Collection, show: "393199, 393187, 380352, 393218, 361753, 393589, 393189, 393188, 83867", poster: https://theposterdb.com/api/assets/39679, background: https://i.imgur.com/GdLMZko.jpg}
     summary: Collection of Star Wars TV Series.
+  Storage Wars:
+    template: {name: Collection, show: "207621, 251596, 272737, 264535, 301610, 404281, 430450", poster: https://theposterdb.com/api/assets/49163, background: https://i.imgur.com/sECkQhD.jpg}  
+    summary: Collection of Storage Wars TV Shows.
   The Walking Dead:
     template: {name: Collection, show: "153021, 290853, 372787, 411314, 252861, 417549, 427464, 427202", poster: https://theposterdb.com/api/assets/373633, background: https://i.imgur.com/xRsOWt5.jpg}
     summary: Collection of Walking Dead TV Shows.
