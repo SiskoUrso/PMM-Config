@@ -241,6 +241,14 @@ collections:
     url_poster: https://theposterdb.com/api/assets/206770
     url_background: https://i.imgur.com/kvyOuBJ.jpg
 
+  Turner Classic Movies:   
+    trakt_list: https://trakt.tv/users/siskourso/lists/turner-classic-movies
+    url_poster: https://theposterdb.com/api/assets/471048
+    url_background: https://i.imgur.com/OCQcCJZ.jpg
+    sync_mode: sync
+    sort_title: ++++++++++++++++++_Turner Classic Movies
+    summary: This collection consists mainly of classic theatrically released feature films from the Turner Entertainment Co. film library which comprises films from Warner Bros. (covering films released before 1950), Metro-Goldwyn-Mayer (covering films released before May 1986), and the North American distribution rights to films from RKO Radio Pictures.
+
   IMDb Top 100 Movies:
     mdblist_list: https://mdblist.com/lists/siskourso/external/27390
     sync_mode: sync
