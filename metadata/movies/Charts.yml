@@ -230,10 +230,8 @@ collections:
     summary: Movies That Everyone is Watching
     url_poster: https://i.imgur.com/GQca9tU.png
 
-  The Criterion Collection:
-    imdb_search:
-      list: ls087831830    
-    #imdb_list: https://www.imdb.com/list/ls087831830/
+  The Criterion Collection: 
+    imdb_list: https://www.imdb.com/list/ls087831830/
     sync_mode: sync
     smart_label: critic_rating.desc
     sort_title: ++++++++++++++++++_Criterion
