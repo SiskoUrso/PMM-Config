@@ -7842,6 +7842,10 @@ metadata:
     match:
       mapping_id: 29514
     url_poster: https://image.tmdb.org/t/p/original/zVWaQfaSZ7AWE0XqbMT57szVmXo.jpg
+  Weird Science:
+    match:
+      mapping_id: 4076
+    url_poster: https://theposterdb.com/api/assets/393229
   What Ever Happened to Baby Jane:
     match:
       mapping_id: 10242
