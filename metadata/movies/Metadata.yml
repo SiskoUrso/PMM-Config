@@ -7511,7 +7511,8 @@ metadata:
     year: 2009
     url_poster: https://theposterdb.com/api/assets/163803
   "Wrong Turn 4: Bloody Beginnings":
-    year: 2011
+    match:
+      mapping_id: 71672
     url_poster: https://theposterdb.com/api/assets/163804
   "Wrong Turn 5: Bloodlines":
     year: 2012
