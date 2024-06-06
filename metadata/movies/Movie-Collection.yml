@@ -123,7 +123,7 @@ collections:
   Appleseed:
     template: {name: Collection, collection: "87800, 371526", poster: https://theposterdb.com/api/assets/119736}
   Aquaman:
-    template: {name: Collection, collection: 573693, poster: https://theposterdb.com/api/assets/140746}
+    template: {name: Collection, collection: 573693, poster: https://theposterdb.com/api/assets/113040}
   Armour of God:
     template: {name: Collection, collection: 146136, poster: https://www.themoviedb.org/t/p/original/uaBDnlZ6evXtKGINA6YXOVdSla4.jpg}
   Army of the Dead:
@@ -838,6 +838,8 @@ collections:
     template: {name: Collection, collection: 404609, poster: https://theposterdb.com/api/assets/13285}
   Johnny Tsunami:
     template: {name: Collection, collection: 394316, poster: https://image.tmdb.org/t/p/original//1VPrZNk1drpXvggiyBUoMaOpv3Z.jpg}
+  Joker:
+    template: {name: Collection, collection: 987044, poster: https://theposterdb.com/api/assets/344062}
   Journey:
     template: {name: Collection, collection: 605516, poster: https://theposterdb.com/api/assets/172436}
   Ju-on:
@@ -1189,7 +1191,7 @@ collections:
   Sharknado:
     template: {name: Collection, collection: 286023, poster: https://theposterdb.com/api/assets/9124}
   Shazam!:
-    template: {name: Collection, collection: 724848, poster: https://theposterdb.com/api/assets/206378}
+    template: {name: Collection, collection: 724848, poster: https://theposterdb.com/api/assets/370674}
   Sherlock Holmes:
     template: {name: Collection, collection: 102322, poster: https://theposterdb.com/api/assets/2623}
   The Shining:

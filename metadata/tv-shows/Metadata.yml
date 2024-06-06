@@ -4469,11 +4469,14 @@ metadata:
         url_poster: https://theposterdb.com/api/assets/318927
 
   Peacemaker:
-    year: 2022
-    url_poster: https://theposterdb.com/api/assets/204283
+    match:
+      mapping_id: 391153
+    url_poster: https://theposterdb.com/api/assets/228538
     seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/391994
       1:
-        url_poster: https://theposterdb.com/api/assets/204284                                         
+        url_poster: https://theposterdb.com/api/assets/228539                                         
 
   The Last of Us: 
     year: 2023      

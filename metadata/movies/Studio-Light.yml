@@ -29,7 +29,7 @@ collections:
     template: {name: Studio, company: 13240, poster: https://theposterdb.com/api/assets/238458}
     summary: Bron Studios (stylized as BRON) is a Canadian motion picture company based in British Columbia owned by Bron Media Corporation. Bron's notable productions include Joker, Bombshell, Queen & Slim, Greyhound, Judas and the Black Messiah, The Mule, Henchmen, Roman J. Israel, Esq., Rudderless, Welcome to Me, The Addams Family, The Willoughbys, and Ghostbusters Afterlife.
   DC Extended Universe:
-    template: {name: Studio, company: 9993, poster: https://theposterdb.com/api/assets/128644}
+    template: {name: Studio, company: 9993, poster: https://theposterdb.com/api/assets/140745}
     summary: The DC Extended Universe (DCEU) is an American media franchise and shared universe centered on a series of superhero films and television series produced by DC Films and distributed by Warner Bros. Pictures. It is based on characters that appear in American comic books published by DC Comics. The DCEU also includes comic books, short films, novels, and video games. Much like the original DC Universe in comic books, the DCEU was established by crossing over common plot elements, settings, cast, and characters.
   GAINAX:
     template: {name: Studio, company: 3041, poster: https://theposterdb.com/api/assets/198852}

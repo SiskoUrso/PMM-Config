@@ -698,6 +698,10 @@ metadata:
     url_poster: https://theposterdb.com/api/assets/73030
   "Batman: The Killing Joke":
     url_poster: https://theposterdb.com/api/assets/73020
+  "Batman: The Long Halloween, Part Two":
+    url_poster: https://theposterdb.com/api/assets/172875
+  "Batman: The Long Halloween, Part One":
+    url_poster: https://theposterdb.com/api/assets/172874
 
   # Battle Royale
   Battle Royale:
@@ -1569,56 +1573,75 @@ metadata:
     year: 2009
     url_poster: https://theposterdb.com/api/assets/128288
 
-  # DCEU - https://theposterdb.com/set/3146
+  # DCEU - https://theposterdb.com/set/87497
   Man of Steel:
-    year: 2013
-    url_poster: https://theposterdb.com/api/assets/7651
+    match:
+      mapping_id: 49521
+    url_poster: https://theposterdb.com/api/assets/140749
   "Batman v Superman: Dawn of Justice":
-    year: 2016
-    url_poster: https://theposterdb.com/api/assets/7652
-  "Batman: The Long Halloween, Part Two":
-    url_poster: https://theposterdb.com/api/assets/172875
-  "Batman: The Long Halloween, Part One":
-    url_poster: https://theposterdb.com/api/assets/172874
+    match:
+      mapping_id: 209112
+    url_poster: https://theposterdb.com/api/assets/140750
   Suicide Squad:
-    year: 2016
-    url_poster: https://theposterdb.com/api/assets/7653
+    match:
+      mapping_id: 297761
+    url_poster: https://theposterdb.com/api/assets/140751
   Wonder Woman:
-    year: 2017
-    url_poster: https://theposterdb.com/api/assets/7654
+    match:
+      mapping_id: 297762
+    url_poster: https://theposterdb.com/api/assets/140752
   Justice League:
-    year: 2017
-    url_poster: https://theposterdb.com/api/assets/7655
+    match:
+      mapping_id: 141052
+    url_poster: https://theposterdb.com/api/assets/140753
   Aquaman:
-    year: 2018
-    url_poster: https://theposterdb.com/api/assets/7656
+    match:
+      mapping_id: 297802
+    url_poster: https://theposterdb.com/api/assets/51495
   Shazam!:
-    year: 2019
-    url_poster: https://theposterdb.com/api/assets/7657
-  Joker:
-    url_poster: https://theposterdb.com/api/assets/79254
+    match:
+      mapping_id: 287947
+    url_poster: https://theposterdb.com/api/assets/140755
   Birds of Prey:
-    year: 2020
-    url_poster: https://theposterdb.com/api/assets/47803
+    match:
+      mapping_id: 495764
+    url_poster: https://theposterdb.com/api/assets/140756
   Wonder Woman 1984:
-    year: 2020
-    url_poster: https://theposterdb.com/api/assets/58528
+    match:
+      mapping_id: 464052
+    url_poster: https://theposterdb.com/api/assets/140757
   Zack Snyder's Justice League:
-    year: 2021
-    url_poster: https://theposterdb.com/api/assets/139248
+    match:
+      mapping_id: 791373
+    url_poster: https://theposterdb.com/api/assets/228134
   The Suicide Squad:
-    year: 2021
-    url_poster: https://theposterdb.com/api/assets/167747
-  The Batman:
-    year: 2022
-    url_poster: https://theposterdb.com/api/assets/99682
+    match:
+      mapping_id: 436969
+    url_poster: https://theposterdb.com/api/assets/140759
   Black Adam:
-    year: 2022
-    url_poster: https://theposterdb.com/api/assets/286150
+    match:
+      mapping_id: 436270
+    url_poster: https://theposterdb.com/api/assets/290218
+  The Flash: 
+    match:
+      mapping_id: 298618
+    url_poster: https://theposterdb.com/api/assets/388804
+  The Batman:
+    match:
+      mapping_id: 414906
+    url_poster: https://theposterdb.com/api/assets/228036
   "Shazam! Fury of the Gods":
     match:
       mapping_id: 594767
-    url_poster: https://theposterdb.com/api/assets/347469
+    url_poster: https://theposterdb.com/api/assets/325582
+  Aquaman and the Lost Kingdom:
+    match:
+      mapping_id: 572802
+    url_poster: https://theposterdb.com/api/assets/393615
+  Blue Beetle:
+    match:
+      mapping_id: 565770
+    url_poster: https://theposterdb.com/api/assets/411951
 
   # Dead or Alive
   Dead or Alive:
@@ -4085,6 +4108,12 @@ metadata:
     url_poster: https://theposterdb.com/api/assets/13287
   "John Wick: Chapter 3 - Parabellum":
     url_poster: https://theposterdb.com/api/assets/13288
+
+  # Joker
+  Joker:
+    match: 
+      mapping_id: 475557
+    url_poster: https://theposterdb.com/api/assets/52493
 
   # Journey
   Journey to the Center of the Earth:
