@@ -94,30 +94,6 @@ metadata:
     year: 2012
     url_poster: https://theposterdb.com/api/assets/122193
 
-  # Batman Animated
-  "Batman: The Animated Series":
-    url_poster: https://theposterdb.com/api/assets/92218
-    seasons:
-      0:
-        url_poster: https://theposterdb.com/api/assets/92219
-      1:
-        url_poster: https://theposterdb.com/api/assets/92220
-      2:
-        url_poster: https://theposterdb.com/api/assets/92221
-      3:
-        url_poster: https://theposterdb.com/api/assets/92222
-      4:
-        url_poster: https://theposterdb.com/api/assets/92223
-  The New Batman Adventures:
-    url_poster: https://theposterdb.com/api/assets/92230
-    seasons:
-      0:
-        url_poster: https://theposterdb.com/api/assets/92231
-      1:
-        url_poster: https://theposterdb.com/api/assets/92232
-      2:
-        url_poster: https://theposterdb.com/api/assets/92233
-
   # Breaking Bad
   Breaking Bad:
     year: 2008
@@ -296,6 +272,93 @@ metadata:
       1:
         url_poster: https://theposterdb.com/api/assets/195241
         summary: CSI Vegas is an American crime television series that debuted on CBS on October 6, 2021. It is a sequel to the long-running series CSI Crime Scene Investigation, and the fifth series in the CSI franchise. The first season stars William Petersen and Jorja Fox as Gil Grissom and Sara Sidle, reprising their roles from CSI Crime Scene Investigation, while Paula Newsome, Matt Lauria, Mel Rodriguez, and Mandeep Dhillon portray new characters. Wallace Langham and Paul Guilfoyle also reprise their roles as David Hodges and Jim Brass, being credited as guest stars. Originally branded as an epilogue limited series, a second season was renewed in December 2021, without Fox, Petersen, or Rodriguez returning.
+
+  # DC Animated Universe Collection - https://theposterdb.com/set/58515
+  "Batman: The Animated Series":
+    match: 
+      mapping_id: 76168
+    url_poster: https://theposterdb.com/api/assets/92218
+    seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/92219
+      1:
+        url_poster: https://theposterdb.com/api/assets/92220
+      2:
+        url_poster: https://theposterdb.com/api/assets/92221
+      3:
+        url_poster: https://theposterdb.com/api/assets/92222
+      4:
+        url_poster: https://theposterdb.com/api/assets/92223
+
+  The New Batman Adventures:
+    match:
+      mapping_id: 77084
+    url_poster: https://theposterdb.com/api/assets/92230
+    seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/92231
+      1:
+        url_poster: https://theposterdb.com/api/assets/92232
+      2:
+        url_poster: https://theposterdb.com/api/assets/92233    
+        
+  Batman Beyond: 
+    match:
+      mapping_id: 75417
+    url_poster: https://theposterdb.com/api/assets/92234
+    seasons:
+      0: 
+        url_poster: https://theposterdb.com/api/assets/92235
+      1:
+        url_poster: https://theposterdb.com/api/assets/92236
+      2: 
+        url_poster: https://theposterdb.com/api/assets/92237
+      3: 
+        url_poster: https://theposterdb.com/api/assets/92238
+
+  Justice League:
+    match:
+      mapping_id: 76320
+    url_poster: https://theposterdb.com/api/assets/92463
+    seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/92464
+      1:
+        url_poster: https://theposterdb.com/api/assets/92465
+      2:
+        url_poster: https://theposterdb.com/api/assets/92466
+      3:
+        url_poster: https://theposterdb.com/api/assets/92467
+      4: 
+        url_poster: https://theposterdb.com/api/assets/92468
+      5:
+        url_poster: https://theposterdb.com/api/assets/92469 
+
+  Static Shock:
+    match:
+      mapping_id: 79067
+    url_poster: https://theposterdb.com/api/assets/92774
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/92775
+      2:
+        url_poster: https://theposterdb.com/api/assets/92776
+      3:
+        url_poster: https://theposterdb.com/api/assets/92778
+      4: 
+        url_poster: https://theposterdb.com/api/assets/92779
+        
+  The Zeta Project:
+    match:
+      mapping_id: 74182
+    url_poster: https://theposterdb.com/api/assets/92876
+    seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/92877
+      1:
+        url_poster: https://theposterdb.com/api/assets/92878
+      2:
+        url_poster: https://theposterdb.com/api/assets/92879   
 
   # Dragon Ball - https://theposterdb.com/set/79631
   Dragon Ball:

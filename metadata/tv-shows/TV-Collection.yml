@@ -31,6 +31,9 @@ collections:
   C.S.I:
     template: {name: Collection, show: "72546, 78310, 73696, 281551, 400248", poster: https://theposterdb.com/api/assets/102143, background: https://i.imgur.com/cMZZTI1.jpg}
     summary: Collection of CSI Tv Shows
+  DC Animated Universe:
+    template: {name: Collection, show: "76320, 75417, 77084, 76168, 74182, 79067, 71788", poster: https://theposterdb.com/api/assets/242519, background: https://i.imgur.com/3Qo0pkS.jpg}
+    summary: The DC Animated Universe (DCAU; also referred to as the Timmverse or Diniverse by fans) is a shared universe of superhero-based animated television series, produced by Warner Bros. Animation and based on characters that appear in American comic books published by DC Comics.
   Dragon Ball:
     template: {name: Collection, show: "76666, 81472, 79275, 88031, 295068, 347734", poster: https://theposterdb.com/api/assets/127755, background: https://i.imgur.com/gcdjTYX.png} 
     summary: Collection of shows from the Dragon Ball series. 

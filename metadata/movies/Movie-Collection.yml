@@ -408,6 +408,9 @@ collections:
     template: {name: Collection, collection: 45154, poster: https://theposterdb.com/api/assets/53025}
   Darko:
     template: {name: Collection, collection: 178106, poster: https://theposterdb.com/api/assets/128286}
+  DC Universe Animated Original Movies: 
+    template: {name: Trakt, list: https://trakt.tv/users/siskourso/lists/dc-universe-animated-original-movies, poster: https://theposterdb.com/api/assets/242520, background: https://i.imgur.com/3Qo0pkS.jpg}
+    sort_title: +5_DC Universe Animated Original Movies
   DC Super Hero Girls:
     template: {name: Collection, collection: "477208, 557495", poster: https://theposterdb.com/api/assets/33060}
   Dead or Alive:
