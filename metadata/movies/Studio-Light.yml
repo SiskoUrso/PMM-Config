@@ -7,7 +7,6 @@ templates:
     optional:
       - company
     tmdb_company: <<company>>
-    tmdb_movie: <<movie>>
     sort_title: +5_<<collection_name>>
     sync_mode: sync
     smart_label: release.desc
@@ -33,7 +32,8 @@ collections:
     template: {name: Studio, company: "9993, 184898, 429, 128064", poster: https://theposterdb.com/api/assets/128644}
     summary: DC Entertainment, Inc. is an American entertainment company based in Washington, DC. It is a subsidiary of Warner Bros. Entertainment. Also includes DC Films and DC Comics.
   DC Extended Universe:
-    template: {name: Studio, company: "128064, 184898", movie: "49521, 209112", poster: https://theposterdb.com/api/assets/140745}
+    template: {name: Studio, company: "128064, 184898", poster: https://theposterdb.com/api/assets/140745}
+    tmdb_movie: "49521, 209112"
     summary: The DC Extended Universe (DCEU) is an American media franchise and shared universe centered on a series of superhero films and television series produced by DC Films and distributed by Warner Bros. Pictures. It is based on characters that appear in American comic books published by DC Comics. The DCEU also includes comic books, short films, novels, and video games. Much like the original DC Universe in comic books, the DCEU was established by crossing over common plot elements, settings, cast, and characters.
   GAINAX:
     template: {name: Studio, company: 3041, poster: https://theposterdb.com/api/assets/198852}
