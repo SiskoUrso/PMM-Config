@@ -1365,6 +1365,8 @@ collections:
     template: {name: Collection, collection: 63043, movie: 73362, poster: https://theposterdb.com/api/assets/84596}
   Turbulence:
     template: {name: Collection, collection: 166379, poster: https://theposterdb.com/api/assets/167879}
+  Twilight:
+    template: {name: Collection, collection: 33514, poster: https://theposterdb.com/api/assets/70115}
   Twister:
     template: {name: Collection, collection: 1062948, poster: https://theposterdb.com/api/assets/460865}
   Unbreakable:

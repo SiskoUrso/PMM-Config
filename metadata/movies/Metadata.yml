@@ -7174,6 +7174,28 @@ metadata:
     year: 2001
     url_poster: https://theposterdb.com/api/assets/167882
 
+  # Twilight
+  Twilight:
+    match:
+      mapping_id: 8966
+    url_poster: https://theposterdb.com/api/assets/70116
+  "The Twilight Saga: New Moon":
+    match:
+      mapping_id: 18239
+    url_poster: https://theposterdb.com/api/assets/70117
+  "The Twilight Saga: Eclipse":
+    match:
+      mapping_id: 24021
+    url_poster: https://theposterdb.com/api/assets/70118
+  "The Twilight Saga: Breaking Dawn - Part 1":
+    match:
+      mapping_id: 50619
+    url_poster: https://theposterdb.com/api/assets/70119
+  "The Twilight Saga: Breaking Dawn - Part 2":
+    match:
+      mapping_id: 50620
+    url_poster: https://theposterdb.com/api/assets/70120
+
   # Twister
   Twister:
     match:
