@@ -39,42 +39,48 @@ collections:
 ######################################################
 
   Action:
-    template: {name: Genre, genre: Action, poster: https://theposterdb.com/api/assets/52018, background: https://i.imgur.com/I1qqsuM.jpeg}
+    template: {name: Genre, genre: Action, poster: https://theposterdb.com/api/assets/69195, background: https://i.imgur.com/I1qqsuM.jpeg}
     summary: Action film is a genre wherein physical action takes precedence in the storytelling. The film will often have continuous motion and action including physical stunts, chases, fights, battles, and races. The story usually revolves around a hero that has a goal, but is facing incredible odds to obtain it.
   Adventure:
-    template: {name: Genre, genre: Adventure, poster: https://theposterdb.com/api/assets/52218, background: https://i.imgur.com/CCjrBxT.jpeg}
+    template: {name: Genre, genre: Adventure, poster: https://theposterdb.com/api/assets/203108, background: https://i.imgur.com/CCjrBxT.jpeg}
     summary: Adventure film is a genre that revolves around the conquests and explorations of a protagonist. The purpose of the conquest can be to retrieve a person or treasure, but often the main focus is simply the pursuit of the unknown. These films generally take place in exotic locations and play on historical myths. Adventure films incorporate suspenseful puzzles and intricate obstacles that the protagonist must overcome in order to achieve the end goal.
   Animation:
-    template: {name: Genre, genre: Animation, poster: https://theposterdb.com/api/assets/120090, background: https://i.imgur.com/u7SPMcn.jpeg}
+    template: {name: Genre, genre: Animation, poster: https://theposterdb.com/api/assets/69198, background: https://i.imgur.com/u7SPMcn.jpeg}
     summary: Animated film is a collection of illustrations that are photographed frame-by-frame and then played in a quick succession. Since its inception, animation has had a creative and imaginative tendency. Being able to bring animals and objects to life, this genre has catered towards fairy tales and children’s stories. However, animation has long been a genre enjoyed by all ages. As of recent, there has even been an influx of animation geared towards adults. Animation is commonly thought of as a technique, thus it’s ability to span over many different genres.
   Anime:
-    template: {name: Genre, genre: Anime, poster: https://theposterdb.com/api/assets/126743, background: https://i.imgur.com/lyhKY7y.jpeg}
-    summary: A collection of Anime movies
+    template: {name: Genre, genre: Anime, poster: https://theposterdb.com/api/assets/126754, background: https://i.imgur.com/lyhKY7y.jpeg}
+    summary: The word anime is the Japanese term for animation, which means all forms of animated media. Outside Japan, anime refers specifically to animation from Japan or as a Japanese-disseminated animation style often characterized by colorful graphics, vibrant characters and fantastical themes. The culturally abstract approach to the word's meaning may open up the possibility of anime produced in countries other than Japan. Many Westerners strictly view anime as a Japanese animation product.
   Apocalypse:
-    template: {name: Trakt, list: https://trakt.tv/users/siskourso/lists/apocalypse-movies, poster: https://theposterdb.com/api/assets/210142, background: https://i.imgur.com/mgNSZP9.jpg}  
+    template: {name: Trakt, list: https://trakt.tv/users/siskourso/lists/apocalypse-movies, poster: https://theposterdb.com/api/assets/210142, background: https://i.imgur.com/mgNSZP9.jpg} 
+  B-Movies:
+    template: {name: Trakt, list: https://trakt.tv/users/siskourso/lists/b-movies, poster: https://theposterdb.com/api/assets/458254, background: https://i.imgur.com/NjHe4MJ.jpg} 
   Biography:
-    template: {name: Genre, genre: Biography, poster: https://theposterdb.com/api/assets/60369, background: https://i.imgur.com/9co5794.jpeg}
-    summary: A collection of Biography movies
+    template: {name: Genre, genre: Biography, poster: https://theposterdb.com/api/assets/69199, background: https://i.imgur.com/9co5794.jpeg}
+    summary: Film that dramatizes the life of a non-fictional or historically-based person or people. Such films show the life of a historical person and the central character's real name is used.
   Comedy:
-    template: {name: Genre, genre: Comedy, poster: https://theposterdb.com/api/assets/51397, background: https://i.imgur.com/YuxcbJ5.jpeg}
+    template: {name: Genre, genre: Comedy, poster: https://theposterdb.com/api/assets/69200, background: https://i.imgur.com/YuxcbJ5.jpeg}
     summary: Comedy is a genre of film that uses humor as a driving force. The aim of a comedy film is to illicit laughter from the audience through entertaining stories and characters. Although the comedy film may take on some serious material, most have a happy ending. Comedy film has the tendency to become a hybrid sub-genre because humor can be incorporated into many other genres. Comedies are more likely than other films to fall back on the success and popularity of an individual star.
+  Comedy Horror:
+    template: {name: Trakt, list: https://trakt.tv/users/siskourso/lists/comedy-horror-movies, poster: https://theposterdb.com/api/assets/230332, background: https://i.imgur.com/zMVYJ2i.jpg}  
   Crime:
-    template: {name: Genre, genre: Crime, poster: https://theposterdb.com/api/assets/53057, background: https://i.imgur.com/6cBubch.jpeg}
+    template: {name: Genre, genre: Crime, poster: https://theposterdb.com/api/assets/69203, background: https://i.imgur.com/6cBubch.jpeg}
     summary: Crime film is a genre that revolves around the action of a criminal mastermind. A Crime film will often revolve around the criminal himself, chronicling his rise and fall. Some Crime films will have a storyline that follows the criminal's victim, yet others follow the person in pursuit of the criminal. This genre tends to be fast paced with an air of mystery – this mystery can come from the plot or from the characters themselves.
   Documentary:
-    template: {name: Genre, genre: Documentary, poster: https://theposterdb.com/api/assets/51430, background: https://i.imgur.com/pWyof2C.jpeg}
+    template: {name: Genre, genre: Documentary, poster: https://theposterdb.com/api/assets/69204, background: https://i.imgur.com/pWyof2C.jpeg}
     summary: Documentary film is a non-fiction genre intended to document reality primarily for the purposes of instruction, education, or maintaining a historical record.
   Drama:
-    template: {name: Genre, genre: Drama, poster: https://theposterdb.com/api/assets/52016, background: https://i.imgur.com/cCRhkzW.jpeg}
+    template: {name: Genre, genre: Drama, poster: https://theposterdb.com/api/assets/69205, background: https://i.imgur.com/cCRhkzW.jpeg}
     summary: Drama film is a genre that relies on the emotional and relational development of realistic characters. While Drama film relies heavily on this kind of development, dramatic themes play a large role in the plot as well. Often, these dramatic themes are taken from intense, real life issues. Whether heroes or heroines are facing a conflict from the outside or a conflict within themselves, Drama film aims to tell an honest story of human struggles.
   Family:
-    template: {name: Genre, genre: Family, poster: https://theposterdb.com/api/assets/53059, background: https://i.imgur.com/BGkWWJe.jpeg}
+    template: {name: Genre, genre: Family, poster: https://theposterdb.com/api/assets/69208, background: https://i.imgur.com/BGkWWJe.jpeg}
     summary: Fantasy film is a genre that incorporates imaginative and fantastic themes. These themes usually involve magic, supernatural events, or fantasy worlds. Although it is its own distinct genre, these films can overlap into the horror and science fiction genres. Unlike science fiction, a fantasy film does not need to be rooted in fact. This element allows the audience to be transported into a new and unique world. Often, these films center on an ordinary hero in an extraordinary situation.
   Fantasy:
-    template: {name: MDBList, list: https://mdblist.com/lists/siskourso/external/27393 , poster: https://theposterdb.com/api/assets/51476, background: https://i.imgur.com/bWDB1Wz.jpeg}
+    template: {name: MDBList, list: https://mdblist.com/lists/siskourso/external/27393 , poster: https://theposterdb.com/api/assets/69210, background: https://i.imgur.com/bWDB1Wz.jpeg}
     summary: Fantasy film is a genre that incorporates imaginative and fantastic themes. These themes usually involve magic, supernatural events, or fantasy worlds. Although it is its own distinct genre, these films can overlap into the horror and science fiction genres. Unlike science fiction, a fantasy film does not need to be rooted in fact. This element allows the audience to be transported into a new and unique world. Often, these films center on an ordinary hero in an extraordinary situation.
+  Film Noir:
+    template: {name: Trakt, list: https://trakt.tv/users/siskourso/lists/film-noir-movies, poster: https://theposterdb.com/api/assets/161218, background: https://i.imgur.com/VM8IXFl.jpg}  
   Gangster:
-    template: {name: Trakt, list: https://trakt.tv/users/siskourso/lists/gangsters-movies, poster: https://theposterdb.com/api/assets/62561, background: https://i.imgur.com/XKurkcF.jpeg}   
+    template: {name: Trakt, list: https://trakt.tv/users/siskourso/lists/gangsters-movies, poster: https://theposterdb.com/api/assets/69211, background: https://i.imgur.com/XKurkcF.jpeg}   
     summary: Gangster film is a sub-genre of crime films that center on organized crime or the mafia. Often the plot revolves around the rise and fall of an organized crime leader. Many Gangster films explore the destructive nature of organized crime, while others attempt to show the humanity of the individual characters.
   Halloween All Year Round:
     template: {name: Other Genre, poster: https://theposterdb.com/api/assets/108357, background: https://i.imgur.com/kawWoDD.png}
@@ -84,14 +90,16 @@ collections:
       - https://trakt.tv/users/roswellgeek/lists/halloween
     name_mapping: Halloween (Season)
     summary: Halloween themed movies in a collection.
+  Heist: 
+    template: {name: Trakt, list: https://trakt.tv/users/siskourso/lists/heist-movies, poster: https://theposterdb.com/api/assets/219086, background: https://i.imgur.com/0f4h1pq.jpg}
   History:
-    template: {name: Genre, genre: History, poster: https://theposterdb.com/api/assets/58022, background: https://i.imgur.com/K8U9r2w.jpeg}
+    template: {name: Genre, genre: History, poster: https://theposterdb.com/api/assets/69212, background: https://i.imgur.com/K8U9r2w.jpeg}
     summary: History film is a genre that takes historical events and people and interprets them in a larger scale. Historical accuracy is not the main focus, but rather the telling of a grandiose story. The drama of an History film is often accentuated by a sweeping musical score, lavish costumes, and high production value.
   Horror:
-    template: {name: Genre, genre: Horror, poster: https://theposterdb.com/api/assets/51475, background: https://i.imgur.com/ALiEfWk.jpeg}
+    template: {name: Genre, genre: Horror, poster: https://theposterdb.com/api/assets/374355, background: https://i.imgur.com/ALiEfWk.jpeg}
     summary: Horror film is a genre that aims to create a sense of fear, panic, alarm, and dread for the audience. These films are often unsettling and rely on scaring the audience through a portrayal of their worst fears and nightmares. Horror films usually center on the arrival of an evil force, person, or event. Many Horror films include mythical creatures such as ghosts, vampires, and zombies. Traditionally, Horror films incorporate a large amount of violence and gore into the plot. Though it has its own style, Horror film often overlaps into Fantasy, Thriller, and Science-Fiction genres.
   Martial Arts:
-    template: {name: Trakt, list: https://trakt.tv/users/siskourso/lists/martial-arts-movies, poster: https://theposterdb.com/api/assets/51773, background: https://i.imgur.com/M6qdAzQ.jpeg}
+    template: {name: Trakt, list: https://trakt.tv/users/siskourso/lists/martial-arts-movies, poster: https://theposterdb.com/api/assets/69216, background: https://i.imgur.com/M6qdAzQ.jpeg}
     summary: Martial Arts film is a sub-genre of action films that feature numerous martial arts combat between characters. These combats are usually the films' primary appeal and entertainment value, and often are a method of storytelling and character expression and development. Martial Arts are frequently featured in training scenes and other sequences in addition to fights. Martial Arts films commonly include other types of action, such as hand-to-hand combat, stuntwork, chases, and gunfights.
   Mindfuck Movies:
     trakt_list:
@@ -103,14 +111,16 @@ collections:
     summary: There’s nothing greater than a film that makes you think. A film that lingers on your mind long after the credits have rolled and is the subject of many conversation and discussion. Trying to piece together the puzzle of what you saw and coming to a conclusion that makes sense or still doesn’t add up.
     url_poster: https://i.imgur.com/Tl6QMgA.png
     url_background: https://i.imgur.com/DM1Im1X.jpeg
+  Monster: 
+    template: {name: Trakt, list: https://trakt.tv/users/siskourso/lists/monster-movies, poster: https://theposterdb.com/api/assets/200988, background: https://i.imgur.com/vsOwy6l.jpg}
   Music:
-    template: {name: Trakt, list: https://trakt.tv/users/siskourso/lists/music-movies, poster: https://theposterdb.com/api/assets/51398, background: https://i.imgur.com/WiIDr63.jpg}
+    template: {name: Trakt, list: https://trakt.tv/users/siskourso/lists/music-movies, poster: https://theposterdb.com/api/assets/69217, background: https://i.imgur.com/WiIDr63.jpg}
     summary: Music film is genre that revolves around music being an integral part of the characters lives.
   Musical:
-    template: {name: Genre, genre: Musical, poster: https://theposterdb.com/api/assets/51427, background: https://i.imgur.com/t6yKjql.jpeg}
+    template: {name: Genre, genre: Musical, poster: https://theposterdb.com/api/assets/69218, background: https://i.imgur.com/t6yKjql.jpeg}
     summary: A Musical interweaves vocal and dance performances into the narrative of the film. The songs of a film can either be used to further the story or simply enhance the experience of the audience. These films are often done on a grand scale and incorporate lavish costumes and sets. Traditional musicals center on a well-known star, famous for their dancing or singing skills (i.e. Fred Astaire, Gene Kelly, Judy Garland). These films explore concepts such are love and success, allowing the audience to escape from reality.
   Mystery:
-    template: {name: Genre, genre: Mystery, poster: https://theposterdb.com/api/assets/53060, background: https://i.imgur.com/7Ndilol.jpeg}
+    template: {name: Genre, genre: Mystery, poster: https://theposterdb.com/api/assets/69219, background: https://i.imgur.com/7Ndilol.jpeg}
     summary: A Mystery film centers on a person of authority, usually a detective, that is trying to solve a mysterious crime. The main protagonist uses clues, investigation, and logical reasoning. The biggest element in these films is a sense of “whodunit” suspense, usually created through visual cues and unusual plot twists.
   Nostalgia Collection (Classics From The 80s & 90s):
     trakt_list: https://trakt.tv/users/hdlists/lists/nostalgiac-movies-from-the-80s-90s
@@ -120,6 +130,8 @@ collections:
     summary: All The Nostalgiac Movies From The 80s & 90s in One Collection
     url_poster: https://i.imgur.com/vE8dsdd.jpg
     url_background: https://i.imgur.com/frz0kly.jpg
+  Occult: 
+    template: {name: Trakt, list: https://trakt.tv/users/siskourso/lists/occult-movies, poster: https://theposterdb.com/api/assets/210129, background: https://i.imgur.com/AvdkCW1.jpg}
   Outer Space Movie Collection:
     trakt_list: https://trakt.tv/users/hdlists/lists/outer-space-space-exploration-movies
     sync_mode: sync
@@ -134,7 +146,8 @@ collections:
     smart_label: critic_rating.desc
     sort_title: +3_Paranormal Movie Collection
     summary: Paranormal grene of movies from varrious trakt members.
-    url_poster: https://i.imgur.com/IzwpRht.jpg
+    url_poster: https://i.imgur.com/PjFQygQ.jpg
+    url_background: https://i.imgur.com/rnb7F1i.jpg
   Parody Movie Collection:
     trakt_list: https://trakt.tv/users/hdlists/lists/top-50-parody-movies-of-all-time
     sync_mode: sync
@@ -144,44 +157,54 @@ collections:
     url_poster: https://i.imgur.com/yFtJ5eV.png
     url_background: https://i.imgur.com/eELv4eB.jpg
   Pandemic:
-    template: {name: Trakt, list: https://trakt.tv/users/siskourso/lists/pandemic-movies, poster: https://theposterdb.com/api/assets/55837, background: https://i.imgur.com/WNK2Uqs.png}
+    template: {name: Trakt, list: https://trakt.tv/users/siskourso/lists/pandemic-movies, poster: https://theposterdb.com/api/assets/69220, background: https://i.imgur.com/WNK2Uqs.png}
    # summary: A Pandemic film resolves around widespread viruses, plagues, and diseases.
+  Possession:
+    template: {name: Trakt, list: https://trakt.tv/users/siskourso/lists/possession-movies, poster: https://theposterdb.com/api/assets/210134, background: https://i.imgur.com/fqTprnJ.jpg}
   Post Apocalypse:
     template: {name: Trakt, list: https://trakt.tv/users/siskourso/lists/post-apocalypse-movies, poster: https://theposterdb.com/api/assets/210166, background: https://i.imgur.com/nvAVzwE.jpg}
   Romance:
-    template: {name: Genre, genre: Romance, poster: https://theposterdb.com/api/assets/53062, background: https://i.imgur.com/XStnvPc.jpeg}
+    template: {name: Genre, genre: Romance, poster: https://theposterdb.com/api/assets/69221, background: https://i.imgur.com/XStnvPc.jpeg}
     summary: "Romance film can be defined as a genre wherein the plot revolves around the love between two protagonists. This genre usually has a theme that explores an issue within love, including but not limited to: love at first sight, forbidden love, love triangles, and sacrificial love. The tone of Romance film can vary greatly. Whether the end is happy or tragic, Romance film aims to evoke strong emotions in the audience."
   Samurai: 
-    template: {name: Trakt, list: https://trakt.tv/users/siskourso/lists/samurai-movies, poster: https://theposterdb.com/api/assets/266824, background: https://i.imgur.com/pG0leFL.jpg}
+    template: {name: Trakt, list: https://trakt.tv/users/siskourso/lists/samurai-movies, poster: https://theposterdb.com/api/assets/364193, background: https://i.imgur.com/pG0leFL.jpg}
   Science Fiction:
-    template: {name: Genre, genre: Science Fiction, poster: https://theposterdb.com/api/assets/51772, background: https://i.imgur.com/3BUdt8g.png}
+    template: {name: Genre, genre: Science Fiction, poster: https://theposterdb.com/api/assets/69223, background: https://i.imgur.com/3BUdt8g.png}
     summary: Science Fiction (Sci-Fi) film is a genre that incorporates hypothetical, science-based themes into the plot of the film. Often, this genre incorporates futuristic elements and technologies to explore social, political, and philosophical issues. The film itself is usually set in the future, either on earth or in space. Traditionally, a Science Fiction film will incorporate heroes, villains, unexplored locations, fantastical quests, and advanced technology.
   Short:
-    template: {name: Genre, genre: Short, poster: https://theposterdb.com/api/assets/53063, background: https://i.imgur.com/QP5pjYa.jpeg}
-    summary: A collection of Short movies
+    template: {name: Genre, genre: Short, poster: https://theposterdb.com/api/assets/69224, background: https://i.imgur.com/QP5pjYa.jpeg}
+    summary: A short film is any motion picture not long enough in running time to be considered a feature film. The Academy of Motion Picture Arts and Sciences defines a short film as "an original motion picture that has a running time of 40 minutes or less, including all credits".
+  Slasher:
+    template: {name: Trakt, list: https://trakt.tv/users/siskourso/lists/slasher-movies, poster: https://theposterdb.com/api/assets/274337, background: https://i.imgur.com/gR5wBX2.jpg}
   Sports:
-    template: {name: Trakt, list: https://trakt.tv/users/siskourso/lists/sports-movies, poster: https://theposterdb.com/api/assets/60371, background: https://i.imgur.com/8hINP26.jpeg}
+    template: {name: Trakt, list: https://trakt.tv/users/siskourso/lists/sports-movies, poster: https://theposterdb.com/api/assets/69225, background: https://i.imgur.com/8hINP26.jpeg}
     summary: A Sport Film revolves around a sport setting, event, or an athlete. Often, these films will center on a single sporting event that carries significant importance. Sports films traditionally have a simple plot that builds up to the significant sporting event. This genre is known for incorporating film techniques to build anticipation and intensity. Sport films have a large range of sub-genres, from comedies to dramas, and are more likely than other genres to be based true-life events.
+  Spy: 
+    template: {name: Trakt, list: https://trakt.tv/users/siskourso/lists/spy-movies, poster: https://theposterdb.com/api/assets/161223, background: https://i.imgur.com/QWBk1cj.jpg}  
   Stand Up Comedy:
-    template: {name: Trakt, list: https://trakt.tv/users/giladg/lists/stand-up-comedy, poster: https://theposterdb.com/api/assets/74610, background: https://i.imgur.com/Ud0oGzk.jpeg}
+    template: {name: Trakt, list: https://trakt.tv/users/giladg/lists/stand-up-comedy, poster: https://theposterdb.com/api/assets/74611, background: https://i.imgur.com/Ud0oGzk.jpeg}
     summary: Stand-up comedy is a comedic style in which a comedian performs in front of a live audience, speaking directly to them through a microphone. Comedians give the illusion that they are dialoguing, but in actuality, they are monologuing a grouping of humorous stories, jokes and one-liners, typically called a shtick, routine, act, or set. Some stand-up comedians use props, music or magic tricks to enhance their acts. Stand-up comedians perform quasi-autobiographical and fictionalized extensions of their offstage selves.
   Submarine:
     template: {name: Trakt, list: https://trakt.tv/users/siskourso/lists/submarine-movies, poster: https://theposterdb.com/api/assets/260737, background: https://i.imgur.com/sP7ULC4.jpeg}
    # summary: Collection of movies based around or about Submarines.
   Sword & Sorcery:
-    template: {name: Trakt, list: https://trakt.tv/users/siskourso/lists/sword-sorcery-movies, poster: https://theposterdb.com/api/assets/74604, background: https://i.imgur.com/2rvMiHj.jpeg}
+    template: {name: Trakt, list: https://trakt.tv/users/siskourso/lists/sword-sorcery-movies, poster: https://theposterdb.com/api/assets/74605, background: https://i.imgur.com/2rvMiHj.jpeg}
    # summary: Sword and Sorcery film is a sub-genre of Fantasy that tend to be more plot-driven. These films rely on heavy action and battle scenes. Common themes in Sword and Sorcery films include a rescue mission, saving a princess, and battling a fantastical monster. The worlds and characters in these films are often much less developed than in other fantasy sub-genres. Of all the Fantasy sub-genres, Sword and Sorcery is most likely to be geared towards a younger audience, as many of these films are animated.
   Thriller:
-    template: {name: Genre, genre: Thriller, poster: https://theposterdb.com/api/assets/52019, background: https://i.imgur.com/yMV0qiZ.jpeg}
+    template: {name: Genre, genre: Thriller, poster: https://theposterdb.com/api/assets/69226, background: https://i.imgur.com/yMV0qiZ.jpeg}
     summary: Thriller Film is a genre that revolves around anticipation and suspense. The aim for Thrillers is to keep the audience alert and on the edge of their seats. The protagonist in these films is set against a problem – an escape, a mission, or a mystery. No matter what sub-genre a Thriller film falls into, it will emphasize the danger that the protagonist faces. The tension with the main problem is built on throughout the film and leads to a highly stressful climax.
   Time Travel:
-    template: {name: Trakt, list: https://trakt.tv/users/siskourso/lists/time-travel-movies, poster: https://theposterdb.com/api/assets/81440, background: https://i.imgur.com/13pKptT.jpg}
+    template: {name: Trakt, list: https://trakt.tv/users/siskourso/lists/time-travel-movies, poster: https://theposterdb.com/api/assets/215719, background: https://i.imgur.com/13pKptT.jpg}
    # summary: Time Travel is a collection of movies that contains time-travel. In any form. Be it time-loop, full on relocation in time, consciousness transfer... Warning You may find yourself screaming Paradox!,  That's just a risk you have to take.
+  Vampire:
+    template: {name: Trakt, list: https://trakt.tv/users/siskourso/lists/vampire-movies, poster: https://theposterdb.com/api/assets/236515, background: https://i.imgur.com/ZLqt3p6.jpg}
   War:
-    template: {name: Genre, genre: War, poster: https://theposterdb.com/api/assets/51477, background: https://i.imgur.com/mcfwbMN.jpg}
+    template: {name: Genre, genre: War, poster: https://theposterdb.com/api/assets/69227, background: https://i.imgur.com/mcfwbMN.jpg}
     summary: War Film is a genre that looks at the reality of war on a grand scale. They often focus on landmark battles as well as political issues within war. This genre usually focuses on a main character and his team of support, giving the audience an inside look into the gritty reality of war.
+  Werewolf:
+    template: {name: Trakt, list: https://trakt.tv/users/siskourso/lists/werewolf-movies, poster: https://theposterdb.com/api/assets/275895, background: https://i.imgur.com/zVMdC5Z.jpg}
   Western:
-    template: {name: Genre, genre: Western, poster: https://theposterdb.com/api/assets/51774, background: https://i.imgur.com/X5YSG4J.jpg}
+    template: {name: Genre, genre: Western, poster: https://theposterdb.com/api/assets/69228, background: https://i.imgur.com/X5YSG4J.jpg}
     summary: "Western Film is a genre that revolves around stories primarily set in the late 19th century in the American Old West. Most Westerns are set between the American Civil War (1865) and the early 1900s. Common themes within Western Film include: the conquest of the wild west, the cultural separation of the East and the West, the West’s resistance to modern change, the conflict between Cowboys and Indians, outlaws, and treasure/gold hunting. American Western Film usually revolves around a stoic hero and emphasizes the importance of honor and sacrifice."
   Zombie:
     template: {name: Trakt, list: https://trakt.tv/users/siskourso/lists/zombie-movies, poster: https://theposterdb.com/api/assets/275894, background: https://i.imgur.com/jGvLmCq.jpg}  
