@@ -1643,7 +1643,15 @@ metadata:
     url_poster: https://theposterdb.com/api/assets/385766
     seasons:
       1:
-        url_poster: https://theposterdb.com/api/assets/385767              
+        url_poster: https://theposterdb.com/api/assets/385767 
+
+  "Star Wars: Tales of the Empire":
+    match:
+      mapping_id: 448549
+    url_poster: https://theposterdb.com/api/assets/499910
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/499911             
 
   # Star Wars (Live Action) - https://theposterdb.com/set/24300
   The Mandalorian:
@@ -1690,7 +1698,15 @@ metadata:
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/445607
-        summary: Ahsoka Tano, the former Jedi apprentice of Anakin Skywalker during the Clone Wars, seeks to prevent the return of Grand Admiral Thrawn following the fall of the Empire.      
+        summary: Ahsoka Tano, the former Jedi apprentice of Anakin Skywalker during the Clone Wars, seeks to prevent the return of Grand Admiral Thrawn following the fall of the Empire.  
+
+  The Acolyte:
+    match:
+      mapping_id: 393197
+    url_poster: https://theposterdb.com/api/assets/499907
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/499908    
 
   # The Walking Dead - https://theposterdb.com/set/211394
   The Walking Dead:
