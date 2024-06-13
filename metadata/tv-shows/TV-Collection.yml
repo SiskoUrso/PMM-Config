@@ -65,9 +65,9 @@ collections:
     template: {name: Collection, show: "72449, 70851, 83237, 70852, 339552", poster: https://theposterdb.com/api/assets/210311, background: https://i.imgur.com/GenuHMs.jpg}
     summary: Collection of Stargate Tv Shows.
   Star Wars (Animated):
-    template: {name: Collection, show: "83268, 283468, 385376, 393190, 72244, 351575, 330710, 250498, 356114, 393214, 70399, 73697, 334444, 368742, 380516, 358145, 420659, 420658", poster: https://theposterdb.com/api/assets/16243, background: https://i.imgur.com/IQUxJne.jpg}
+    template: {name: Collection, show: "83268, 283468, 385376, 393190, 72244, 351575, 330710, 250498, 356114, 393214, 70399, 73697, 334444, 368742, 380516, 358145, 420659, 420658, 448549", poster: https://theposterdb.com/api/assets/16243, background: https://i.imgur.com/IQUxJne.jpg}
   Star Wars (Live Action):
-    template: {name: Collection, show: "393199, 393187, 380352, 393218, 361753, 393589, 393189, 393188, 83867, 393197, 448549", poster: https://theposterdb.com/api/assets/39679, background: https://i.imgur.com/GdLMZko.jpg}
+    template: {name: Collection, show: "393199, 393187, 380352, 393218, 361753, 393589, 393189, 393188, 83867, 393197", poster: https://theposterdb.com/api/assets/39679, background: https://i.imgur.com/GdLMZko.jpg}
     summary: Collection of Star Wars TV Series.
   Storage Wars:
     template: {name: Collection, show: "207621, 251596, 272737, 264535, 301610, 404281, 430450", poster: https://theposterdb.com/api/assets/49163, background: https://i.imgur.com/sECkQhD.jpg}  
