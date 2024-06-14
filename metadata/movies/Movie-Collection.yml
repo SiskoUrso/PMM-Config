@@ -512,7 +512,7 @@ collections:
   Eraser:
     template: {name: Collection, collection: 985085, poster: https://theposterdb.com/api/assets/261238}
   Ernest:
-    template: {name: Collection, collection: 330555, poster: https://theposterdb.com/api/assets/35570}
+    template: {name: Collection, collection: 330555, poster: https://theposterdb.com/api/assets/14698}
   Escape From ...:
     template: {name: Collection, collection: 115838, poster: https://theposterdb.com/api/assets/67790}
     name_mapping: Escape From
