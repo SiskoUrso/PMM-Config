@@ -5355,6 +5355,23 @@ metadata:
     year: 2010
     url_poster: https://theposterdb.com/api/assets/48972
 
+  # Pee-Wee
+  Pee-wee's Playhouse Christmas Special:
+    match:
+      mapping_id: 49041
+    url_poster: https://theposterdb.com/api/assets/392909
+  Pee-wee's Big Adventure: 
+    match:
+      mapping_id: 5683
+    url_poster: https://theposterdb.com/api/assets/131896
+  Big Top Pee-wee:
+    match:
+      mapping_id: 30502
+    url_poster: https://theposterdb.com/api/assets/131897
+  Pee-wee's Big Holiday:
+    match:
+      mapping_id: 347689
+    url_poster: https://theposterdb.com/api/assets/131898
 
   # Percy Jackson
   "Percy Jackson & the Olympians: The Lightning Thief":

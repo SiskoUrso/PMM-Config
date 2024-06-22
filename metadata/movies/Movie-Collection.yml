@@ -1038,6 +1038,8 @@ collections:
     template: {name: Collection, collection: 105629, poster: https://www.themoviedb.org/t/p/w1280/lj7rDHdscgcYjYOzGk2WchDcIjz.jpg}
   Paranormal Activity:
     template: {name: Collection, collection: 41437, movie: 59429, poster: https://theposterdb.com/api/assets/94529}
+  Pee-wee: 
+    template: {name: Collection, collection: 179244, movie: 49041, poster: https://theposterdb.com/api/assets/392747}
   Percy Jackson:
     template: {name: Collection, collection: 179919, poster: https://theposterdb.com/api/assets/52875}
   Pet Sematary:
