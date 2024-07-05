@@ -808,13 +808,23 @@ metadata:
     year: 1998
     url_poster: https://theposterdb.com/api/assets/20914
 
-  # Beverly Hills Cop
+  # Beverly Hills Cop - https://theposterdb.com/set/254040
   Beverly Hills Cop:
-    url_poster: https://theposterdb.com/api/assets/45077
+    match:
+      mapping_id: 90
+    url_poster: https://theposterdb.com/api/assets/461342
   Beverly Hills Cop II:
-    url_poster: https://theposterdb.com/api/assets/45078
+    match:
+      mapping_id: 96
+    url_poster: https://theposterdb.com/api/assets/461341
   Beverly Hills Cop III:
-    url_poster: https://theposterdb.com/api/assets/45079
+    match:
+      mapping_id: 306
+    url_poster: https://theposterdb.com/api/assets/461340
+  "Beverly Hills Cop: Axel F": 
+    match:
+      mapping_id: 280180
+    url_poster: https://theposterdb.com/api/assets/461339
 
   # Bill & Ted
   Bill & Ted Face the Music:

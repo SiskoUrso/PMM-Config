@@ -217,7 +217,7 @@ collections:
   A Better Tomorrow:
     template: {name: Collection, collection: 99635, poster: https://www.themoviedb.org/t/p/original/b7UQJjwIXLtKejp5FvspTqRh9VP.jpg}
   Beverly Hills Cop:
-    template: {name: Collection, collection: 85861, poster: https://theposterdb.com/api/assets/45076}
+    template: {name: Collection, collection: 85861, poster: https://theposterdb.com/api/assets/461338}
   Bill & Ted's Most Excellent:
     template: {name: Collection, collection: 91746, poster: https://theposterdb.com/api/assets/96794}
   The Birds:
