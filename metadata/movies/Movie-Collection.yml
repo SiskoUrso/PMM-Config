@@ -108,7 +108,7 @@ collections:
   Anastasia:
     template: {name: Collection, collection: 920650, poster: https://theposterdb.com/api/assets/217238}
   Anchorman:
-    template: {name: Collection, collection: 93791, poster: https://theposterdb.com/api/assets/13973}
+    template: {name: Collection, collection: 93791, movie: 9965, poster: https://theposterdb.com/api/assets/13973}
   Angels in the ...:
     template: {name: Collection, collection: 508334, poster: https://theposterdb.com/api/assets/202530}
     name_mapping: Angels in the
