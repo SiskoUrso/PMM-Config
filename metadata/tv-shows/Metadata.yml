@@ -3286,31 +3286,32 @@ metadata:
 
   # CBS (Paramount)
   Teenage Mutant Ninja Turtles:
-    year: 1987
-    url_poster: https://theposterdb.com/api/assets/163236
+    match:
+      mapping_id: 74582
+    url_poster: https://theposterdb.com/api/assets/479012
     seasons:
       0:
-        url_poster: https://theposterdb.com/api/assets/163237
+        url_poster: https://theposterdb.com/api/assets/479149
       1:
-        url_poster: https://theposterdb.com/api/assets/163238
+        url_poster: https://theposterdb.com/api/assets/479150
       2:
-        url_poster: https://theposterdb.com/api/assets/163239
+        url_poster: https://theposterdb.com/api/assets/479151
       3:
-        url_poster: https://theposterdb.com/api/assets/163240
+        url_poster: https://theposterdb.com/api/assets/479152
       4:
-        url_poster: https://theposterdb.com/api/assets/163241
+        url_poster: https://theposterdb.com/api/assets/479153
       5:
-        url_poster: https://theposterdb.com/api/assets/163242
+        url_poster: https://theposterdb.com/api/assets/479154
       6:
-        url_poster: https://theposterdb.com/api/assets/163243
+        url_poster: https://theposterdb.com/api/assets/479155
       7:
-        url_poster: https://theposterdb.com/api/assets/163244
+        url_poster: https://theposterdb.com/api/assets/479156
       8:
-        url_poster: https://theposterdb.com/api/assets/163245
+        url_poster: https://theposterdb.com/api/assets/479157
       9:
-        url_poster: https://theposterdb.com/api/assets/163246
+        url_poster: https://theposterdb.com/api/assets/479158
       10:
-        url_poster: https://theposterdb.com/api/assets/163247
+        url_poster: https://theposterdb.com/api/assets/479159
 
   # Disney+
   "X-Men '97":
