@@ -3102,15 +3102,6 @@ metadata:
         url_poster: https://theposterdb.com/api/assets/101840
 
   # AMC
-  The Terror:
-    year: 2018
-    url_poster: https://theposterdb.com/api/assets/13688
-    seasons: 
-      1: 
-        url_poster: https://theposterdb.com/api/assets/13689
-      2: 
-        url_poster: https://theposterdb.com/api/assets/13690   
-
   Preacher: 
     year: 2016
     url_poster: https://theposterdb.com/api/assets/85275
@@ -3122,7 +3113,30 @@ metadata:
       3: 
         url_poster: https://theposterdb.com/api/assets/236702
       4: 
-        url_poster: https://theposterdb.com/api/assets/236703     
+        url_poster: https://theposterdb.com/api/assets/236703
+
+  Snowpiercer:
+    match:
+      mapping_id: 364928
+    url_poster: https://theposterdb.com/api/assets/199449
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/199450
+      2:
+        url_poster: https://theposterdb.com/api/assets/199451
+      3:
+        url_poster: https://theposterdb.com/api/assets/199452
+      4:
+        url_poster: https://theposterdb.com/api/assets/501874
+
+  The Terror:
+    year: 2018
+    url_poster: https://theposterdb.com/api/assets/13688
+    seasons: 
+      1: 
+        url_poster: https://theposterdb.com/api/assets/13689
+      2: 
+        url_poster: https://theposterdb.com/api/assets/13690        
 
   # Apple+
   Home: 
