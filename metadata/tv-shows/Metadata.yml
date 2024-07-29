@@ -5211,6 +5211,25 @@ metadata:
         url_poster: https://theposterdb.com/api/assets/199154
         summary: The second season, also consisting of eight episodes, was released on December 17, 2021.
 
+  # Starz
+  Spartacus:
+    match:
+      mapping_id: 129261
+    url_poster: https://theposterdb.com/api/assets/49641
+    seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/49642
+        summary: Gods of the Arena
+      1:
+        url_poster: https://theposterdb.com/api/assets/49643
+        summary: Blood and Sand
+      2:
+        url_poster: https://theposterdb.com/api/assets/49644
+        summary: Vengeance 
+      3:
+        url_poster: https://theposterdb.com/api/assets/49645
+        summary: War of the Damned
+
   # SyFy
   Warehouse 13: 
     year: 2009
