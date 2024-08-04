@@ -625,7 +625,7 @@ collections:
   The Gate:
     template: {name: Collection, collection: 340623, poster: https://theposterdb.com/api/assets/23790}
   Gates of Hell:
-    template: {name: Collection, collection: 923500, poster: https://www.themoviedb.org/t/p/original/lWTtyQOLJe12WjQ6HRbIIBDzdyZ.jpg}
+    template: {name: Collection, movie: "24920, 19204, 28794", poster: https://i.imgur.com/RqRl8qJ.jpg}
   George of the Jungle:
     template: {name: Collection, collection: 126221, poster: https://theposterdb.com/api/assets/22402}
   Ghost in the Shell:
@@ -1337,7 +1337,7 @@ collections:
   Thor:
     template: {name: Collection, collection: 131296, poster: https://theposterdb.com/api/assets/4819}
   The Three Mothers:
-    template: {name: Collection, collection: 1229144, poster: https://www.themoviedb.org/t/p/original/8i0s5eiDdCWiAnMfiTchEmPATlc.jpg}
+    template: {name: Collection, movie: "11906, 16395, 15206", poster: https://i.imgur.com/Hcl4Cb0.jpg}
   The Thing:
     template: {name: Collection, collection: 479888, poster: https://theposterdb.com/api/assets/17180}
   Timecop:
