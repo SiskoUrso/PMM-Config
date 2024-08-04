@@ -7728,6 +7728,10 @@ metadata:
     match:
       mapping_id: 528085
     url_poster: https://theposterdb.com/api/assets/138876
+  The Adventures of Baron Munchausen:
+    match:
+      mapping_id: 14506
+      url_poster: https://theposterdb.com/api/assets/306371
   Amadeus:
     match:
       mapping_id: 279
