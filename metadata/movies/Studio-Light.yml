@@ -9,8 +9,8 @@ templates:
     tmdb_company: <<company>>
     sort_title: +5_<<collection_name>>
     sync_mode: sync
-    smart_label: #release.desc
-      sort_by: primary_release_date.desc
+    smart_label: release.desc
+    sort_by: primary_release_date.desc
     url_poster: <<poster>>
 
 collections:
