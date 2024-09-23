@@ -39,7 +39,10 @@ collections:
     summary: Collection of shows from the Dragon Ball series. 
   Frozen Planet: 
     template: {name: Collection, show: "251418, 417395", poster: https://theposterdb.com/api/assets/238198, background: https://i.imgur.com/yzveqUg.png}
-    summary: Collection of Frozen Planet series.    
+    summary: Collection of Frozen Planet series. 
+  Gundam Universe:
+    template: {name: Collection, show: "76547, 71535, 72352, 80785, 80783, 71536, 80784, 79327, 121611, 254931, 74890, 81466, 81104, 396968, 396961, 403849, 80675, 299497, 418364, 142601, 319976, 305171, 252621, 327718, 283929", poster: https://theposterdb.com/api/assets/296594, background: https://i.imgur.com/pUTEvVW.png}
+    summary: Collection of shows from the Gundam Universe.   
   Law & Order:
     template: {name: Collection, show: "72368, 75692, 71489, 328518, 74191, 168161, 383397", poster: https://theposterdb.com/api/assets/57562, background: https://i.imgur.com/6ovPJNP.jpg}
     summary: Collection of Law & Order Series.

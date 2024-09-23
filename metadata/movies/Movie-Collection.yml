@@ -964,6 +964,18 @@ collections:
   "Mission: Impossible":
     template: {name: Collection, collection: 87359, poster: https://theposterdb.com/api/assets/2705}
     name_mapping: Mission Impossible
+  Mobile Suit Gundam:
+    template: {name: Collection, collection: 143302, poster: https://theposterdb.com/api/assets/266725}
+  "Mobile Suit Gundam: The Origin":
+    template: {name: Collection, collection: 376552, poster: https://i.imgur.com/jVj1cok.jpg}
+  Mobile Suit Gundam Thunderbolt:
+    template: {name: Collection, collection: 468692, poster: https://theposterdb.com/api/assets/296741}
+  Mobile Suit Gundam SEED:
+    template: {name: Collection, collection: 802636, poster: https://theposterdb.com/api/assets/296696}
+  Mobile Suit Gundam SEED Destiny:
+    template: {name: Collection, collection: 802649, poster: https://theposterdb.com/api/assets/296722}
+  Mobile Suit Zeta Gundam A New Translation:
+    template: {name: Collection, collection: 143152, poster: https://i.imgur.com/UvdeAR2.jpg}
   Molly Hartley:
     template: {name: Collection, collection: 518876, poster: https://www.themoviedb.org/t/p/original/ikZ6EBNfXGDL0EcmH63oaIaTepI.jpg}
   Monsters, Inc.:
@@ -1370,6 +1382,8 @@ collections:
     template: {name: Collection, collection: 63043, movie: 73362, poster: https://theposterdb.com/api/assets/84596}
   Turbulence:
     template: {name: Collection, collection: 166379, poster: https://theposterdb.com/api/assets/167879}
+  Turn A Gundam:
+    template: {name: Collection, collection: 215614, poster: https://i.imgur.com/bATxm2U.jpg}
   Twilight:
     template: {name: Collection, collection: 33514, poster: https://theposterdb.com/api/assets/70115}
   Twister:
