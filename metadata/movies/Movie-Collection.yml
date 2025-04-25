@@ -52,7 +52,7 @@ collections:
   Addams Family:
     template: {name: Collection, collection: "11716, 750822", poster: https://theposterdb.com/api/assets/53152}
   The Adventures of Young Indiana Jones:
-    template: {name: Trakt, list: https://trakt.tv/lists/1937, poster: https://theposterdb.com/api/assets/375207, background: https://i.imgur.com/K4E8HNs.jpg}  
+    template: {name: Trakt, list: https://trakt.tv/users/siskourso/lists/the-adventures-of-young-indiana-jones, poster: https://theposterdb.com/api/assets/375207, background: https://i.imgur.com/K4E8HNs.jpg}  
   Air Bud:
     template: {name: Collection, collection: 97445, poster: https://theposterdb.com/api/assets/96172}
   Airplane:
@@ -136,8 +136,6 @@ collections:
     template: {name: Collection, collection: 100965, poster: https://theposterdb.com/api/assets/20692}
   Atlas Shrugged:
     template: {name: Collection, collection: 166381, poster: https://theposterdb.com/api/assets/83646}
-  Atomic Blonde:
-    template: {name: Collection, collection: 524837, poster: https://theposterdb.com/api/assets/106203}
   Attack on Titan:
     template: {name: Collection, collection: 370411, poster: https://theposterdb.com/api/assets/26008}
   Attraction:
