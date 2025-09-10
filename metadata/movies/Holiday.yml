@@ -46,7 +46,7 @@ collections:
   Halloween Movies:
     template:
       name: Holiday
-      start_date: 10/01
+      start_date: 09/11
       end_date: 10/31
       poster: https://theposterdb.com/api/assets/102914
     imdb_list:
